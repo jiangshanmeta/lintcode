@@ -7,18 +7,16 @@ const searchMatrix = function (matrix, target) {
     if(matrix.length === 0){
         return false;
     }
-    const N = matrix.length;
-    const M = matrix[0].length;
-    let low = 0;
-    let high = M*N-1;
-    while(low<=high){
-        const mid = (low+high)>>1;
-        const y = mid%M;
-        const x = (mid-y)/M;
-        if(matrix[x][y]<target){
-            low = mid+1;
-        }else if(matrix[x][y]>target){
-            high = mid-1;
+
+    let row = 0;
+    let column = matrix[0].length-1;
+    while(row<matrix.length && column>-1){
+        // 看右上角的元素 若比target大 则这一列都不用看了 若比target小 这一行都不用看了 
+        const node = matrix[row][column];
+        if(node>target){
+            column--;
+        }else if(node<target){
+            row++;
         }else{
             return true;
         }
