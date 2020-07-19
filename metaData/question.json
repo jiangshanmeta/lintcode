@@ -114,21 +114,33 @@
         "difficulty": 3
     },
     {
+        "index": 21,
+        "title": "Moving Circle",
+        "title_slug": "moving-circle",
+        "difficulty": 2
+    },
+    {
         "index": 22,
         "title": "Flatten List",
         "title_slug": "flatten-list",
         "difficulty": 1
     },
     {
-        "index": 23,
-        "title": "Substring in Dict",
-        "title_slug": "substring-in-dict",
-        "difficulty": 2
-    },
-    {
         "index": 24,
         "title": "LFU Cache",
         "title_slug": "lfu-cache",
+        "difficulty": 3
+    },
+    {
+        "index": 26,
+        "title": "inner product",
+        "title_slug": "inner-product",
+        "difficulty": 3
+    },
+    {
+        "index": 27,
+        "title": "abc String",
+        "title_slug": "abc-string",
         "difficulty": 3
     },
     {
@@ -1080,6 +1092,12 @@
         "difficulty": 2
     },
     {
+        "index": 188,
+        "title": "Insert five",
+        "title_slug": "insert-five",
+        "difficulty": 1
+    },
+    {
         "index": 189,
         "title": "First Missing Positive",
         "title_slug": "first-missing-positive",
@@ -1131,6 +1149,12 @@
         "index": 198,
         "title": "Permutation Index II",
         "title_slug": "permutation-index-ii",
+        "difficulty": 2
+    },
+    {
+        "index": 199,
+        "title": "Judge Connection",
+        "title_slug": "judge-connection",
         "difficulty": 2
     },
     {
@@ -1368,6 +1392,12 @@
         "difficulty": 1
     },
     {
+        "index": 240,
+        "title": "Program Check",
+        "title_slug": "program-check",
+        "difficulty": 3
+    },
+    {
         "index": 241,
         "title": "String to Integer",
         "title_slug": "string-to-integer",
@@ -1386,6 +1416,12 @@
         "difficulty": 1
     },
     {
+        "index": 244,
+        "title": "Delete Char",
+        "title_slug": "delete-char",
+        "difficulty": 2
+    },
+    {
         "index": 245,
         "title": "Subtree",
         "title_slug": "subtree",
@@ -1395,7 +1431,7 @@
         "index": 246,
         "title": "Binary Tree Path Sum II",
         "title_slug": "binary-tree-path-sum-ii",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 247,
@@ -1416,15 +1452,165 @@
         "difficulty": 3
     },
     {
+        "index": 250,
+        "title": "Special Palindrome String",
+        "title_slug": "special-palindrome-string",
+        "difficulty": 1
+    },
+    {
+        "index": 251,
+        "title": "Array compression",
+        "title_slug": "array-compression",
+        "difficulty": 2
+    },
+    {
+        "index": 252,
+        "title": "arithmetic matrix",
+        "title_slug": "arithmetic-matrix",
+        "difficulty": 2
+    },
+    {
+        "index": 253,
+        "title": "Minimum Type Way",
+        "title_slug": "minimum-type-way",
+        "difficulty": 2
+    },
+    {
         "index": 254,
         "title": "Drop Eggs",
         "title_slug": "drop-eggs",
         "difficulty": 1
     },
     {
+        "index": 255,
+        "title": "Multi-string search",
+        "title_slug": "multi-string-search",
+        "difficulty": 1
+    },
+    {
+        "index": 256,
+        "title": "The Maximum Order",
+        "title_slug": "the-maximum-order",
+        "difficulty": 3
+    },
+    {
+        "index": 257,
+        "title": "Longest String Chain",
+        "title_slug": "longest-string-chain",
+        "difficulty": 2
+    },
+    {
+        "index": 258,
+        "title": "Map Jump",
+        "title_slug": "map-jump",
+        "difficulty": 3
+    },
+    {
+        "index": 259,
+        "title": "Find the largest Divisor",
+        "title_slug": "find-the-largest-divisor",
+        "difficulty": 2
+    },
+    {
+        "index": 260,
+        "title": "Same Diagonal Elements",
+        "title_slug": "same-diagonal-elements",
+        "difficulty": 1
+    },
+    {
+        "index": 261,
+        "title": "Maximum Connected Area",
+        "title_slug": "maximum-connected-area",
+        "difficulty": 2
+    },
+    {
+        "index": 262,
+        "title": "heir tree",
+        "title_slug": "heir-tree",
+        "difficulty": 2
+    },
+    {
+        "index": 264,
+        "title": "Counting Universal Subarrays",
+        "title_slug": "counting-universal-subarrays",
+        "difficulty": 1
+    },
+    {
+        "index": 265,
+        "title": "Maximum Non-Negative Subarray",
+        "title_slug": "maximum-non-negative-subarray",
+        "difficulty": 1
+    },
+    {
+        "index": 266,
+        "title": "Expect Distance",
+        "title_slug": "expect-distance",
+        "difficulty": 2
+    },
+    {
+        "index": 267,
+        "title": "minimum rest days",
+        "title_slug": "minimum-rest-days",
+        "difficulty": 2
+    },
+    {
+        "index": 268,
+        "title": "Parentheses Score",
+        "title_slug": "parentheses-score",
+        "difficulty": 2
+    },
+    {
+        "index": 269,
+        "title": "two colors' tower",
+        "title_slug": "two-colors-tower",
+        "difficulty": 3
+    },
+    {
+        "index": 270,
+        "title": "Letter Combinations of a Phone Number II",
+        "title_slug": "letter-combinations-of-a-phone-number-ii",
+        "difficulty": 2
+    },
+    {
+        "index": 271,
+        "title": "prefix notation to postfix notation",
+        "title_slug": "prefix-notation-to-postfix-notation",
+        "difficulty": 2
+    },
+    {
         "index": 272,
         "title": "Climbing Stairs II",
         "title_slug": "climbing-stairs-ii",
+        "difficulty": 1
+    },
+    {
+        "index": 273,
+        "title": "Test Strategy",
+        "title_slug": "test-strategy",
+        "difficulty": 2
+    },
+    {
+        "index": 274,
+        "title": "Make binary tree average",
+        "title_slug": "make-binary-tree-average",
+        "difficulty": 4
+    },
+    {
+        "index": 275,
+        "title": "Moving Shed",
+        "title_slug": "moving-shed",
+        "difficulty": 2
+    },
+    {
+        "index": 276,
+        "title": "another zuma",
+        "title_slug": "another-zuma",
+        "difficulty": 2
+    },
+    {
+        "index": 277,
+        "title": "Word Spacing",
+        "title_slug": "word-spacing",
         "difficulty": 1
     },
     {
@@ -1440,6 +1626,24 @@
         "difficulty": 2
     },
     {
+        "index": 280,
+        "title": "Closest City",
+        "title_slug": "closest-city",
+        "difficulty": 1
+    },
+    {
+        "index": 281,
+        "title": "Paint the Ceiling",
+        "title_slug": "paint-the-ceiling",
+        "difficulty": 2
+    },
+    {
+        "index": 282,
+        "title": "Decrypt the String",
+        "title_slug": "decrypt-the-string",
+        "difficulty": 1
+    },
+    {
         "index": 283,
         "title": "Max of 3 Numbers",
         "title_slug": "max-of-3-numbers",
@@ -1452,9 +1656,57 @@
         "difficulty": 2
     },
     {
+        "index": 285,
+        "title": "Tall Building",
+        "title_slug": "tall-building",
+        "difficulty": 2
+    },
+    {
+        "index": 286,
+        "title": "Inversions",
+        "title_slug": "inversions",
+        "difficulty": 3
+    },
+    {
+        "index": 287,
+        "title": "The Competition of View",
+        "title_slug": "the-competition-of-view",
+        "difficulty": 2
+    },
+    {
+        "index": 290,
+        "title": "Sorted Arrangement",
+        "title_slug": "sorted-arrangement",
+        "difficulty": 3
+    },
+    {
+        "index": 291,
+        "title": "Second Diameter",
+        "title_slug": "second-diameter",
+        "difficulty": 2
+    },
+    {
         "index": 292,
         "title": "Sort Anagrams Array",
         "title_slug": "sort-anagrams-array",
+        "difficulty": 1
+    },
+    {
+        "index": 293,
+        "title": "The depth of the tunnel",
+        "title_slug": "the-depth-of-the-tunnel",
+        "difficulty": 2
+    },
+    {
+        "index": 294,
+        "title": "Linked List Simplification",
+        "title_slug": "linked-list-simplification",
+        "difficulty": 1
+    },
+    {
+        "index": 296,
+        "title": "Unique Array",
+        "title_slug": "unique-array",
         "difficulty": 1
     },
     {
@@ -3949,8 +4201,8 @@
     },
     {
         "index": 816,
-        "title": "Traveling Salesman",
-        "title_slug": "traveling-salesman",
+        "title": "Traveling Salesman Problem",
+        "title_slug": "traveling-salesman-problem",
         "difficulty": 3
     },
     {
@@ -5628,6 +5880,12 @@
         "difficulty": 2
     },
     {
+        "index": 1125,
+        "title": "Jump Pillar",
+        "title_slug": "jump-pillar",
+        "difficulty": 2
+    },
+    {
         "index": 1126,
         "title": "Merge Two Binary Trees",
         "title_slug": "merge-two-binary-trees",
@@ -5640,15 +5898,51 @@
         "difficulty": 2
     },
     {
+        "index": 1129,
+        "title": "Smallest Subtree with All the Deepest Nodes",
+        "title_slug": "smallest-subtree-with-all-the-deepest-nodes",
+        "difficulty": 2
+    },
+    {
+        "index": 1130,
+        "title": "Magic circle",
+        "title_slug": "magic-circle",
+        "difficulty": 3
+    },
+    {
+        "index": 1131,
+        "title": "The Function in Permutations",
+        "title_slug": "the-function-in-permutations",
+        "difficulty": 2
+    },
+    {
         "index": 1132,
         "title": "Valid Triangle Number",
         "title_slug": "valid-triangle-number",
         "difficulty": 2
     },
     {
+        "index": 1133,
+        "title": "Group Buy",
+        "title_slug": "group-buy",
+        "difficulty": 1
+    },
+    {
         "index": 1134,
         "title": "Find Duplicate File in System",
         "title_slug": "find-duplicate-file-in-system",
+        "difficulty": 2
+    },
+    {
+        "index": 1135,
+        "title": "Feature extraction",
+        "title_slug": "feature-extraction",
+        "difficulty": 1
+    },
+    {
+        "index": 1136,
+        "title": "High Click Induction Area",
+        "title_slug": "high-click-induction-area",
         "difficulty": 2
     },
     {
@@ -5661,6 +5955,18 @@
         "index": 1138,
         "title": "Can Place Flowers",
         "title_slug": "can-place-flowers",
+        "difficulty": 1
+    },
+    {
+        "index": 1139,
+        "title": "the kth subarray",
+        "title_slug": "the-kth-subarray",
+        "difficulty": 3
+    },
+    {
+        "index": 1141,
+        "title": "The month's days",
+        "title_slug": "the-months-days",
         "difficulty": 1
     },
     {
@@ -5680,6 +5986,24 @@
         "title": "Range Addition II",
         "title_slug": "range-addition-ii",
         "difficulty": 1
+    },
+    {
+        "index": 1145,
+        "title": "Associated query",
+        "title_slug": "associated-query",
+        "difficulty": 1
+    },
+    {
+        "index": 1146,
+        "title": "Chess piece rotation",
+        "title_slug": "chess-piece-rotation",
+        "difficulty": 1
+    },
+    {
+        "index": 1147,
+        "title": "Work Plan",
+        "title_slug": "work-plan",
+        "difficulty": 2
     },
     {
         "index": 1148,
@@ -5712,6 +6036,18 @@
         "difficulty": 3
     },
     {
+        "index": 1153,
+        "title": "string sorting",
+        "title_slug": "string-sorting",
+        "difficulty": 1
+    },
+    {
+        "index": 1154,
+        "title": "Attendance Judgment",
+        "title_slug": "attendance-judgment",
+        "difficulty": 1
+    },
+    {
         "index": 1156,
         "title": "Delete Operation for Two Strings",
         "title_slug": "delete-operation-for-two-strings",
@@ -5722,6 +6058,30 @@
         "title": "Shortest Unsorted Continuous Subarray",
         "title_slug": "shortest-unsorted-continuous-subarray",
         "difficulty": 1
+    },
+    {
+        "index": 1158,
+        "title": "Plant flowers",
+        "title_slug": "plant-flowers",
+        "difficulty": 2
+    },
+    {
+        "index": 1159,
+        "title": "Longest Common Prefix III",
+        "title_slug": "longest-common-prefix-iii",
+        "difficulty": 3
+    },
+    {
+        "index": 1160,
+        "title": "Campus Bikes",
+        "title_slug": "campus-bikes",
+        "difficulty": 2
+    },
+    {
+        "index": 1161,
+        "title": "goods transfer",
+        "title_slug": "goods-transfer",
+        "difficulty": 3
     },
     {
         "index": 1162,
@@ -5745,6 +6105,24 @@
         "index": 1165,
         "title": "Subtree of Another Tree",
         "title_slug": "subtree-of-another-tree",
+        "difficulty": 1
+    },
+    {
+        "index": 1166,
+        "title": "Recommended Results are Scattered",
+        "title_slug": "recommended-results-are-scattered",
+        "difficulty": 1
+    },
+    {
+        "index": 1167,
+        "title": "Top three numbers",
+        "title_slug": "top-three-numbers",
+        "difficulty": 2
+    },
+    {
+        "index": 1168,
+        "title": "array score",
+        "title_slug": "array-score",
         "difficulty": 1
     },
     {
@@ -6270,6 +6648,12 @@
         "difficulty": 2
     },
     {
+        "index": 1258,
+        "title": "Beautiful Subarrays",
+        "title_slug": "beautiful-subarrays",
+        "difficulty": 2
+    },
+    {
         "index": 1259,
         "title": "Integer Replacement",
         "title_slug": "integer-replacement",
@@ -6324,6 +6708,12 @@
         "difficulty": 2
     },
     {
+        "index": 1269,
+        "title": "Handkerchief Throwing",
+        "title_slug": "handkerchief-throwing",
+        "difficulty": 2
+    },
+    {
         "index": 1270,
         "title": "Ransom Note",
         "title_slug": "ransom-note",
@@ -6340,6 +6730,12 @@
         "title": "Kth Smallest Element in a Sorted Matrix",
         "title_slug": "kth-smallest-element-in-a-sorted-matrix",
         "difficulty": 2
+    },
+    {
+        "index": 1273,
+        "title": "Maximum Length of  Increasing String",
+        "title_slug": "maximum-length-of-increasing-string",
+        "difficulty": 3
     },
     {
         "index": 1274,
@@ -6444,6 +6840,12 @@
         "difficulty": 3
     },
     {
+        "index": 1291,
+        "title": "Sports Meeting",
+        "title_slug": "sports-meeting",
+        "difficulty": 2
+    },
+    {
         "index": 1292,
         "title": "Odd Even Linked List",
         "title_slug": "odd-even-linked-list",
@@ -6459,6 +6861,12 @@
         "index": 1294,
         "title": "Power of Three",
         "title_slug": "power-of-three",
+        "difficulty": 1
+    },
+    {
+        "index": 1295,
+        "title": "Prime Factor Statistics",
+        "title_slug": "prime-factor-statistics",
         "difficulty": 1
     },
     {
@@ -6487,8 +6895,8 @@
     },
     {
         "index": 1300,
-        "title": "Nim Game",
-        "title_slug": "nim-game",
+        "title": "Bash Game",
+        "title_slug": "bash-game",
         "difficulty": 1
     },
     {
@@ -6496,6 +6904,12 @@
         "title": "Game of Life",
         "title_slug": "game-of-life",
         "difficulty": 2
+    },
+    {
+        "index": 1302,
+        "title": "People Counting",
+        "title_slug": "people-counting",
+        "difficulty": 1
     },
     {
         "index": 1303,
@@ -6514,6 +6928,12 @@
         "title": "Integer to English Words",
         "title_slug": "integer-to-english-words",
         "difficulty": 2
+    },
+    {
+        "index": 1306,
+        "title": "Travel Plan II",
+        "title_slug": "travel-plan-ii",
+        "difficulty": 3
     },
     {
         "index": 1307,
@@ -6552,6 +6972,12 @@
         "difficulty": 3
     },
     {
+        "index": 1313,
+        "title": "Bipartite Graph",
+        "title_slug": "bipartite-graph",
+        "difficulty": 2
+    },
+    {
         "index": 1314,
         "title": "Power of Two",
         "title_slug": "power-of-two",
@@ -6562,6 +6988,12 @@
         "title": "Summary Ranges",
         "title_slug": "summary-ranges",
         "difficulty": 2
+    },
+    {
+        "index": 1316,
+        "title": "Luck Number",
+        "title_slug": "luck-number",
+        "difficulty": 3
     },
     {
         "index": 1317,
@@ -6594,6 +7026,18 @@
         "difficulty": 2
     },
     {
+        "index": 1322,
+        "title": "Product Equal B",
+        "title_slug": "product-equal-b",
+        "difficulty": 3
+    },
+    {
+        "index": 1323,
+        "title": "Fetch supplies",
+        "title_slug": "fetch-supplies",
+        "difficulty": 2
+    },
+    {
         "index": 1324,
         "title": "Count Primes",
         "title_slug": "count-primes",
@@ -6615,6 +7059,30 @@
         "index": 1327,
         "title": "delete string",
         "title_slug": "delete-string",
+        "difficulty": 1
+    },
+    {
+        "index": 1328,
+        "title": "Double Change",
+        "title_slug": "double-change",
+        "difficulty": 1
+    },
+    {
+        "index": 1329,
+        "title": "Sequence maintenance",
+        "title_slug": "sequence-maintenance",
+        "difficulty": 3
+    },
+    {
+        "index": 1330,
+        "title": "zero matrix",
+        "title_slug": "zero-matrix",
+        "difficulty": 3
+    },
+    {
+        "index": 1331,
+        "title": "English Software",
+        "title_slug": "english-software",
         "difficulty": 1
     },
     {
@@ -6660,10 +7128,22 @@
         "difficulty": 1
     },
     {
+        "index": 1339,
+        "title": "Maximum Range",
+        "title_slug": "maximum-range",
+        "difficulty": 3
+    },
+    {
         "index": 1340,
         "title": "add character",
         "title_slug": "add-character",
         "difficulty": 1
+    },
+    {
+        "index": 1341,
+        "title": "Combine New Numbers",
+        "title_slug": "combine-new-numbers",
+        "difficulty": 2
     },
     {
         "index": 1342,
@@ -6744,6 +7224,12 @@
         "difficulty": 1
     },
     {
+        "index": 1356,
+        "title": "Maximum Points Set",
+        "title_slug": "maximum-points-set",
+        "difficulty": 2
+    },
+    {
         "index": 1357,
         "title": "Path Sum II",
         "title_slug": "path-sum-ii",
@@ -6783,6 +7269,12 @@
         "index": 1363,
         "title": "ZigZag Conversion",
         "title_slug": "zigzag-conversion",
+        "difficulty": 2
+    },
+    {
+        "index": 1364,
+        "title": "the minium distance",
+        "title_slug": "the-minium-distance",
         "difficulty": 2
     },
     {
@@ -7122,6 +7614,12 @@
         "difficulty": 1
     },
     {
+        "index": 1426,
+        "title": "Robot jumping",
+        "title_slug": "robot-jumping",
+        "difficulty": 3
+    },
+    {
         "index": 1427,
         "title": "Split Array into Fibonacci Sequence",
         "title_slug": "split-array-into-fibonacci-sequence",
@@ -7239,7 +7737,7 @@
         "index": 1447,
         "title": "Calculation The Sum Of Path",
         "title_slug": "calculation-the-sum-of-path",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 1448,
@@ -7554,6 +8052,12 @@
         "difficulty": 2
     },
     {
+        "index": 1503,
+        "title": "Give change",
+        "title_slug": "give-change",
+        "difficulty": 1
+    },
+    {
         "index": 1504,
         "title": "Shortest Path to Get All Keys",
         "title_slug": "shortest-path-to-get-all-keys",
@@ -7680,10 +8184,34 @@
         "difficulty": 1
     },
     {
+        "index": 1527,
+        "title": "Majsoul on !",
+        "title_slug": "majsoul-on",
+        "difficulty": 2
+    },
+    {
+        "index": 1528,
+        "title": "number schemes",
+        "title_slug": "number-schemes",
+        "difficulty": 3
+    },
+    {
+        "index": 1529,
+        "title": "Triplet Subarray With Absolute Diff Less Than or Equal to Limit",
+        "title_slug": "triplet-subarray-with-absolute-diff-less-than-or-equal-to-limit",
+        "difficulty": 3
+    },
+    {
         "index": 1530,
         "title": "Encode N-ary Tree to Binary Tree",
         "title_slug": "encode-n-ary-tree-to-binary-tree",
         "difficulty": 3
+    },
+    {
+        "index": 1531,
+        "title": "Automatic Proofreading Program",
+        "title_slug": "automatic-proofreading-program",
+        "difficulty": 2
     },
     {
         "index": 1532,
@@ -7986,6 +8514,12 @@
         "difficulty": 2
     },
     {
+        "index": 1587,
+        "title": "String Segmentation",
+        "title_slug": "string-segmentation",
+        "difficulty": 2
+    },
+    {
         "index": 1588,
         "title": "All Possible Full Binary Trees",
         "title_slug": "all-possible-full-binary-trees",
@@ -8061,6 +8595,12 @@
         "index": 1601,
         "title": "Boats to Save People",
         "title_slug": "boats-to-save-people",
+        "difficulty": 2
+    },
+    {
+        "index": 1602,
+        "title": "Decoded String at Index",
+        "title_slug": "decoded-string-at-index",
         "difficulty": 2
     },
     {
@@ -8322,6 +8862,12 @@
         "difficulty": 3
     },
     {
+        "index": 1649,
+        "title": "Super Lollipop",
+        "title_slug": "super-lollipop",
+        "difficulty": 1
+    },
+    {
         "index": 1656,
         "title": "Legal Number Statistics",
         "title_slug": "legal-number-statistics",
@@ -8502,6 +9048,12 @@
         "difficulty": 3
     },
     {
+        "index": 1723,
+        "title": "Shortest Path in a Grid with Obstacles Elimination",
+        "title_slug": "shortest-path-in-a-grid-with-obstacles-elimination",
+        "difficulty": 2
+    },
+    {
         "index": 1724,
         "title": "Maximum Sum Circular Subarray",
         "title_slug": "maximum-sum-circular-subarray",
@@ -8538,6 +9090,12 @@
         "difficulty": 3
     },
     {
+        "index": 1730,
+        "title": "Spreadsheet Notation Conversion",
+        "title_slug": "spreadsheet-notation-conversion",
+        "difficulty": 1
+    },
+    {
         "index": 1731,
         "title": "Smallest Range II",
         "title_slug": "smallest-range-ii",
@@ -8562,6 +9120,12 @@
         "difficulty": 2
     },
     {
+        "index": 1736,
+        "title": "Throw garbage",
+        "title_slug": "throw-garbage",
+        "difficulty": 2
+    },
+    {
         "index": 1737,
         "title": "Fruit Into Baskets",
         "title_slug": "fruit-into-baskets",
@@ -8572,6 +9136,12 @@
         "title": "Valid Permutations for DI Sequence",
         "title_slug": "valid-permutations-for-di-sequence",
         "difficulty": 3
+    },
+    {
+        "index": 1739,
+        "title": "Numbers At Most N Given Digit Set",
+        "title_slug": "numbers-at-most-n-given-digit-set",
+        "difficulty": 2
     },
     {
         "index": 1740,
@@ -8638,6 +9208,12 @@
         "title": "Minimum Tree Coverage",
         "title_slug": "minimum-tree-coverage",
         "difficulty": 3
+    },
+    {
+        "index": 1772,
+        "title": "Number of collections",
+        "title_slug": "number-of-collections",
+        "difficulty": 4
     },
     {
         "index": 1778,
@@ -8886,9 +9462,27 @@
         "difficulty": 1
     },
     {
+        "index": 1824,
+        "title": "Most Frequent Substring",
+        "title_slug": "most-frequent-substring",
+        "difficulty": 2
+    },
+    {
+        "index": 1825,
+        "title": "Number Change",
+        "title_slug": "number-change",
+        "difficulty": 2
+    },
+    {
         "index": 1827,
         "title": "Number of Ways to Stay in the Same Place After Some Steps II",
         "title_slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps-ii",
+        "difficulty": 3
+    },
+    {
+        "index": 1828,
+        "title": "Lake Escape",
+        "title_slug": "lake-escape",
         "difficulty": 3
     },
     {
@@ -8896,6 +9490,12 @@
         "title": "Array Summarization",
         "title_slug": "array-summarization",
         "difficulty": 1
+    },
+    {
+        "index": 1832,
+        "title": "Minimum Step",
+        "title_slug": "minimum-step",
+        "difficulty": 2
     },
     {
         "index": 1833,
@@ -8940,6 +9540,12 @@
         "difficulty": 2
     },
     {
+        "index": 1848,
+        "title": "Word Search III",
+        "title_slug": "word-search-iii",
+        "difficulty": 3
+    },
+    {
         "index": 1849,
         "title": "Grumpy Bookstore Owner",
         "title_slug": "grumpy-bookstore-owner",
@@ -8974,6 +9580,12 @@
         "title": "Partition Array III",
         "title_slug": "partition-array-iii",
         "difficulty": 1
+    },
+    {
+        "index": 1855,
+        "title": "Reach Destination",
+        "title_slug": "reach-destination",
+        "difficulty": 3
     },
     {
         "index": 1856,
@@ -9037,8 +9649,8 @@
     },
     {
         "index": 1870,
-        "title": "String Count",
-        "title_slug": "string-count",
+        "title": "number of substrings with all zeroes",
+        "title_slug": "number-of-substrings-with-all-zeroes",
         "difficulty": 2
     },
     {
@@ -9046,6 +9658,12 @@
         "title": "Maximum moment",
         "title_slug": "maximum-moment",
         "difficulty": 1
+    },
+    {
+        "index": 1872,
+        "title": "Minimum Cost to Connect Sticks",
+        "title_slug": "minimum-cost-to-connect-sticks",
+        "difficulty": 2
     },
     {
         "index": 1874,
@@ -9078,10 +9696,22 @@
         "difficulty": 3
     },
     {
+        "index": 1880,
+        "title": "Largest Number X Which Occurs X Times",
+        "title_slug": "largest-number-x-which-occurs-x-times",
+        "difficulty": 1
+    },
+    {
         "index": 1881,
         "title": "Aircraft seat",
         "title_slug": "aircraft-seat",
         "difficulty": 1
+    },
+    {
+        "index": 1882,
+        "title": "Fair Indexes",
+        "title_slug": "fair-indexes",
+        "difficulty": 2
     },
     {
         "index": 1883,
@@ -9132,6 +9762,18 @@
         "difficulty": 2
     },
     {
+        "index": 1891,
+        "title": "Travel Plan",
+        "title_slug": "travel-plan",
+        "difficulty": 2
+    },
+    {
+        "index": 1892,
+        "title": "Mine-sweeping",
+        "title_slug": "mine-sweeping",
+        "difficulty": 2
+    },
+    {
         "index": 1893,
         "title": "the Valid String",
         "title_slug": "the-valid-string",
@@ -9144,15 +9786,63 @@
         "difficulty": 1
     },
     {
+        "index": 1895,
+        "title": "Arrange interview city",
+        "title_slug": "arrange-interview-city",
+        "difficulty": 1
+    },
+    {
         "index": 1896,
         "title": "Pick Carrots",
         "title_slug": "pick-carrots",
         "difficulty": 1
     },
     {
+        "index": 1897,
+        "title": "Meeting Room III",
+        "title_slug": "meeting-room-iii",
+        "difficulty": 2
+    },
+    {
+        "index": 1899,
+        "title": "Fetch supplies II",
+        "title_slug": "fetch-supplies-ii",
+        "difficulty": 2
+    },
+    {
+        "index": 1900,
+        "title": "Gene Similarity",
+        "title_slug": "gene-similarity",
+        "difficulty": 3
+    },
+    {
+        "index": 1901,
+        "title": "Squares of a Sorted Array",
+        "title_slug": "squares-of-a-sorted-array",
+        "difficulty": 1
+    },
+    {
         "index": 1902,
         "title": "Find Google",
         "title_slug": "find-google",
+        "difficulty": 1
+    },
+    {
+        "index": 1903,
+        "title": "Department Statistics",
+        "title_slug": "department-statistics",
+        "difficulty": 1
+    },
+    {
+        "index": 1904,
+        "title": "Put small balls",
+        "title_slug": "put-small-balls",
+        "difficulty": 3
+    },
+    {
+        "index": 1905,
+        "title": "Character deletion",
+        "title_slug": "character-deletion",
         "difficulty": 1
     }
 ]
