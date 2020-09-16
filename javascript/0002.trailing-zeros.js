@@ -5,9 +5,9 @@
 const trailingZeros = function (n) {
     let count = 0;
     let base = 5;
-    while(base<=n){
-        count += Math.floor(n/base);
+    while (base <= n) {
+        count += Math.floor(n / base);
         base *= 5;
     }
     return count;
-}
+};

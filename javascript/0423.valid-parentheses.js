@@ -5,23 +5,23 @@
 const isValidParentheses = function (s) {
     const stack = [];
     const left = {
-        '[':true,
-        '{':true,
-        '(':true,
-    }
+        '[': true,
+        '{': true,
+        '(': true,
+    };
     const right2left = {
-        '}':'{',
-        ']':'[',
-        ')':'(',
-    }
-    for(let i=0;i<s.length;i++){
-        if(left[s[i]]){
+        '}': '{',
+        ']': '[',
+        ')': '(',
+    };
+    for (let i = 0; i < s.length; i++) {
+        if (left[s[i]]) {
             stack.push(s[i]);
-        }else if(stack.length && stack[stack.length-1] === right2left[s[i]]){
+        } else if (stack.length && stack[stack.length - 1] === right2left[s[i]]) {
             stack.pop();
-        }else{
+        } else {
             return false;
         }
     }
     return stack.length === 0;
-}
+};

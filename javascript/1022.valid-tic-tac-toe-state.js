@@ -5,16 +5,16 @@
 const validTicTacToe = function (board) {
     let xCount = 0;
     let oCount = 0;
-    for(let i=0;i<3;i++){
-        for(let j=0;j<3;j++){
-            if(board[i][j] === 'X'){
+    for (let i = 0; i < 3; i++) {
+        for (let j = 0; j < 3; j++) {
+            if (board[i][j] === 'X') {
                 xCount++;
-            }else if(board[i][j] === 'O'){
+            } else if (board[i][j] === 'O') {
                 oCount++;
             }
         }
     }
-    if(xCount>oCount+1 || xCount<oCount){
+    if (xCount > oCount + 1 || xCount < oCount) {
         return false;
     }
 
@@ -27,9 +27,8 @@ const validTicTacToe = function (board) {
         (board[0][2] === 'X' && board[1][1] === 'X' && board[2][0] === 'X')
     );
 
-    if(xWin && xCount !== oCount+1){
+    if (xWin && xCount !== oCount + 1) {
         return false;
     }
     return true;
-}
-
+};

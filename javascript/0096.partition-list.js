@@ -8,11 +8,11 @@ const partition = function (head, x) {
     const dummy = new ListNode();
     let smallerLast = smallerDummy;
     let last = dummy;
-    while(head){
-        if(head.val < x){
+    while (head) {
+        if (head.val < x) {
             smallerLast.next = head;
             smallerLast = smallerLast.next;
-        }else{
+        } else {
             last.next = head;
             last = last.next;
         }
@@ -21,5 +21,4 @@ const partition = function (head, x) {
     smallerLast.next = dummy.next;
     last.next = null;
     return smallerDummy.next;
-}
-
+};

@@ -7,32 +7,32 @@ const reverseKGroup = function (head, k) {
     const dummyHead = new ListNode();
     let prev = dummyHead;
     const reverseDummyHead = new ListNode();
-    while(head){
+    while (head) {
         const start = head;
         let last = head;
         head = head.next;
         let count = 1;
-        while(head && count<k){
+        while (head && count < k) {
             last = head;
             head = head.next;
             count++;
         }
-        if(count === k){
+        if (count === k) {
             last.next = null;
-            prev.next = reverse(start,reverseDummyHead);
-            while(prev.next){
+            prev.next = reverse(start, reverseDummyHead);
+            while (prev.next) {
                 prev = prev.next;
             }
-        }else{
+        } else {
             prev.next = start;
             break;
         }
     }
     return dummyHead.next;
-}
+};
 
-function reverse(head,dummyHead){
-    while(head){
+function reverse (head, dummyHead) {
+    while (head) {
         const next = head.next;
         head.next = dummyHead.next;
         dummyHead.next = head;

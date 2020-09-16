@@ -10,14 +10,14 @@ const maxProduct = function (nums) {
     let maxVal = nums[0];
     let lastMax = nums[0];
     let lastMin = nums[0];
-    for(let i=1;i<nums.length;i++){
-        const multi1 = lastMax*nums[i];
-        const multi2 = lastMin*nums[i];
+    for (let i = 1; i < nums.length; i++) {
+        const multi1 = lastMax * nums[i];
+        const multi2 = lastMin * nums[i];
         // 以第i个元素为结尾的最大值
-        lastMax = Math.max(multi1,multi2,nums[i]);
+        lastMax = Math.max(multi1, multi2, nums[i]);
         // 以第i个元素为结尾的最小值
-        lastMin = Math.min(multi1,multi2,nums[i]);
-        maxVal = Math.max(maxVal,lastMax);
+        lastMin = Math.min(multi1, multi2, nums[i]);
+        maxVal = Math.max(maxVal, lastMax);
     }
     return maxVal;
-}
+};

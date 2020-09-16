@@ -4,12 +4,12 @@
  */
 const inorderTraversal = function (root) {
     const result = [];
-    root && inOrder(root,result);
+    root && inOrder(root, result);
     return result;
-}
+};
 
-function inOrder(root,result){
-    root.left && inOrder(root.left,result);
+function inOrder (root, result) {
+    root.left && inOrder(root.left, result);
     result.push(root.val);
-    root.right && inOrder(root.right,result);
+    root.right && inOrder(root.right, result);
 }

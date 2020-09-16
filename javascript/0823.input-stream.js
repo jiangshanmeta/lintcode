@@ -6,28 +6,27 @@
 const inputStream = function (inputA, inputB) {
     const stackA = [];
     const stackB = [];
-    for(let i=0;i<inputA.length;i++){
-        if(inputA[i] === '<'){
+    for (let i = 0; i < inputA.length; i++) {
+        if (inputA[i] === '<') {
             stackA.pop();
-        }else{
+        } else {
             stackA.push(inputA[i]);
         }
     }
-    for(let i=0;i<inputB.length;i++){
-        if(inputB[i] === '<'){
+    for (let i = 0; i < inputB.length; i++) {
+        if (inputB[i] === '<') {
             stackB.pop();
-        }else{
+        } else {
             stackB.push(inputB[i]);
         }
     }
-    if(stackA.length !== stackB.length){
-        return "NO";
+    if (stackA.length !== stackB.length) {
+        return 'NO';
     }
-    for(let i=0;i<stackA.length;i++){
-        if(stackA[i] !== stackB[i]){
-            return "NO";
+    for (let i = 0; i < stackA.length; i++) {
+        if (stackA[i] !== stackB[i]) {
+            return 'NO';
         }
     }
-    return "YES";
-}
-
+    return 'YES';
+};

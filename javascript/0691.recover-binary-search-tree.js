@@ -4,15 +4,15 @@
  */
 const bstSwappedNode = function (root) {
     const sequence = [];
-    inOrder(root,sequence);
+    inOrder(root, sequence);
 
-    for(let i=0;i<sequence.length-1;i++){
+    for (let i = 0; i < sequence.length - 1; i++) {
         // 找到那个大的
-        if(sequence[i].val>sequence[i+1].val){
+        if (sequence[i].val > sequence[i + 1].val) {
             // 找到那个小的
-            let j = i+1;
-            for(let k=j;k<sequence.length;k++){
-                if(sequence[k].val<sequence[k-1].val){
+            let j = i + 1;
+            for (let k = j; k < sequence.length; k++) {
+                if (sequence[k].val < sequence[k - 1].val) {
                     j = k;
                 }
             }
@@ -22,10 +22,10 @@ const bstSwappedNode = function (root) {
         }
     }
     return root;
-}
+};
 
-function inOrder(root,sequence){
-    root.left && inOrder(root.left,sequence);
+function inOrder (root, sequence) {
+    root.left && inOrder(root.left, sequence);
     sequence.push(root);
-    root.right && inOrder(root.right,sequence);
+    root.right && inOrder(root.right, sequence);
 }

@@ -5,22 +5,21 @@
  */
 const closestValue = function (root, target) {
     let result = root.val;
-    let minDiff = Math.abs(target-root.val);
-    while(root){
-        if(root.val === target){
+    let minDiff = Math.abs(target - root.val);
+    while (root) {
+        if (root.val === target) {
             return root.val;
         }
-        const diff = Math.abs(target-root.val);
-        if(diff<minDiff){
+        const diff = Math.abs(target - root.val);
+        if (diff < minDiff) {
             result = root.val;
             minDiff = diff;
         }
-        if(target>root.val){
+        if (target > root.val) {
             root = root.right;
-        }else{
+        } else {
             root = root.left;
         }
     }
     return result;
-}
-
+};

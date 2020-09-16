@@ -3,10 +3,10 @@
  * @return: The maximum amount of money you can rob tonight
  */
 const houseRobber2 = function (nums) {
-    if(nums.length === 0){
+    if (nums.length === 0) {
         return 0;
     }
-    if(nums.length<3){
+    if (nums.length < 3) {
         return Math.max(...nums);
     }
     // 使用第一个
@@ -18,14 +18,13 @@ const houseRobber2 = function (nums) {
     const withoutFirst = new Array(nums.length);
     withoutFirst[0] = 0;
     withoutFirst[1] = nums[1];
-    for(let i=2;i<nums.length;i++){
-        withFirst[i] = Math.max(withFirst[i-1],withFirst[i-2]+nums[i]);
-        withoutFirst[i] = Math.max(withoutFirst[i-1],withoutFirst[i-2]+nums[i]);
+    for (let i = 2; i < nums.length; i++) {
+        withFirst[i] = Math.max(withFirst[i - 1], withFirst[i - 2] + nums[i]);
+        withoutFirst[i] = Math.max(withoutFirst[i - 1], withoutFirst[i - 2] + nums[i]);
     }
-    
-    return Math.max(
-        withoutFirst[withoutFirst.length-1],
-        withFirst[withFirst.length-2]
-    );
-}
 
+    return Math.max(
+        withoutFirst[withoutFirst.length - 1],
+        withFirst[withFirst.length - 2]
+    );
+};

@@ -6,14 +6,14 @@ const deleteDuplicates = function (head) {
     const dummyHead = {};
     dummyHead.next = head;
     let prev = dummyHead;
-    while(head){
-        if(head.val === prev.val){
+    while (head) {
+        if (head.val === prev.val) {
             prev.next = head.next;
-        }else{
+        } else {
             prev = head;
         }
         head = head.next;
     }
 
     return dummyHead.next;
-}
+};

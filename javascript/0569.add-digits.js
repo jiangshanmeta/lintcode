@@ -4,6 +4,5 @@
  */
 const addDigits = function (num) {
     // https://en.wikipedia.org/wiki/Digital_root  求数根
-    return (num-1)%9+1;
-}
-
+    return (num - 1) % 9 + 1;
+};

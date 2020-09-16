@@ -6,12 +6,12 @@ const maximumSwap = function (num) {
     const list = String(num).split('');
     const stackNum = [];
     const stackIndex = [];
-    for(let i=0;i<list.length;i++){
+    for (let i = 0; i < list.length; i++) {
         const item = +list[i];
         // 重点就是这个循环了
-        while(stackNum.length && item>=stackNum[stackNum.length-1]){
+        while (stackNum.length && item >= stackNum[stackNum.length - 1]) {
             // 相等的情况 如果是在本来的位置 不动
-            if(item === stackNum[stackNum.length-1] && stackIndex[stackIndex.length-1] === stackIndex.length-1){
+            if (item === stackNum[stackNum.length - 1] && stackIndex[stackIndex.length - 1] === stackIndex.length - 1) {
                 break;
             }
             stackNum.pop();
@@ -20,8 +20,8 @@ const maximumSwap = function (num) {
         stackNum.push(item);
         stackIndex.push(i);
     }
-    for(let i=0;i<stackNum.length;i++){
-        if(i !== stackIndex[i]){
+    for (let i = 0; i < stackNum.length; i++) {
+        if (i !== stackIndex[i]) {
             const index = stackIndex[i];
             const tmp = list[index];
             list[index] = list[i];
@@ -30,4 +30,4 @@ const maximumSwap = function (num) {
         }
     }
     return num;
-}
+};

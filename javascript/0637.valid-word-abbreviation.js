@@ -6,31 +6,29 @@
 const validWordAbbreviation = function (word, abbr) {
     let index1 = 0;
     let index2 = 0;
-    while(index1<word.length && index2<abbr.length){
+    while (index1 < word.length && index2 < abbr.length) {
         const code = abbr.charCodeAt(index2);
-        if(isDigit(code)){
+        if (isDigit(code)) {
             let num = +abbr[index2++];
-            if(num === 0){
+            if (num === 0) {
                 return false;
             }
-            while(index2<abbr.length && isDigit(abbr.charCodeAt(index2))){
-                num = num*10+(+abbr[index2++]);
+            while (index2 < abbr.length && isDigit(abbr.charCodeAt(index2))) {
+                num = num * 10 + (+abbr[index2++]);
             }
 
             index1 += num;
-        }else {
-            if(word[index1] !== abbr[index2]){
+        } else {
+            if (word[index1] !== abbr[index2]) {
                 return false;
             }
             index1++;
             index2++;
         }
-
     }
     return index1 === word.length && index2 === abbr.length;
-}
+};
 
-function isDigit(code){
-    return code>47 && code<58;
+function isDigit (code) {
+    return code > 47 && code < 58;
 }
-

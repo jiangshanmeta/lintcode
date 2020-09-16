@@ -4,13 +4,12 @@
  */
 const minAddToMakeValid = function (S) {
     const stack = [];
-    for(let i=0;i<S.length;i++){
-        if(S[i] === ')' && stack.length && stack[stack.length-1] === '('){
+    for (let i = 0; i < S.length; i++) {
+        if (S[i] === ')' && stack.length && stack[stack.length - 1] === '(') {
             stack.pop();
-        }else{
+        } else {
             stack.push(S[i]);
         }
     }
     return stack.length;
-}
-
+};

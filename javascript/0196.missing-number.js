@@ -4,24 +4,23 @@
  */
 const findMissing = function (nums) {
     let index = 0;
-    while(index<nums.length){
-        if(nums[index] === index){
+    while (index < nums.length) {
+        if (nums[index] === index) {
             index++;
             continue;
         }
-        if(nums[nums[index]] !== nums[index]){
+        if (nums[nums[index]] !== nums[index]) {
             const tmp = nums[nums[index]];
             nums[nums[index]] = nums[index];
             nums[index] = tmp;
-        }else{
+        } else {
             index++;
         }
     }
-    for(let i=0;i<nums.length;i++){
-        if(nums[i] !== i){
+    for (let i = 0; i < nums.length; i++) {
+        if (nums[i] !== i) {
             return i;
         }
     }
     return nums.length;
-}
-
+};

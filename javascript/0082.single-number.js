@@ -4,9 +4,8 @@
  */
 const singleNumber = function (A) {
     let result = 0;
-    for(let i=0;i<A.length;i++){
-        result = result^A[i];
+    for (let i = 0; i < A.length; i++) {
+        result = result ^ A[i];
     }
     return result;
-}
-
+};

@@ -5,16 +5,15 @@
 const largeGroupPositions = function (S) {
     const result = [];
     let index = 0;
-    while(index<S.length){
+    while (index < S.length) {
         const start = index;
         const char = S[index++];
-        while(index<S.length && S[index] === char){
+        while (index < S.length && S[index] === char) {
             index++;
         }
-        if(index-start>2){
-            result.push([start,index-1]);
+        if (index - start > 2) {
+            result.push([start, index - 1, ]);
         }
     }
     return result;
-}
-
+};

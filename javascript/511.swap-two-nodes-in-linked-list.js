@@ -7,21 +7,20 @@
 const swapNodes = function (head, v1, v2) {
     let node1 = head;
     let node2 = head;
-    while(node1 && node1.val !== v1){
+    while (node1 && node1.val !== v1) {
         node1 = node1.next;
     }
-    if(!node1){
+    if (!node1) {
         return head;
     }
-    while(node2 && node2.val !== v2){
+    while (node2 && node2.val !== v2) {
         node2 = node2.next;
     }
-    if(!node2){
+    if (!node2) {
         return head;
     }
     const tmp = node1.val;
     node1.val = node2.val;
     node2.val = tmp;
     return head;
-}
-
+};

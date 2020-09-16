@@ -4,15 +4,14 @@
  * @return: the node
  */
 const searchBST = function (root, val) {
-    while(root){
-        if(root.val>val){
+    while (root) {
+        if (root.val > val) {
             root = root.left;
-        }else if(root.val<val){
+        } else if (root.val < val) {
             root = root.right;
-        }else{
+        } else {
             return root;
         }
     }
     return null;
-}
-
+};

@@ -1,0 +1,31 @@
+{
+  "name": "lintcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint javascript/ .eslintrc.js scripts/ --fix",
+    "generate": "node scripts/generate.js",
+    "question": "node scripts/question.js",
+    "sync": "node scripts/sync.js",
+    "append":"node scripts/append.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangshanmeta/lintcode.git"
+  },
+  "author": "jiangshanmeta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiangshanmeta/lintcode/issues"
+  },
+  "homepage": "https://github.com/jiangshanmeta/lintcode#readme",
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}

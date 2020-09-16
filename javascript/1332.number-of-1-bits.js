@@ -1,8 +1,8 @@
 const hammingWeight = function (n) {
     let count = 0;
-    while(n){
+    while (n) {
         count++;
-        n = n&(n-1);
+        n = n & (n - 1);
     }
     return count;
-}
+};

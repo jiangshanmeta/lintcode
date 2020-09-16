@@ -3,7 +3,7 @@
  * @return: Modified linked list
  */
 const oddEvenList = function (head) {
-    if(!head || !head.next){
+    if (!head || !head.next) {
         return head;
     }
 
@@ -13,13 +13,13 @@ const oddEvenList = function (head) {
     let evenLast = evenDummyHead;
     let isOdd = true;
 
-    while(head){
-        let next = head.next;
+    while (head) {
+        const next = head.next;
         head.next = null;
-        if(isOdd){
+        if (isOdd) {
             oddLast.next = head;
             oddLast = head;
-        }else{
+        } else {
             evenLast.next = head;
             evenLast = head;
         }
@@ -28,5 +28,4 @@ const oddEvenList = function (head) {
     }
     oddLast.next = evenDummyHead.next;
     return oddDummyHead.next;
-}
-
+};

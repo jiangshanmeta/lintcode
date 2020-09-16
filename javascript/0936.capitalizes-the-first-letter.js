@@ -5,17 +5,17 @@
 const capitalizesFirst = function (s) {
     const result = [];
     let lastIsSpace = true;
-    for(let i=0;i<s.length;i++){
-        if(s[i] === ' '){
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] === ' ') {
             lastIsSpace = true;
             result.push(s[i]);
-        }else if(lastIsSpace){
+        } else if (lastIsSpace) {
             lastIsSpace = false;
             result.push(s[i].toUpperCase());
-        }else{
+        } else {
             result.push(s[i]);
         }
     }
 
     return result.join('');
-}
+};

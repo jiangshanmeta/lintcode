@@ -5,20 +5,20 @@
 const reverseWords = function (s) {
     const result = [];
     const stack = [];
-    for(let i=0;i<s.length;i++){
-        if(s[i] === ' '){
-            while(stack.length){
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] === ' ') {
+            while (stack.length) {
                 result.push(stack.pop());
             }
             result.push(s[i]);
-        }else{
+        } else {
             stack.push(s[i]);
         }
     }
 
-    while(stack.length){
+    while (stack.length) {
         result.push(stack.pop());
     }
 
     return result.join('');
-}
+};

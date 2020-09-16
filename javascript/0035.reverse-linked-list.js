@@ -4,11 +4,11 @@
  */
 const reverse = function (head) {
     const dummyHead = new ListNode();
-    while(head){
+    while (head) {
         const next = head.next;
         head.next = dummyHead.next;
         dummyHead.next = head;
         head = next;
     }
     return dummyHead.next;
-}
+};

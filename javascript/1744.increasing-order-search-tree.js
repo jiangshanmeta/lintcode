@@ -3,15 +3,15 @@
  * @return: Root of a tree
  */
 const increasingBST = function (root) {
-    if(!root){
+    if (!root) {
         return root;
     }
     root.right = increasingBST(root.right);
 
-    if(root.left){
+    if (root.left) {
         const leftRoot = increasingBST(root.left);
         let last = leftRoot;
-        while(last.right){
+        while (last.right) {
             last = last.right;
         }
         last.right = root;
@@ -19,4 +19,4 @@ const increasingBST = function (root) {
         return leftRoot;
     }
     return root;
-}
+};

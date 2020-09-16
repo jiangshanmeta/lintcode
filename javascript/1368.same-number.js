@@ -5,13 +5,13 @@
  */
 const sameNumber = function (nums, k) {
     const indexMap = {};
-    for(let i=0;i<nums.length;i++){
-        if(indexMap[nums[i]] !== undefined && (i-indexMap[nums[i]]<k) ){
-            return "YES"
+    for (let i = 0; i < nums.length; i++) {
+        if (indexMap[nums[i]] !== undefined && (i - indexMap[nums[i]] < k)) {
+            return 'YES';
         }
         indexMap[nums[i]] = i;
     }
-    return "NO"
-}
+    return 'NO';
+};
 
-console.log(sameNumber([1,2,3,1,5,9,3],4))
+console.log(sameNumber([1, 2, 3, 1, 5, 9, 3, ], 4));

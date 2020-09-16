@@ -6,12 +6,12 @@
  */
 const rangeSumBST = function (root, L, R) {
     let result = 0;
-    function helper(node){
-        if(node.val>R){
+    function helper (node) {
+        if (node.val > R) {
             node.left && helper(node.left);
-        }else if(node.val<L){
+        } else if (node.val < L) {
             node.right && helper(node.right);
-        }else{
+        } else {
             result += node.val;
             node.left && helper(node.left);
             node.right && helper(node.right);
@@ -19,4 +19,4 @@ const rangeSumBST = function (root, L, R) {
     }
     root && helper(root);
     return result;
-}
+};

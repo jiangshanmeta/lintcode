@@ -4,12 +4,12 @@
  */
 const postorderTraversal = function (root) {
     const result = [];
-    root && postOrder(root,result);
+    root && postOrder(root, result);
     return result;
-}
+};
 
-function postOrder(root,result){
-    root.left && postOrder(root.left,result);
-    root.right && postOrder(root.right,result);
+function postOrder (root, result) {
+    root.left && postOrder(root.left, result);
+    root.right && postOrder(root.right, result);
     result.push(root.val);
 }

@@ -5,22 +5,20 @@
  */
 const kthSmallest = function (root, k) {
     const stack = [];
-    while(root){
+    while (root) {
         stack.push(root);
         root = root.left;
     }
-    while(true){
+    while (true) {
         k--;
         root = stack.pop();
-        if(!k){
+        if (!k) {
             return root.val;
         }
         root = root.right;
-        while(root){
+        while (root) {
             stack.push(root);
             root = root.left;
         }
     }
-
-}
-
+};

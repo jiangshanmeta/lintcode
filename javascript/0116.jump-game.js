@@ -7,10 +7,9 @@ const canJump = function (A) {
     let rightIndex = 0;
     // leftIndex 要探寻的索引
     let leftIndex = 0;
-    while(leftIndex<A.length && leftIndex<=rightIndex){
-        rightIndex = Math.max(rightIndex,leftIndex+A[leftIndex]);
+    while (leftIndex < A.length && leftIndex <= rightIndex) {
+        rightIndex = Math.max(rightIndex, leftIndex + A[leftIndex]);
         leftIndex++;
     }
-    return rightIndex>=A.length-1;
-}
-
+    return rightIndex >= A.length - 1;
+};

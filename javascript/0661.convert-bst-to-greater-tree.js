@@ -3,18 +3,18 @@
  * @return: the new root
  */
 const convertBST = function (root) {
-    if(!root){
+    if (!root) {
         return root;
     }
 
     let sum = 0;
-    function getSum(node){
+    function getSum (node) {
         sum += node.val;
         node.left && getSum(node.left);
         node.right && getSum(node.right);
     }
     getSum(root);
-    function convert(node){
+    function convert (node) {
         node.left && convert(node.left);
         sum -= node.val;
         node.val += sum;
@@ -22,4 +22,4 @@ const convertBST = function (root) {
     }
     convert(root);
     return root;
-}
+};

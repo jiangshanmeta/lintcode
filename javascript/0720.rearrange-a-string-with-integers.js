@@ -5,16 +5,16 @@
 const rearrange = function (str) {
     let sum = 0;
     let hasDigit = false;
-    let result = [];
-    for(let i=0;i<str.length;i++){
+    const result = [];
+    for (let i = 0; i < str.length; i++) {
         const code = str.charCodeAt(i);
-        if(code>64){
+        if (code > 64) {
             result.push(str[i]);
-        }else{
+        } else {
             sum += (+str[i]);
             hasDigit = true;
         }
     }
 
-    return `${result.sort().join('')}${hasDigit?sum:''}`;
-}
+    return `${result.sort().join('')}${hasDigit ? sum : ''}`;
+};

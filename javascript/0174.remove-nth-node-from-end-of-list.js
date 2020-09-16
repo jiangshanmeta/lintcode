@@ -7,15 +7,14 @@ const removeNthFromEnd = function (head, n) {
     const dummyHead = new ListNode(0);
     dummyHead.next = head;
     last = dummyHead;
-    while(n--){
+    while (n--) {
         head = head.next;
     }
-    while(head){
+    while (head) {
         head = head.next;
         last = last.next;
     }
     last.next = last.next.next;
 
     return dummyHead.next;
-}
-
+};

@@ -5,20 +5,19 @@
 const isHappy = function (n) {
     const map = {};
     map[n] = true;
-    while (n !== 1){
+    while (n !== 1) {
         let newNum = 0;
-        while(n){
-            const digit = n%10;
-            newNum += digit*digit;
-            n = (n-digit)/10;
+        while (n) {
+            const digit = n % 10;
+            newNum += digit * digit;
+            n = (n - digit) / 10;
         }
-        console.log(newNum)
-        if(map[newNum]){
+        console.log(newNum);
+        if (map[newNum]) {
             return false;
         }
         map[newNum] = true;
         n = newNum;
     }
     return true;
-}
-
+};

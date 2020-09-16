@@ -1,7 +1,7 @@
 /**
  * @param A: an integer array
- * @return: 
+ * @return:
  */
 const sortIntegers = function (A) {
-    return A.sort((a,b)=>a-b);
-}
+    return A.sort((a, b) => a - b);
+};

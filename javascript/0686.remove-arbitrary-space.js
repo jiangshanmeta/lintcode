@@ -4,19 +4,19 @@
  */
 const removeExtra = function (s) {
     const result = [];
-    for(let i=0;i<s.length;i++){
-        if(s[i] === ' '){
-            if(result.length && result[result.length-1] !== ' '){
+    for (let i = 0; i < s.length; i++) {
+        if (s[i] === ' ') {
+            if (result.length && result[result.length - 1] !== ' ') {
                 result.push(s[i]);
             }
-        }else{
+        } else {
             result.push(s[i]);
         }
     }
 
-    if(result[result.length-1] === ' '){
+    if (result[result.length - 1] === ' ') {
         result.pop();
     }
 
     return result.join('');
-}
+};

@@ -1,9 +1,9 @@
 /**
  * @param root: a TreeNode, the root of the binary tree
- * @return: 
+ * @return:
  */
 const invertBinaryTree = function (root) {
-    if(!root){
+    if (!root) {
         return root;
     }
     const tmp = root.left;
@@ -11,4 +11,4 @@ const invertBinaryTree = function (root) {
     root.right = tmp;
     invertBinaryTree(root.left);
     invertBinaryTree(root.right);
-}
+};

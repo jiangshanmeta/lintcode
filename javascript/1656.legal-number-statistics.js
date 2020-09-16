@@ -6,8 +6,8 @@
  */
 const getNum = function (a, L, R) {
     let count = 0;
-    for(let i=0;i<a.length;i++){
-        a[i]>=L && a[i]<=R && count++;
+    for (let i = 0; i < a.length; i++) {
+        a[i] >= L && a[i] <= R && count++;
     }
     return count;
-}
+};

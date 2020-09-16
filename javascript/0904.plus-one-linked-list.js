@@ -8,23 +8,23 @@ const plusOne = function (head) {
     const dummyHead = new ListNode(0);
     dummyHead.next = head;
     let prev = dummyHead;
-    while (carry && head){
-        const sum = carry+head.val;
-        const digit = sum%10;
-        carry = (sum-digit)/10;
+    while (carry && head) {
+        const sum = carry + head.val;
+        const digit = sum % 10;
+        carry = (sum - digit) / 10;
         head.val = digit;
         prev = head;
         head = head.next;
     }
-    if(carry){
+    if (carry) {
         prev.next = new ListNode(carry);
     }
     return reverse(dummyHead.next);
-}
+};
 
-function reverse(head){
+function reverse (head) {
     const dummyHead = new ListNode(0);
-    while(head){
+    while (head) {
         const next = head.next;
         head.next = dummyHead.next;
         dummyHead.next = head;

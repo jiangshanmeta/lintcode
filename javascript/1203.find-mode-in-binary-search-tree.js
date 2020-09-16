@@ -9,33 +9,32 @@ const findMode = function (root) {
     let modeCount = 0;
     let curCount = 0;
     let curVal;
-    while(root){
+    while (root) {
         stack.push(root);
         root = root.left;
     }
-    while(stack.length){
+    while (stack.length) {
         root = stack.pop();
-        if(root.val !== curVal){
+        if (root.val !== curVal) {
             curVal = root.val;
             curCount = 1;
-        }else{
+        } else {
             curCount++;
         }
 
-        if(curCount>modeCount){
+        if (curCount > modeCount) {
             modeCount = curCount;
             result.length = 0;
             result.push(curVal);
-        }else if(curCount === modeCount){
+        } else if (curCount === modeCount) {
             result.push(curVal);
         }
 
         root = root.right;
-        while(root){
+        while (root) {
             stack.push(root);
             root = root.left;
         }
     }
     return result;
-}
-
+};

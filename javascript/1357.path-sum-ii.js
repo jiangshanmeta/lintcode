@@ -5,17 +5,17 @@
  */
 const pathSum = function (root, sum) {
     const result = [];
-    dfs(root,sum,[],result);
+    dfs(root, sum, [], result);
     return result;
-}
+};
 
-function dfs(root,sum,sequence,result){
-    if(!root){
+function dfs (root, sum, sequence, result) {
+    if (!root) {
         return;
     }
-    
-    if(!root.left && !root.right){
-        if(root.val === sum){
+
+    if (!root.left && !root.right) {
+        if (root.val === sum) {
             sequence.push(root.val);
             result.push(sequence.slice(0));
             sequence.pop();
@@ -24,8 +24,7 @@ function dfs(root,sum,sequence,result){
     }
 
     sequence.push(root.val);
-    dfs(root.left,sum-root.val,sequence,result);
-    dfs(root.right,sum-root.val,sequence,result);
+    dfs(root.left, sum - root.val, sequence, result);
+    dfs(root.right, sum - root.val, sequence, result);
     sequence.pop();
 }
-

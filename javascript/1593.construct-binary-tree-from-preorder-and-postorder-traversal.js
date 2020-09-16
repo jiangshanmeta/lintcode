@@ -1,23 +1,23 @@
 /**
- * @param pre: 
- * @param post: 
- * @return: 
+ * @param pre:
+ * @param post:
+ * @return:
  */
 const constructFromPrePost = function (pre, post) {
-    return buildTree(pre,post,0,pre.length-1,0,post.length-1)
-}
+    return buildTree(pre, post, 0, pre.length - 1, 0, post.length - 1);
+};
 
-function buildTree(pre,post,preStart,preEnd,postStart,postEnd){
-    if(preStart>preEnd){
+function buildTree (pre, post, preStart, preEnd, postStart, postEnd) {
+    if (preStart > preEnd) {
         return null;
     }
     const root = new TreeNode(pre[preStart]);
-    if(preStart === preEnd){
+    if (preStart === preEnd) {
         return root;
     }
     let seperateIndex;
-    for(let i=postStart;i<postEnd;i++){
-        if(post[i] === pre[preStart+1]){
+    for (let i = postStart; i < postEnd; i++) {
+        if (post[i] === pre[preStart + 1]) {
             seperateIndex = i;
             break;
         }
@@ -26,8 +26,8 @@ function buildTree(pre,post,preStart,preEnd,postStart,postEnd){
     root.left = buildTree(
         pre,
         post,
-        preStart+1,
-        seperateIndex-postStart+preStart+1,
+        preStart + 1,
+        seperateIndex - postStart + preStart + 1,
         postStart,
         seperateIndex
     );
@@ -35,10 +35,10 @@ function buildTree(pre,post,preStart,preEnd,postStart,postEnd){
     root.right = buildTree(
         pre,
         post,
-        seperateIndex+preEnd+2-postEnd,
+        seperateIndex + preEnd + 2 - postEnd,
         preEnd,
-        seperateIndex+1,
-        postEnd-1
+        seperateIndex + 1,
+        postEnd - 1
     );
     return root;
 }

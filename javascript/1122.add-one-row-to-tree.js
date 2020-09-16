@@ -5,21 +5,21 @@
  * @return: return a TreeNode
  */
 const addOneRow = function (root, v, d) {
-    if(d === 1){
+    if (d === 1) {
         const node = new TreeNode(v);
         node.left = root;
         return node;
     }
-    let lastRow = [root];
-    while( (--d)>1 ){
+    let lastRow = [root, ];
+    while ((--d) > 1) {
         const nextRow = [];
-        for(let i=0;i<lastRow.length;i++){
+        for (let i = 0; i < lastRow.length; i++) {
             lastRow[i].left && nextRow.push(lastRow[i].left);
             lastRow[i].right && nextRow.push(lastRow[i].right);
         }
         lastRow = nextRow;
     }
-    for(let i=0;i<lastRow.length;i++){
+    for (let i = 0; i < lastRow.length; i++) {
         const newLeft = new TreeNode(v);
         const newRight = new TreeNode(v);
         newLeft.left = lastRow[i].left;
@@ -28,5 +28,4 @@ const addOneRow = function (root, v, d) {
         lastRow[i].right = newRight;
     }
     return root;
-}
-
+};

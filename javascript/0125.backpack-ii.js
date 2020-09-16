@@ -7,20 +7,19 @@
 const backPackII = function (m, A, V) {
     // dpA[j] 能不能到达这个重量
     // dpV[j] 这个重量对应价值的最大值
-    const dpA = new Array(m+1).fill(false);
-    const dpV = new Array(m+1).fill(0);
+    const dpA = new Array(m + 1).fill(false);
+    const dpV = new Array(m + 1).fill(0);
     dpA[0] = true;
-    for(let i=0;i<A.length;i++){
+    for (let i = 0; i < A.length; i++) {
         const weight = A[i];
-        for(let j=m;j>=weight;j--){
-            if(!dpA[j-weight]){
+        for (let j = m; j >= weight; j--) {
+            if (!dpA[j - weight]) {
                 continue;
             }
             dpA[j] = true;
-            dpV[j] = Math.max(dpV[j],dpV[j-weight]+V[i]);
+            dpV[j] = Math.max(dpV[j], dpV[j - weight] + V[i]);
         }
     }
 
     return Math.max(...dpV);
-}
-
+};

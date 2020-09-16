@@ -4,25 +4,25 @@
  * @return: the list after rotation
  */
 const rotateRight = function (head, k) {
-    if(!head || k === 0){
+    if (!head || k === 0) {
         return head;
     }
     let count = 0;
     let node = head;
     let prev;
-    while(node){
+    while (node) {
         count++;
         prev = node;
         node = node.next;
     }
     k %= count;
-    if(k === 0){
+    if (k === 0) {
         return head;
     }
     let last;
-    let rest = count-k;
+    let rest = count - k;
     node = head;
-    while(rest--){
+    while (rest--) {
         last = node;
         node = node.next;
     }
@@ -30,5 +30,4 @@ const rotateRight = function (head, k) {
     last.next = null;
     prev.next = head;
     return newHead;
-}
-
+};

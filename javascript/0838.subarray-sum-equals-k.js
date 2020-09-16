@@ -8,12 +8,12 @@ const subarraySumEqualsK = function (nums, k) {
     map[0] = 1;
     let result = 0;
     let sum = 0;
-    for(let i=0;i<nums.length;i++){
+    for (let i = 0; i < nums.length; i++) {
         sum += nums[i];
-        if(map[sum-k] !== undefined){
-            result += map[sum-k];
+        if (map[sum - k] !== undefined) {
+            result += map[sum - k];
         }
-        map[sum] = (map[sum] || 0)+1;
+        map[sum] = (map[sum] || 0) + 1;
     }
     return result;
-}
+};

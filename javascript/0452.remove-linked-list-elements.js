@@ -7,15 +7,14 @@ const removeElements = function (head, val) {
     const dummyHead = new ListNode();
     dummyHead.next = head;
     let prev = dummyHead;
-    while(head){
-        if(head.val === val){
+    while (head) {
+        if (head.val === val) {
             prev.next = head.next;
-        }else{
+        } else {
             prev = head;
         }
         head = head.next;
     }
 
     return dummyHead.next;
-}
-
+};

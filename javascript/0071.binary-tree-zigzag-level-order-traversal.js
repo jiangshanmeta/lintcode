@@ -4,14 +4,14 @@
  */
 const zigzagLevelOrder = function (root) {
     const result = [];
-    root && zigzagLevelOrderTraversal([root],result,false);
+    root && zigzagLevelOrderTraversal([root, ], result, false);
     return result;
-}
+};
 
-function zigzagLevelOrderTraversal(lastLevel,result,reverse){
+function zigzagLevelOrderTraversal (lastLevel, result, reverse) {
     const lastLevelVals = [];
     const nextLevel = [];
-    for(let i=0;i<lastLevel.length;i++){
+    for (let i = 0; i < lastLevel.length; i++) {
         const node = lastLevel[i];
         lastLevelVals.push(node.val);
         node.left && nextLevel.push(node.left);
@@ -19,5 +19,5 @@ function zigzagLevelOrderTraversal(lastLevel,result,reverse){
     }
     reverse && lastLevelVals.reverse();
     result.push(lastLevelVals);
-    nextLevel.length && zigzagLevelOrderTraversal(nextLevel,result,!reverse);
+    nextLevel.length && zigzagLevelOrderTraversal(nextLevel, result, !reverse);
 }

@@ -8,7 +8,7 @@
 
 [lintcode题解](https://github.com/jiangshanmeta/lintcode)
 
-[scriptoj](https://github.com/jiangshanmeta/scriptoj)
+[scriptoj题解](https://github.com/jiangshanmeta/scriptoj)
 
 [剑指offer题解](https://github.com/jiangshanmeta/coding-interviews)
 
@@ -303,6 +303,41 @@
 | 293 | The depth of the tunnel |  | Medium |
 | 294 | Linked List Simplification |  | Easy |
 | 296 | Unique Array |  | Easy |
+| 300 | Meeting Room IV |  | Medium |
+| 301 | Lucky Number II |  | Hard |
+| 302 | Digital Pairing |  | Easy |
+| 303 | Beautiful Number |  | Medium |
+| 304 | Maximum product |  | Medium |
+| 306 | Product List |  | Easy |
+| 307 | Transform String |  | Medium |
+| 308 | Sepcial Substring |  | Medium |
+| 309 | Interleaved Array |  | Easy |
+| 310 | Digital distortion |  | Easy |
+| 311 | Pioneering palindrome |  | Easy |
+| 312 | Bull Cards |  | Medium |
+| 313 | Minimum Insertion |  | Hard |
+| 314 | The Lost Record |  | Medium |
+| 315 | Reformat String |  | Medium |
+| 317 | Minimum Parentheses Matching |  | Medium |
+| 318 | Character Grid |  | Easy |
+| 319 | Square Queue |  | Hard |
+| 321 | perfect string |  | Easy |
+| 322 | Chess Game |  | Easy |
+| 323 | string game |  | Easy |
+| 324 | Regular Expression Search |  | Hard |
+| 325 | Football |  | Medium |
+| 326 | Slide Soduku |  | Easy |
+| 327 | Distance Metrics |  | Medium |
+| 328 | String Partition |  | Medium |
+| 329 | Double Array |  | Easy |
+| 330 | Increasing Number |  | Medium |
+| 332 | restoreArray |  | Hard |
+| 333 | Identifying Strings |  | Easy |
+| 335 | plateau |  | Medium |
+| 355 | shuttleInBuildings |  | Hard |
+| 357 | Symmetrical Suffix |  | Medium |
+| 358 | treePlanning |  | Easy |
+| 359 | makeEquilateralTriangle |  | Easy |
 | 360 | Sliding Window Median |  | Hard |
 | 362 | Sliding Window Maximum | [JavaScript](./javascript/0362.sliding-window-maximum.js) | Hard |
 | 363 | Trapping Rain Water |  | Medium |
@@ -975,6 +1010,7 @@
 | 1093 | Number of Longest Increasing Subsequence | [JavaScript](./javascript/1093.number-of-longest-increasing-subsequence.js) | Medium |
 | 1094 | Second Minimum Node In a Binary Tree | [JavaScript](./javascript/1094.second-minimum-node-in-a-binary-tree.js) | Easy |
 | 1095 | Maximum Swap | [JavaScript](./javascript/1095.maximum-swap.js) | Medium |
+| 1096 | Greatest common multiple |  | Medium |
 | 1097 | Kth Smallest Number in Multiplication Table |  | Hard |
 | 1098 | Path Sum IV |  | Medium |
 | 1099 | Non-decreasing Array | [JavaScript](./javascript/1099.non-decreasing-array.js) | Easy |
@@ -1538,6 +1574,7 @@
 | 1732 | Snakes and Ladders |  | Medium |
 | 1733 | Smallest Range I |  | Easy |
 | 1734 | Sum of Subarray Minimums |  | Medium |
+| 1735 | Super Palindromes |  | Hard |
 | 1736 | Throw garbage |  | Medium |
 | 1737 | Fruit Into Baskets |  | Medium |
 | 1738 | Valid Permutations for DI Sequence |  | Hard |
@@ -1550,6 +1587,7 @@
 | 1745 | Monotonic Array | [JavaScript](./javascript/1745.monotonic-array.js) | Easy |
 | 1746 | Minimum Distance Between BST Nodes | [JavaScript](./javascript/1746.minimum-distance-between-bst-nodes.js) | Easy |
 | 1747 | Robot Return to Origin |  | Easy |
+| 1753 | Doing Homework |  | Medium |
 | 1756 | Buy beverage |  | Medium |
 | 1761 | Digital Huarong Road |  | Hard |
 | 1767 | Minimum Tree Coverage |  | Hard |
@@ -1659,3 +1697,4 @@
 | 1903 | Department Statistics |  | Easy |
 | 1904 | Put small balls |  | Hard |
 | 1905 | Character deletion |  | Easy |
+| 1906 | Look for points that are bigger than the surrounding area |  | Easy |

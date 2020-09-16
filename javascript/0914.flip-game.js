@@ -5,15 +5,14 @@
 const generatePossibleNextMoves = function (s) {
     const list = s.split('');
     const result = [];
-    for(let i=1;i<list.length;i++){
-        if(list[i] === '+' && list[i-1] === '+'){
+    for (let i = 1; i < list.length; i++) {
+        if (list[i] === '+' && list[i - 1] === '+') {
             list[i] = '-';
-            list[i-1] = '-';
+            list[i - 1] = '-';
             result.push(list.join(''));
             list[i] = '+';
-            list[i-1] = '+';
+            list[i - 1] = '+';
         }
     }
     return result;
-}
-
+};

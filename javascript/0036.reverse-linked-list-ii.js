@@ -1,5 +1,5 @@
 /**
- * @param head: ListNode head is the head of the linked list 
+ * @param head: ListNode head is the head of the linked list
  * @param m: An integer
  * @param n: An integer
  * @return: The head of the reversed ListNode
@@ -9,12 +9,12 @@ const reverseBetween = function (head, m, n) {
     dummyHead.next = head;
     let prev = dummyHead;
     n -= m;
-    while(--m){
+    while (--m) {
         prev = head;
         head = head.next;
     }
-    
-    while(n--){
+
+    while (n--) {
         head = head.next;
     }
 
@@ -23,7 +23,7 @@ const reverseBetween = function (head, m, n) {
     head = prev.next;
     prev.next = tail;
 
-    while(head){
+    while (head) {
         const next = head.next;
         head.next = prev.next;
         prev.next = head;
@@ -31,5 +31,4 @@ const reverseBetween = function (head, m, n) {
     }
 
     return dummyHead.next;
-}
-
+};

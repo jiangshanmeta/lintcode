@@ -7,10 +7,9 @@ const middleNode = function (head) {
     dummyHead.next = head;
     let fast = dummyHead;
     let slow = dummyHead;
-    while(fast.next && fast.next.next){
+    while (fast.next && fast.next.next) {
         fast = fast.next.next;
         slow = slow.next;
     }
     return slow.next;
-}
-
+};

@@ -7,21 +7,21 @@ const getMinimumDifference = function (root) {
     let result = Infinity;
     let last = -Infinity;
 
-    while(root){
+    while (root) {
         stack.push(root);
         root = root.left;
     }
 
-    while(stack.length){
+    while (stack.length) {
         root = stack.pop();
-        result = Math.min(result,root.val-last);
+        result = Math.min(result, root.val - last);
         last = root.val;
 
         root = root.right;
-        while(root){
+        while (root) {
             stack.push(root);
             root = root.left;
         }
     }
     return result;
-}
+};

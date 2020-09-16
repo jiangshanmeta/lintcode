@@ -5,12 +5,12 @@
  */
 const numJewelsInStones = function (J, S) {
     const map = {};
-    for(let i=0;i<J.length;i++){
+    for (let i = 0; i < J.length; i++) {
         map[J[i]] = true;
     }
     let count = 0;
-    for(let i=0;i<S.length;i++){
+    for (let i = 0; i < S.length; i++) {
         map[S[i]] && count++;
     }
     return count;
-}
+};

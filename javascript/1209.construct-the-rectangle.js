@@ -4,11 +4,10 @@
  */
 const constructRectangle = function (area) {
     let w = Math.floor(Math.sqrt(area));
-    while(true){
-        if(area%w === 0){
-            return [area/w,w];
+    while (true) {
+        if (area % w === 0) {
+            return [area / w, w, ];
         }
         w -= 1;
     }
-    
-}
+};
