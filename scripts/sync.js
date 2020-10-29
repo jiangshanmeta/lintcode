@@ -1,16 +1,13 @@
 const fs = require('fs');
 const path = require('path');
-const languages = require('./config').languages;
 const syncQuestions = {};
 
-for (let i = 0; i < languages.length; i++) {
-    const fileList = fs.readdirSync(path.join(__dirname, languages[i].dir));
+const fileList = fs.readdirSync(path.join(__dirname, '../src'));
 
-    fileList.forEach((fileName) => {
-        const id = +fileName.split('.')[0];
-        syncQuestions[id] = true;
-    });
-}
+fileList.forEach((fileName) => {
+    const id = +fileName.split('.')[0];
+    syncQuestions[id] = true;
+});
 
 const https = require('https');
 

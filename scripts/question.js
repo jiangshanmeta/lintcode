@@ -58,7 +58,7 @@ getQuestions().then((questions) => {
     });
 
     const fmtData = JSON.stringify(localDatas, null, 4);
-    fs.writeFile(path.join(__dirname, '../metaData/question.json'), fmtData, 'utf8', (err) => {
+    fs.writeFile(path.join(__dirname, './question.json'), fmtData, 'utf8', (err) => {
         if (err) throw err;
         console.log('文件已被保存');
     });

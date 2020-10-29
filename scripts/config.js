@@ -9,12 +9,23 @@ exports.difficultyMap = {
 exports.languages = [
     {
         label: 'JavaScript',
-        dir: '../javascript',
         ext: 'js',
     },
     {
         label: 'Python',
-        dir: '../python',
         ext: 'py',
     },
-];
+]
+
+// exports.languages = [
+//     {
+//         label: 'JavaScript',
+//         dir: '../javascript',
+//         ext: 'js',
+//     },
+//     {
+//         label: 'Python',
+//         dir: '../python',
+//         ext: 'py',
+//     },
+// ];

@@ -1,17 +1,14 @@
 function append () {
     const fs = require('fs');
     const path = require('path');
-    const questions = require('../metaData/question.json');
+    const questions = require('./question.json');
     const questionMap = questions.reduce((obj, item) => {
         obj[item.title_slug] = item;
         return obj;
     }, Object.create(null));
 
     const languages = require('./config').languages;
-    const extDirMap = languages.reduce((obj, item) => {
-        obj[item.ext] = item.dir;
-        return obj;
-    }, Object.create(null));
+    const extSet = new Set(languages.map(item=>item.ext));
 
     const title_slug = process.argv[2];
     const question = questionMap[title_slug];
@@ -22,14 +19,19 @@ function append () {
     }
 
     const ext = process.argv[3];
-    const dir = extDirMap[ext];
-    if (!dir) {
+    if(!extSet.has(ext)){
         console.log('扩展名无效');
         return;
     }
 
-    const fileName = `${String(question.index).padStart(4, '0')}.${question.title_slug}.${ext}`;
-    const file = path.join(__dirname, `${dir}/${fileName}`);
+    const folderName = `${String(question.index).padStart(4, '0')}.${question.title_slug}`;
+    const folderDir = path.join(__dirname,'../src',folderName);
+    if(!fs.existsSync(folderDir)){
+        fs.mkdirSync(folderDir);
+    }
+    
+    const fileName = `${folderName}.${ext}`;
+    const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
     if (fs.existsSync(file)) {
         console.log('文件已存在');
         return;

@@ -1,28 +1,23 @@
 const fs = require('fs');
-const questions = require('../metaData/question.json');
-const languages = require('./config').languages;
+const path = require('path');
+const questions = require('./question.json');
+
 
 const questionsMap = questions.reduce((obj, item) => {
     obj[item.index] = item;
     return obj;
 }, {});
 
-languages.forEach(({ dir, ext, }) => {
-    fs.readdir(dir, (err, fileList) => {
-        if (err) {
-            throw err;
-        }
-
-        fileList.forEach((fileName) => {
-            const questionId = fileName.slice(0, fileName.indexOf('.'));
-            const questionObj = questionsMap[+questionId];
-            if (!questionObj) {
-                console.log(questionId, fileName);
-                return;
-            }
-            if (fileName !== `${questionId}.${questionObj.title_slug}.${ext}`) {
-                console.log(fileName);
-            }
-        });
-    });
+const fileList = fs.readdirSync(path.join(__dirname,'../src'));
+fileList.forEach((folderName)=>{
+    const questionId = parseInt(folderName);
+    const questionObj = questionsMap[questionId];
+    if(!questionObj){
+        console.log(questionId,folderName,'问题不存在')
+        return;
+    }
+    const expectFolderName = String(questionId).padStart(4,'0')+'.'+questionObj.title_slug;
+    if(folderName !== expectFolderName){
+        console.log(questionId,folderName,expectFolderName,'子目录名错误');
+    }
 });
