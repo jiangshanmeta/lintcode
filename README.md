@@ -68,6 +68,7 @@
 | 51 | Previous Permutation |  | Medium  |
 | 52 | Next Permutation |  | Medium  |
 | 53 | Reverse Words in a String | [Python](./src/0053.reverse-words-in-a-string/0053.reverse-words-in-a-string.py) | Easy  |
+| 54 | String to Integer (atoi) |  | Hard  |
 | 55 | Compare Strings | [JavaScript](./src/0055.compare-strings/0055.compare-strings.js) | Easy  |
 | 56 | Two Sum | [JavaScript](./src/0056.two-sum/0056.two-sum.js) | Easy  |
 | 57 | 3Sum | [Python](./src/0057.3sum/0057.3sum.py) | Medium  |
@@ -223,7 +224,7 @@
 | 209 | First Unique Character in a String | [JavaScript](./src/0209.first-unique-character-in-a-string/0209.first-unique-character-in-a-string.js) | Easy  |
 | 210 | Null-terminated String |  | Easy  |
 | 211 | String Permutation | [JavaScript](./src/0211.string-permutation/0211.string-permutation.js) | Easy  |
-| 212 | Space Replacement | [Python](./src/212.space-replacement/212.space-replacement.py) | Easy  |
+| 212 | Space Replacement | [Python](./src/0212.space-replacement/0212.space-replacement.py) | Easy  |
 | 213 | String Compression | [JavaScript](./src/0213.string-compression/0213.string-compression.js) | Easy  |
 | 214 | Max of Array |  | Naive  |
 | 215 | Rate Limiter |  | Hard  |
@@ -273,6 +274,7 @@
 | 260 | Same Diagonal Elements |  | Easy  |
 | 261 | Maximum Connected Area |  | Medium  |
 | 262 | heir tree |  | Medium  |
+| 263 | Matching of parentheses |  | Easy  |
 | 264 | Counting Universal Subarrays |  | Easy  |
 | 265 | Maximum Non-Negative Subarray |  | Easy  |
 | 266 | Expect Distance |  | Medium  |
@@ -302,7 +304,10 @@
 | 292 | Sort Anagrams Array |  | Easy  |
 | 293 | The depth of the tunnel |  | Medium  |
 | 294 | Linked List Simplification |  | Easy  |
+| 295 | Intersection |  | Easy  |
 | 296 | Unique Array |  | Easy  |
+| 297 | Find the maximum |  | Naive  |
+| 298 | Find prime |  | Naive  |
 | 300 | Meeting Room IV |  | Medium  |
 | 301 | Lucky Number II |  | Hard  |
 | 302 | Digital Pairing |  | Easy  |
@@ -318,6 +323,7 @@
 | 313 | Minimum Insertion |  | Hard  |
 | 314 | The Lost Record |  | Medium  |
 | 315 | Reformat String |  | Medium  |
+| 316 | Combination set |  | Easy  |
 | 317 | Minimum Parentheses Matching |  | Medium  |
 | 318 | Character Grid |  | Easy  |
 | 319 | Square Queue |  | Hard  |
@@ -331,9 +337,25 @@
 | 328 | String Partition |  | Medium  |
 | 329 | Double Array |  | Easy  |
 | 330 | Increasing Number |  | Medium  |
+| 331 | Confusing Number |  | Medium  |
 | 332 | restoreArray |  | Hard  |
 | 333 | Identifying Strings |  | Easy  |
+| 334 | Order Check |  | Easy  |
 | 335 | plateau |  | Medium  |
+| 336 | Text Compression |  | Easy  |
+| 337 | Team notification |  | Medium  |
+| 339 | Median II |  | Medium  |
+| 340 | Red and Black Chess |  | Hard  |
+| 342 | Valley sequence |  | Medium  |
+| 343 | Circle |  | Easy  |
+| 344 | Song Time |  | Hard  |
+| 346 | xorsum of Interval extremum |  | Hard  |
+| 347 | maximum number expectation |  | Hard  |
+| 348 | TrackSwitching |  | Medium  |
+| 349 | Developer-Tester Integration |  | Hard  |
+| 352 | PrettyPrint |  | Easy  |
+| 353 | Largest letter |  | Easy  |
+| 354 | lottery draw |  | Hard  |
 | 355 | shuttleInBuildings |  | Hard  |
 | 357 | Symmetrical Suffix |  | Medium  |
 | 358 | treePlanning |  | Easy  |
@@ -383,7 +405,7 @@
 | 404 | Subarray Sum II |  | Medium  |
 | 405 | Submatrix Sum |  | Medium  |
 | 406 | Minimum Size Subarray Sum | [JavaScript](./src/0406.minimum-size-subarray-sum/0406.minimum-size-subarray-sum.js) | Medium  |
-| 407 | Plus One | [JavaScript](./src/407.plus-one/407.plus-one.js) | Easy  |
+| 407 | Plus One | [JavaScript](./src/0407.plus-one/0407.plus-one.js) | Easy  |
 | 408 | Add Binary | [JavaScript](./src/0408.add-binary/0408.add-binary.js) | Easy  |
 | 411 | Gray Code |  | Medium  |
 | 412 | Candy |  | Medium  |
@@ -415,6 +437,7 @@
 | 440 | Backpack III |  | Medium  |
 | 442 | Implement Trie (Prefix Tree) | [Python](./src/0442.implement-trie-prefix-tree/0442.implement-trie-prefix-tree.py) | Medium  |
 | 443 | Two Sum - Greater than target |  | Medium  |
+| 444 | graph valid tree II |  | Medium  |
 | 445 | Cosine Similarity | [Python](./src/0445.cosine-similarity/0445.cosine-similarity.py) | Easy  |
 | 447 | Search in a Big Sorted Array |  | Medium  |
 | 448 | Inorder Successor in BST | [Python](./src/0448.inorder-successor-in-bst/0448.inorder-successor-in-bst.py) | Medium  |
@@ -480,7 +503,7 @@
 | 508 | Wiggle Sort |  | Medium  |
 | 509 | Mini Yelp |  | Hard  |
 | 510 | Maximal Rectangle |  | Hard  |
-| 511 | Swap Two Nodes in Linked List | [JavaScript](./src/511.swap-two-nodes-in-linked-list/511.swap-two-nodes-in-linked-list.js) | Medium  |
+| 511 | Swap Two Nodes in Linked List | [JavaScript](./src/0511.swap-two-nodes-in-linked-list/0511.swap-two-nodes-in-linked-list.js) | Medium  |
 | 512 | Decode Ways | [JavaScript](./src/0512.decode-ways/0512.decode-ways.js) | Medium  |
 | 513 | Perfect Squares | [JavaScript](./src/0513.perfect-squares/0513.perfect-squares.js) | Medium  |
 | 514 | Paint Fence |  | Easy  |
@@ -528,16 +551,21 @@
 | 558 | Sliding Window Matrix Maximum |  | Hard  |
 | 559 | Trie Service |  | Medium  |
 | 560 | Friendship Service |  | Easy  |
+| 561 | Array Distance |  | Hard  |
 | 562 | Backpack IV | [JavaScript](./src/0562.backpack-iv/0562.backpack-iv.js) | Medium  |
 | 563 | Backpack V | [JavaScript](./src/0563.backpack-v/0563.backpack-v.js) | Medium  |
 | 564 | Combination Sum IV | [JavaScript](./src/0564.combination-sum-iv/0564.combination-sum-iv.js) | Medium  |
 | 565 | Heart Beat |  | Medium  |
 | 566 | GFS Client |  | Medium  |
+| 567 | maximum score |  | Medium  |
+| 568 | Three Chances |  | Medium  |
 | 569 | Add Digits | [JavaScript](./src/0569.add-digits/0569.add-digits.js) | Easy  |
 | 570 | Find the Missing Number II |  | Medium  |
+| 572 | Music Pairs |  | Easy  |
 | 573 | Build Post Office II |  | Hard  |
 | 574 | Build Post Office |  | Medium  |
 | 575 | Decode String |  | Medium  |
+| 576 | Split Array |  | Easy  |
 | 577 | Merge K Sorted Interval Lists |  | Medium  |
 | 578 | Lowest Common Ancestor III | [Python](./src/0578.lowest-common-ancestor-iii/0578.lowest-common-ancestor-iii.py) | Medium  |
 | 581 | Longest Repeating Subsequence |  | Medium  |
@@ -661,6 +689,7 @@
 | 710 | Hotel OO Design |  | Hard  |
 | 712 | Vending machine OO Design |  | Hard  |
 | 714 | Black Jack OO Design |  | Medium  |
+| 716 | Add and Search |  | Easy  |
 | 717 | Tree Longest Path With Same Value |  | Medium  |
 | 718 | Repeat String |  | Medium  |
 | 719 | Calculate Maximum Value |  | Medium  |
@@ -785,6 +814,7 @@
 | 846 | Multi-keyword Sort | [JavaScript](./src/0846.multi-keyword-sort/0846.multi-keyword-sort.js) | Easy  |
 | 848 | Minimize Max Distance to Gas Station |  | Hard  |
 | 849 | Basic Calculator III |  | Hard  |
+| 850 | Employee Free Time |  | Hard  |
 | 851 | Pour Water |  | Medium  |
 | 852 | IP to CIDR |  | Easy  |
 | 853 | Number Of Corner Rectangles |  | Medium  |
@@ -887,6 +917,13 @@
 | 958 | Palindrome Data Stream |  | Easy  |
 | 959 | K Spaced Array Sorting |  | Medium  |
 | 960 | First Unique Number in Data Stream II | [Python](./src/0960.first-unique-number-in-data-stream-ii/0960.first-unique-number-in-data-stream-ii.py) | Medium  |
+| 962 | Condition string |  | Medium  |
+| 963 | The Judges Give Problem |  | Medium  |
+| 964 | Food Set |  | Hard  |
+| 965 | LR String |  | Medium  |
+| 966 | Closest Pair of Points |  | Hard  |
+| 967 | Quality Inspection |  | Hard  |
+| 968 | Valid Currency Amount |  | Medium  |
 | 969 | Longest Repeating Substring |  | Medium  |
 | 970 | Big Business |  | Easy  |
 | 971 | Surplus Value Backpack |  | Hard  |
@@ -917,6 +954,7 @@
 | 996 | Maximum Slope Straight Line |  | Medium  |
 | 997 | Print Organization Chart |  | Medium  |
 | 998 | Construction Queue |  | Hard  |
+| 999 | implement-deque-by-circular-array |  | Medium  |
 | 1000 | Best Time to Buy and Sell Stock with Transaction Fee | [JavaScript](./src/1000.best-time-to-buy-and-sell-stock-with-transaction-fee/1000.best-time-to-buy-and-sell-stock-with-transaction-fee.js) | Medium  |
 | 1001 | Asteroid Collision | [JavaScript](./src/1001.asteroid-collision/1001.asteroid-collision.js) | Medium  |
 | 1002 | Bus Routes |  | Medium  |
@@ -1125,7 +1163,7 @@
 | 1216 | Largest Palindrome Product |  | Easy  |
 | 1217 | Total Hamming Distance |  | Medium  |
 | 1218 | Number Complement | [JavaScript](./src/1218.number-complement/1218.number-complement.js) | Easy  |
-| 1219 | Heaters |  | Easy  |
+| 1219 | Heaters |  | Medium  |
 | 1220 | Matchsticks to Square |  | Medium  |
 | 1221 | Concatenated Words |  | Hard  |
 | 1222 | Validate IP Address |  | Medium  |
@@ -1139,6 +1177,8 @@
 | 1230 | Assign Cookies | [JavaScript](./src/1230.assign-cookies/1230.assign-cookies.js) | Easy  |
 | 1231 | Minimum Moves to Equal Array Elements |  | Easy  |
 | 1232 | Minimum Number of Arrows to Burst Balloons |  | Medium  |
+| 1233 | Sort Characters By Frequency |  | Medium  |
+| 1234 | Delete Node in a BST |  | Medium  |
 | 1235 | Serialize and Deserialize BST | [Python](./src/1235.serialize-and-deserialize-bst/1235.serialize-and-deserialize-bst.py) | Medium  |
 | 1236 | Find All Numbers Disappeared in an Array | [JavaScript](./src/1236.find-all-numbers-disappeared-in-an-array/1236.find-all-numbers-disappeared-in-an-array.js) | Easy  |
 | 1237 | Number of Boomerangs | [JavaScript](./src/1237.number-of-boomerangs/1237.number-of-boomerangs.js) | Easy  |
@@ -1262,7 +1302,7 @@
 | 1357 | Path Sum II | [JavaScript](./src/1357.path-sum-ii/1357.path-sum-ii.js) | Medium  |
 | 1358 | Path Sum | [JavaScript](./src/1358.path-sum/1358.path-sum.js) | Easy  |
 | 1359 | Convert Sorted Array to Binary Search Tree | [JavaScript](./src/1359.convert-sorted-array-to-binary-search-tree/1359.convert-sorted-array-to-binary-search-tree.js) | Easy  |
-| 1360 | Symmetric Tree | [JavaScript](./src/1360.symmetric-tree/1360.symmetric-tree.js) | Easy  |
+| 1360 | Symmetric Tree | [JavaScript](./src/1360.symmetric-tree/1360.symmetric-tree.js) | Medium  |
 | 1361 | Text Justification |  | Hard  |
 | 1362 | Substring with Concatenation of All Words |  | Hard  |
 | 1363 | ZigZag Conversion |  | Medium  |
@@ -1451,7 +1491,7 @@
 | 1562 | Number of restaurants |  | Medium  |
 | 1563 | Shortest path to the destination |  | Medium  |
 | 1564 | Interval   Search |  | Easy  |
-| 1565 | Modern Ludo I |  | Easy  |
+| 1565 | Modern Ludo I |  | Medium  |
 | 1566 | Minimum Difference |  | Hard  |
 | 1567 | Maximum Can Exchanged Subarray |  | Medium  |
 | 1568 | Poison Test |  | Medium  |
@@ -1539,6 +1579,7 @@
 | 1669 | Build a temple |  | Medium  |
 | 1685 | The mazeIV |  | Medium  |
 | 1691 | Best Time to Buy and Sell Stock V |  | Medium  |
+| 1694 | Monster Hunter |  | Hard  |
 | 1698 | Delete Columns to Make Sorted |  | Easy  |
 | 1699 | Find the Shortest Superstring |  | Hard  |
 | 1700 | DI String Match |  | Easy  |
@@ -1635,7 +1676,7 @@
 | 1823 | Longest Prefix of Array |  | Easy  |
 | 1824 | Most Frequent Substring |  | Medium  |
 | 1825 | Number Change |  | Medium  |
-| 1827 | Number of Ways to Stay in the Same Place After Some Steps II |  | Hard  |
+| 1827 | Number of Ways to Stay in the Same Place After Some Steps II |  | Medium  |
 | 1828 | Lake Escape |  | Hard  |
 | 1831 | Array Summarization |  | Easy  |
 | 1832 | Minimum Step |  | Medium  |
@@ -1644,14 +1685,14 @@
 | 1835 | Number of Ways to Stay in the Same Place After Some Steps I |  | Easy  |
 | 1836 | Reaching Point |  | Medium  |
 | 1840 | Matrix restoration |  | Medium  |
-| 1844 | subarray sum equals k II |  | Medium  |
+| 1844 | subarray sum equals to k II |  | Medium  |
 | 1846 | Reaching Point II |  | Medium  |
 | 1848 | Word Search III |  | Hard  |
 | 1849 | Grumpy Bookstore Owner |  | Medium  |
 | 1850 | Pick Apples |  | Medium  |
 | 1851 | Buy Passes |  | Medium  |
 | 1852 | Final Discounted Price |  | Medium  |
-| 1853 | Efficient Job Processing Service |  | Hard  |
+| 1853 | Efficient Job Processing Service |  | Medium  |
 | 1854 | Partition Array III |  | Easy  |
 | 1855 | Reach Destination |  | Hard  |
 | 1856 | Sub-palindrome |  | Easy  |
@@ -1696,5 +1737,10 @@
 | 1902 | Find Google |  | Easy  |
 | 1903 | Department Statistics |  | Easy  |
 | 1904 | Put small balls |  | Hard  |
-| 1905 | Character deletion |  | Easy  |
+| 1905 | Character deletion | [JavaScript](./src/1905.character-deletion/1905.character-deletion.js) | Easy  |
 | 1906 | Look for points that are bigger than the surrounding area |  | Easy  |
+| 1907 | Array Game |  | Medium  |
+| 1908 | Boolean expression evaluation |  | Hard  |
+| 1909 | Order allocation |  | Medium  |
+| 1914 | Smart Sale |  | Medium  |
+| 1915 | Lifting Weights |  | Hard  |

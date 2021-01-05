@@ -300,6 +300,12 @@
         "difficulty": 1
     },
     {
+        "index": 54,
+        "title": "String to Integer (atoi)",
+        "title_slug": "string-to-integer-atoi",
+        "difficulty": 3
+    },
+    {
         "index": 55,
         "title": "Compare Strings",
         "title_slug": "compare-strings",
@@ -1530,6 +1536,12 @@
         "difficulty": 2
     },
     {
+        "index": 263,
+        "title": "Matching of parentheses",
+        "title_slug": "matching-of-parentheses",
+        "difficulty": 1
+    },
+    {
         "index": 264,
         "title": "Counting Universal Subarrays",
         "title_slug": "counting-universal-subarrays",
@@ -1704,10 +1716,28 @@
         "difficulty": 1
     },
     {
+        "index": 295,
+        "title": "Intersection",
+        "title_slug": "intersection",
+        "difficulty": 1
+    },
+    {
         "index": 296,
         "title": "Unique Array",
         "title_slug": "unique-array",
         "difficulty": 1
+    },
+    {
+        "index": 297,
+        "title": "Find the maximum",
+        "title_slug": "find-the-maximum",
+        "difficulty": 0
+    },
+    {
+        "index": 298,
+        "title": "Find prime",
+        "title_slug": "find-prime",
+        "difficulty": 0
     },
     {
         "index": 300,
@@ -1800,6 +1830,12 @@
         "difficulty": 2
     },
     {
+        "index": 316,
+        "title": "Combination set",
+        "title_slug": "combination-set",
+        "difficulty": 1
+    },
+    {
         "index": 317,
         "title": "Minimum Parentheses Matching",
         "title_slug": "minimum-parentheses-matching",
@@ -1878,6 +1914,12 @@
         "difficulty": 2
     },
     {
+        "index": 331,
+        "title": "Confusing Number",
+        "title_slug": "confusing-number",
+        "difficulty": 2
+    },
+    {
         "index": 332,
         "title": "restoreArray",
         "title_slug": "restorearray",
@@ -1890,10 +1932,100 @@
         "difficulty": 1
     },
     {
+        "index": 334,
+        "title": "Order Check",
+        "title_slug": "order-check",
+        "difficulty": 1
+    },
+    {
         "index": 335,
         "title": "plateau",
         "title_slug": "plateau",
         "difficulty": 2
+    },
+    {
+        "index": 336,
+        "title": "Text Compression",
+        "title_slug": "text-compression",
+        "difficulty": 1
+    },
+    {
+        "index": 337,
+        "title": "Team notification",
+        "title_slug": "team-notification",
+        "difficulty": 2
+    },
+    {
+        "index": 339,
+        "title": "Median II",
+        "title_slug": "median-ii",
+        "difficulty": 2
+    },
+    {
+        "index": 340,
+        "title": "Red and Black Chess",
+        "title_slug": "red-and-black-chess",
+        "difficulty": 3
+    },
+    {
+        "index": 342,
+        "title": "Valley sequence",
+        "title_slug": "valley-sequence",
+        "difficulty": 2
+    },
+    {
+        "index": 343,
+        "title": "Circle",
+        "title_slug": "circle",
+        "difficulty": 1
+    },
+    {
+        "index": 344,
+        "title": "Song Time",
+        "title_slug": "song-time",
+        "difficulty": 3
+    },
+    {
+        "index": 346,
+        "title": "xorsum of Interval extremum",
+        "title_slug": "xorsum-of-interval-extremum",
+        "difficulty": 3
+    },
+    {
+        "index": 347,
+        "title": "maximum number expectation",
+        "title_slug": "maximum-number-expectation",
+        "difficulty": 3
+    },
+    {
+        "index": 348,
+        "title": "TrackSwitching",
+        "title_slug": "trackswitching",
+        "difficulty": 2
+    },
+    {
+        "index": 349,
+        "title": "Developer-Tester Integration",
+        "title_slug": "developer-tester-integration",
+        "difficulty": 3
+    },
+    {
+        "index": 352,
+        "title": "PrettyPrint",
+        "title_slug": "prettyprint",
+        "difficulty": 1
+    },
+    {
+        "index": 353,
+        "title": "Largest letter",
+        "title_slug": "largest-letter",
+        "difficulty": 1
+    },
+    {
+        "index": 354,
+        "title": "lottery draw",
+        "title_slug": "lottery-draw",
+        "difficulty": 3
     },
     {
         "index": 355,
@@ -2379,6 +2511,12 @@
         "index": 443,
         "title": "Two Sum - Greater than target",
         "title_slug": "two-sum-greater-than-target",
+        "difficulty": 2
+    },
+    {
+        "index": 444,
+        "title": "graph valid tree II",
+        "title_slug": "graph-valid-tree-ii",
         "difficulty": 2
     },
     {
@@ -3060,6 +3198,12 @@
         "difficulty": 1
     },
     {
+        "index": 561,
+        "title": "Array Distance",
+        "title_slug": "array-distance",
+        "difficulty": 3
+    },
+    {
         "index": 562,
         "title": "Backpack IV",
         "title_slug": "backpack-iv",
@@ -3090,6 +3234,18 @@
         "difficulty": 2
     },
     {
+        "index": 567,
+        "title": "maximum score",
+        "title_slug": "maximum-score",
+        "difficulty": 2
+    },
+    {
+        "index": 568,
+        "title": "Three Chances",
+        "title_slug": "three-chances",
+        "difficulty": 2
+    },
+    {
         "index": 569,
         "title": "Add Digits",
         "title_slug": "add-digits",
@@ -3100,6 +3256,12 @@
         "title": "Find the Missing Number II",
         "title_slug": "find-the-missing-number-ii",
         "difficulty": 2
+    },
+    {
+        "index": 572,
+        "title": "Music Pairs",
+        "title_slug": "music-pairs",
+        "difficulty": 1
     },
     {
         "index": 573,
@@ -3118,6 +3280,12 @@
         "title": "Decode String",
         "title_slug": "decode-string",
         "difficulty": 2
+    },
+    {
+        "index": 576,
+        "title": "Split Array",
+        "title_slug": "split-array",
+        "difficulty": 1
     },
     {
         "index": 577,
@@ -3856,6 +4024,12 @@
         "title": "Black Jack OO Design",
         "title_slug": "black-jack-oo-design",
         "difficulty": 2
+    },
+    {
+        "index": 716,
+        "title": "Add and Search",
+        "title_slug": "add-and-search",
+        "difficulty": 1
     },
     {
         "index": 717,
@@ -4602,6 +4776,12 @@
         "difficulty": 3
     },
     {
+        "index": 850,
+        "title": "Employee Free Time",
+        "title_slug": "employee-free-time",
+        "difficulty": 3
+    },
+    {
         "index": 851,
         "title": "Pour Water",
         "title_slug": "pour-water",
@@ -5214,6 +5394,48 @@
         "difficulty": 2
     },
     {
+        "index": 962,
+        "title": "Condition string",
+        "title_slug": "condition-string",
+        "difficulty": 2
+    },
+    {
+        "index": 963,
+        "title": "The Judges Give Problem",
+        "title_slug": "the-judges-give-problem",
+        "difficulty": 2
+    },
+    {
+        "index": 964,
+        "title": "Food Set",
+        "title_slug": "food-set",
+        "difficulty": 3
+    },
+    {
+        "index": 965,
+        "title": "LR String",
+        "title_slug": "lr-string",
+        "difficulty": 2
+    },
+    {
+        "index": 966,
+        "title": "Closest Pair of Points",
+        "title_slug": "closest-pair-of-points",
+        "difficulty": 3
+    },
+    {
+        "index": 967,
+        "title": "Quality Inspection",
+        "title_slug": "quality-inspection",
+        "difficulty": 3
+    },
+    {
+        "index": 968,
+        "title": "Valid Currency Amount",
+        "title_slug": "valid-currency-amount",
+        "difficulty": 2
+    },
+    {
         "index": 969,
         "title": "Longest Repeating Substring",
         "title_slug": "longest-repeating-substring",
@@ -5392,6 +5614,12 @@
         "title": "Construction Queue",
         "title_slug": "construction-queue",
         "difficulty": 3
+    },
+    {
+        "index": 999,
+        "title": "implement-deque-by-circular-array",
+        "title_slug": "implement-deque-by-circular-array",
+        "difficulty": 2
     },
     {
         "index": 1000,
@@ -6645,7 +6873,7 @@
         "index": 1219,
         "title": "Heaters",
         "title_slug": "heaters",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 1220,
@@ -6723,6 +6951,18 @@
         "index": 1232,
         "title": "Minimum Number of Arrows to Burst Balloons",
         "title_slug": "minimum-number-of-arrows-to-burst-balloons",
+        "difficulty": 2
+    },
+    {
+        "index": 1233,
+        "title": "Sort Characters By Frequency",
+        "title_slug": "sort-characters-by-frequency",
+        "difficulty": 2
+    },
+    {
+        "index": 1234,
+        "title": "Delete Node in a BST",
+        "title_slug": "delete-node-in-a-bst",
         "difficulty": 2
     },
     {
@@ -7467,7 +7707,7 @@
         "index": 1360,
         "title": "Symmetric Tree",
         "title_slug": "symmetric-tree",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 1361,
@@ -8601,7 +8841,7 @@
         "index": 1565,
         "title": "Modern Ludo I",
         "title_slug": "modern-ludo-i",
-        "difficulty": 1
+        "difficulty": 2
     },
     {
         "index": 1566,
@@ -9124,6 +9364,12 @@
         "title": "Best Time to Buy and Sell Stock V",
         "title_slug": "best-time-to-buy-and-sell-stock-v",
         "difficulty": 2
+    },
+    {
+        "index": 1694,
+        "title": "Monster Hunter",
+        "title_slug": "monster-hunter",
+        "difficulty": 3
     },
     {
         "index": 1698,
@@ -9705,7 +9951,7 @@
         "index": 1827,
         "title": "Number of Ways to Stay in the Same Place After Some Steps II",
         "title_slug": "number-of-ways-to-stay-in-the-same-place-after-some-steps-ii",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 1828,
@@ -9757,8 +10003,8 @@
     },
     {
         "index": 1844,
-        "title": "subarray sum equals k II",
-        "title_slug": "subarray-sum-equals-k-ii",
+        "title": "subarray sum equals to k II",
+        "title_slug": "subarray-sum-equals-to-k-ii",
         "difficulty": 2
     },
     {
@@ -9801,7 +10047,7 @@
         "index": 1853,
         "title": "Efficient Job Processing Service",
         "title_slug": "efficient-job-processing-service",
-        "difficulty": 3
+        "difficulty": 2
     },
     {
         "index": 1854,
@@ -10078,5 +10324,35 @@
         "title": "Look for points that are bigger than the surrounding area",
         "title_slug": "look-for-points-that-are-bigger-than-the-surrounding-area",
         "difficulty": 1
+    },
+    {
+        "index": 1907,
+        "title": "Array Game",
+        "title_slug": "array-game",
+        "difficulty": 2
+    },
+    {
+        "index": 1908,
+        "title": "Boolean expression evaluation",
+        "title_slug": "boolean-expression-evaluation",
+        "difficulty": 3
+    },
+    {
+        "index": 1909,
+        "title": "Order allocation",
+        "title_slug": "order-allocation",
+        "difficulty": 2
+    },
+    {
+        "index": 1914,
+        "title": "Smart Sale",
+        "title_slug": "smart-sale",
+        "difficulty": 2
+    },
+    {
+        "index": 1915,
+        "title": "Lifting Weights",
+        "title_slug": "lifting-weights",
+        "difficulty": 3
     }
 ]

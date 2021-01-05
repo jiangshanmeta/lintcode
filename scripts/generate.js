@@ -6,28 +6,27 @@ const {
     languages,
 } = require('./config');
 
-const extLabelMap = languages.reduce((obj,{label,ext})=>{
+const extLabelMap = languages.reduce((obj, { label, ext, }) => {
     obj[ext] = label;
     return obj;
-},{});
+}, {});
 
 const questions = require('./question.json');
 
-const fileList = fs.readdirSync(path.join(__dirname,'../src'));
+const fileList = fs.readdirSync(path.join(__dirname, '../src'));
 
-
-const answersMap = fileList.reduce((obj,dirName)=>{
-    const answers = fs.readdirSync(path.join(__dirname,'../src',dirName));
+const answersMap = fileList.reduce((obj, dirName) => {
+    const answers = fs.readdirSync(path.join(__dirname, '../src', dirName));
     obj[parseInt(dirName)] = answers;
     return obj;
-},{});
+}, {});
 
 const mergedQuestions = questions.map(({
     index,
     title,
     difficulty,
-})=>{
-    const answers = (answersMap[index] || []).map((answerFileName)=>{
+}) => {
+    const answers = (answersMap[index] || []).map((answerFileName) => {
         const name = answerFileName.split('.');
         const ext = name.pop();
         const label = extLabelMap[ext];

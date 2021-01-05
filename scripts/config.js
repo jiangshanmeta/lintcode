@@ -15,7 +15,7 @@ exports.languages = [
         label: 'Python',
         ext: 'py',
     },
-]
+];
 
 // exports.languages = [
 //     {

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint javascript/ .eslintrc.js scripts/ --fix",
+    "lint": "eslint src/ .eslintrc.js scripts/ --fix",
     "generate": "node scripts/generate.js",
     "question": "node scripts/question.js",
     "sync": "node scripts/sync.js",

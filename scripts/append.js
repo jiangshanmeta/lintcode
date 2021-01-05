@@ -8,7 +8,7 @@ function append () {
     }, Object.create(null));
 
     const languages = require('./config').languages;
-    const extSet = new Set(languages.map(item=>item.ext));
+    const extSet = new Set(languages.map(item => item.ext));
 
     const title_slug = process.argv[2];
     const question = questionMap[title_slug];
@@ -19,17 +19,17 @@ function append () {
     }
 
     const ext = process.argv[3];
-    if(!extSet.has(ext)){
+    if (!extSet.has(ext)) {
         console.log('扩展名无效');
         return;
     }
 
     const folderName = `${String(question.index).padStart(4, '0')}.${question.title_slug}`;
-    const folderDir = path.join(__dirname,'../src',folderName);
-    if(!fs.existsSync(folderDir)){
+    const folderDir = path.join(__dirname, '../src', folderName);
+    if (!fs.existsSync(folderDir)) {
         fs.mkdirSync(folderDir);
     }
-    
+
     const fileName = `${folderName}.${ext}`;
     const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
     if (fs.existsSync(file)) {
