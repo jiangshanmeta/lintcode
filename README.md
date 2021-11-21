@@ -799,7 +799,7 @@
 | 831 | 3Sum II |  | Medium  |
 | 832 | Count Negative Number |  | Medium  |
 | 833 | Process Sequence |  | Medium  |
-| 834 | Remove Duplicate Letters |  | Easy  |
+| 834 | Remove Duplicate Letters | [JavaScript](./src/0834.remove-duplicate-letters/0834.remove-duplicate-letters.js) | Easy  |
 | 835 | Hamming Distance | [JavaScript](./src/0835.hamming-distance/0835.hamming-distance.js) | Easy  |
 | 836 | Partition to K Equal Sum Subsets |  | Hard  |
 | 837 | Palindromic Substrings | [JavaScript](./src/0837.palindromic-substrings/0837.palindromic-substrings.js) | Easy  |

@@ -8,7 +8,7 @@
     "generate": "node scripts/generate.js",
     "question": "node scripts/question.js",
     "sync": "node scripts/sync.js",
-    "append":"node scripts/append.js"
+    "append": "node scripts/append.js"
   },
   "repository": {
     "type": "git",
