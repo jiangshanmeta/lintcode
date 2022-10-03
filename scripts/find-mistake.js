@@ -15,8 +15,4 @@ fileList.forEach((folderName) => {
         console.log(questionId, folderName, '问题不存在');
         return;
     }
-    const expectFolderName = String(questionId).padStart(4, '0') + '.' + questionObj.title_slug;
-    if (folderName !== expectFolderName) {
-        console.log(questionId, folderName, expectFolderName, '子目录名错误');
-    }
 });

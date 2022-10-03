@@ -6,6 +6,10 @@ const {
     languages,
 } = require('./config');
 
+const {
+    genFolderName
+} = require('./common')
+
 const extLabelMap = languages.reduce((obj, { label, ext, }) => {
     obj[ext] = label;
     return obj;
@@ -21,16 +25,19 @@ const answersMap = fileList.reduce((obj, dirName) => {
     return obj;
 }, {});
 
-const mergedQuestions = questions.map(({
-    index,
-    title,
-    difficulty,
-}) => {
+const mergedQuestions = questions.map((question) => {
+    const {
+        index,
+        title,
+        difficulty,
+    } = question;
+
+    const folderName = genFolderName(question)
+
     const answers = (answersMap[index] || []).map((answerFileName) => {
-        const name = answerFileName.split('.');
-        const ext = name.pop();
+        const ext = answerFileName.split('.').pop();
         const label = extLabelMap[ext];
-        return `[${label}](./src/${name.join('.')}/${answerFileName})`;
+        return `[${label}](./src/${folderName}/${answerFileName})`;
     }).join(' ');
 
     return `| ${index} | ${title} | ${answers} | ${difficultyMap[difficulty]}  |`;

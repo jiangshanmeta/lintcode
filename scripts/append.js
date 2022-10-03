@@ -1,3 +1,7 @@
+const {
+    genFolderName
+} = require('./common')
+
 function append () {
     const fs = require('fs');
     const path = require('path');
@@ -24,13 +28,13 @@ function append () {
         return;
     }
 
-    const folderName = `${String(question.index).padStart(4, '0')}.${question.title_slug}`;
+    const folderName = genFolderName(question);
     const folderDir = path.join(__dirname, '../src', folderName);
     if (!fs.existsSync(folderDir)) {
         fs.mkdirSync(folderDir);
     }
 
-    const fileName = `${folderName}.${ext}`;
+    const fileName = `solution.${ext}`;
     const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
     if (fs.existsSync(file)) {
         console.log('文件已存在');
