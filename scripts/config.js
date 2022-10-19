@@ -15,17 +15,8 @@ exports.languages = [
         label: 'Python',
         ext: 'py',
     },
+    {
+        label: 'TypeScript',
+        ext: 'ts',
+    },
 ];
-
-// exports.languages = [
-//     {
-//         label: 'JavaScript',
-//         dir: '../javascript',
-//         ext: 'js',
-//     },
-//     {
-//         label: 'Python',
-//         dir: '../python',
-//         ext: 'py',
-//     },
-// ];

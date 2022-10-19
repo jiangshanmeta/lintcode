@@ -7,8 +7,8 @@ const {
 } = require('./config');
 
 const {
-    genFolderName
-} = require('./common')
+    genFolderName,
+} = require('./common');
 
 const extLabelMap = languages.reduce((obj, { label, ext, }) => {
     obj[ext] = label;
@@ -32,7 +32,7 @@ const mergedQuestions = questions.map((question) => {
         difficulty,
     } = question;
 
-    const folderName = genFolderName(question)
+    const folderName = genFolderName(question);
 
     const answers = (answersMap[index] || []).map((answerFileName) => {
         const ext = answerFileName.split('.').pop();

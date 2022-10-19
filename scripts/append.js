@@ -1,21 +1,21 @@
 const {
-    genFolderName
-} = require('./common')
+    genFolderName,
+} = require('./common');
 
 function append () {
     const fs = require('fs');
     const path = require('path');
     const questions = require('./question.json');
     const questionMap = questions.reduce((obj, item) => {
-        obj[item.title_slug] = item;
+        obj[item.index] = item;
         return obj;
     }, Object.create(null));
 
     const languages = require('./config').languages;
     const extSet = new Set(languages.map(item => item.ext));
 
-    const title_slug = process.argv[2];
-    const question = questionMap[title_slug];
+    const index = process.argv[2];
+    const question = questionMap[index];
     console.log(question);
     if (!question) {
         console.log('没有对应的问题');

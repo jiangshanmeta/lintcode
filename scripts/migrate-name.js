@@ -8,7 +8,7 @@ fileDirs.forEach((fileDir) => {
     files.forEach((file) => {
         const ext = file.split('.').pop();
         const newName = path.join(__dirname, '../src', fileDir, `solution.${ext}`);
-        
+
         fs.renameSync(
             path.join(__dirname, '../src', fileDir, file),
             newName

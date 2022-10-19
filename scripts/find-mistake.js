@@ -13,6 +13,5 @@ fileList.forEach((folderName) => {
     const questionObj = questionsMap[questionId];
     if (!questionObj) {
         console.log(questionId, folderName, '问题不存在');
-        return;
     }
 });
