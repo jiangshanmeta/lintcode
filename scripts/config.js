@@ -19,4 +19,13 @@ exports.languages = [
         label: 'TypeScript',
         ext: 'ts',
     },
+    {
+        label: 'HTML',
+        ext: 'html',
+    },
+    {
+        label: 'CSS',
+        ext: 'css',
+    },
+
 ];
