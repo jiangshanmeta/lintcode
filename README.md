@@ -162,7 +162,7 @@
 | 143 | Sort Colors II |  | Medium  |
 | 144 | Interleaving Positive and Negative Numbers | [Python](./src/0144.interleaving-positive-and-negative-numbers/solution.py) | Medium  |
 | 145 | Lowercase to Uppercase | [JavaScript](./src/0145.lowercase-to-uppercase/solution.js) | Naive  |
-| 146 | Lowercase to Uppercase II |  | Naive  |
+| 146 | Lowercase to Uppercase II | [TypeScript](./src/0146.lowercase-to-uppercase-ii/solution.ts) | Naive  |
 | 147 | Narcissistic Number |  | Easy  |
 | 148 | Sort Colors |  | Medium  |
 | 149 | Best Time to Buy and Sell Stock | [JavaScript](./src/0149.best-time-to-buy-and-sell-stock/solution.js) | Medium  |
@@ -276,7 +276,7 @@
 | 260 | Same Diagonal Elements |  | Easy  |
 | 261 | Maximum Connected Area |  | Medium  |
 | 262 | heir tree |  | Medium  |
-| 263 | Matching of parentheses |  | Easy  |
+| 263 | Matching of parentheses | [TypeScript](./src/0263.matching-of-parentheses/solution.ts) | Easy  |
 | 264 | Counting Universal Subarrays |  | Easy  |
 | 265 | Maximum Non-Negative Subarray |  | Easy  |
 | 266 | Expect Distance |  | Medium  |
@@ -309,8 +309,8 @@
 | 294 | Linked List Simplification |  | Easy  |
 | 295 | Intersection |  | Easy  |
 | 296 | Unique Array |  | Easy  |
-| 297 | Find the maximum |  | Naive  |
-| 298 | Find prime |  | Naive  |
+| 297 | Find the maximum | [TypeScript](./src/0297.find-the-maximum/solution.ts) | Naive  |
+| 298 | Find prime | [TypeScript](./src/0298.find-prime/solution.ts) | Naive  |
 | 299 | Typing practising |  | Easy  |
 | 300 | Meeting Room IV |  | Medium  |
 | 301 | Lucky Number II |  | Hard  |
@@ -361,7 +361,7 @@
 | 350 | Slash Separating |  | Hard  |
 | 351 | External Sorting Practising |  | Easy  |
 | 352 | PrettyPrint |  | Easy  |
-| 353 | Largest letter |  | Easy  |
+| 353 | Largest letter | [TypeScript](./src/0353.largest-letter/solution.ts) | Easy  |
 | 354 | lottery draw |  | Hard  |
 | 355 | shuttleInBuildings |  | Hard  |
 | 357 | Symmetrical Suffix |  | Medium  |
