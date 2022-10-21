@@ -1,0 +1,9 @@
+.box1{
+    background-color: rgba(255, 0, 0, 0.5);
+}
+.box2{
+    background-color: rgba(0, 255, 0, 0.5);
+}
+.box3{
+    background-color: rgba(0, 0, 255, 0.5);
+}
