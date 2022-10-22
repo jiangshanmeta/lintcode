@@ -1,0 +1,8 @@
+h2{
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.title2{
+	text-overflow: clip;
+}
