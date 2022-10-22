@@ -1,0 +1,23 @@
+.box1 {
+    cursor: pointer;
+}
+
+.box2 {
+    cursor: grab;
+}
+
+.box3 {
+    cursor: wait;
+}
+
+.box4 {
+    cursor: not-allowed;   
+}
+
+.box5 {
+    cursor: zoom-in;
+}
+
+.box6 {
+    cursor: crosshair;
+}
