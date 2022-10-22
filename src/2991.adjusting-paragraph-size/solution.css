@@ -1,0 +1,9 @@
+.resizable1{
+    resize: horizontal;
+}
+.resizable2 {
+    resize: both;
+}
+.resizable3 {
+    resize: vertical;
+}
