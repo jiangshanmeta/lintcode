@@ -2584,11 +2584,11 @@
 | 2907 | A week of rest day (V) |  | Medium  |
 | 2908 | Replace Kth string |  | Naive  |
 | 2909 | Reverse String in K-Group |  | Easy  |
-| 2910 | Add a first level title Hello LintCode! |  | Naive  |
-| 2911 | Adding class names |  | Naive  |
-| 2912 | Production submission section |  | Naive  |
-| 2913 | Colours in HTML |  | Naive  |
-| 2914 | Writing an Ordered List |  | Naive  |
+| 2910 | Add a first level title Hello LintCode! | [HTML](./src/2910.add-a-first-level-title-hello-lintcode/solution.html) | Naive  |
+| 2911 | Adding class names | [HTML](./src/2911.adding-class-names/solution.html) | Naive  |
+| 2912 | Production submission section | [HTML](./src/2912.production-submission-section/solution.html) | Naive  |
+| 2913 | Colours in HTML | [CSS](./src/2913.colours-in-html/solution.css) | Naive  |
+| 2914 | Writing an Ordered List | [HTML](./src/2914.writing-an-ordered-list/solution.html) | Naive  |
 | 2915 | Adding CSS Styles |  | Naive  |
 | 2916 | Writing an Unordered List |  | Naive  |
 | 2917 | [Exercise] Logical operations between two variables |  | Naive  |
