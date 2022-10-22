@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+}
+.tag1,.tag2,.tag3{
+    border:2px solid steelblue;
+    border-radius: 10px;
+    padding: 3px;
+}
+p span{
+    background-color: yellow;
+}
