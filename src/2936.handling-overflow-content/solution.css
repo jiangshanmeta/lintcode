@@ -1,0 +1,9 @@
+.box1{
+    overflow: hidden;
+}
+.box2{
+    overflow: scroll;
+}
+.box3{
+    overflow: auto ;
+}
