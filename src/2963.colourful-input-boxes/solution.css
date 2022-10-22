@@ -1,0 +1,12 @@
+[name="username"]{
+    border:2px solid skyblue;
+}
+[name="age"]{
+    border: 2px solid yellow;
+}
+[name="sex"]{
+    border: 2px solid greenyellow;
+}
+[name="other"]{
+    border: 2px solid coral;
+}
