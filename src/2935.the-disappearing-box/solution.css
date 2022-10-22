@@ -1,0 +1,16 @@
+.box1,.box2,.box3{
+    width: 150px;
+    height: 150px;
+}
+
+.box1{
+    background-color: rgb(45, 211, 240);
+}
+.box2{
+    background-color: rgb(25, 158, 247);
+    visibility: hidden;
+}
+.box3{
+    background-color: rgb(0, 68, 255);
+    display: none;
+}
