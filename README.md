@@ -2589,14 +2589,14 @@
 | 2912 | Production submission section | [HTML](./src/2912.production-submission-section/solution.html) | Naive  |
 | 2913 | Colours in HTML | [CSS](./src/2913.colours-in-html/solution.css) | Naive  |
 | 2914 | Writing an Ordered List | [HTML](./src/2914.writing-an-ordered-list/solution.html) | Naive  |
-| 2915 | Adding CSS Styles |  | Naive  |
-| 2916 | Writing an Unordered List |  | Naive  |
+| 2915 | Adding CSS Styles | [CSS](./src/2915.adding-css-styles/solution.css) | Naive  |
+| 2916 | Writing an Unordered List | [HTML](./src/2916.writing-an-unordered-list/solution.html) | Naive  |
 | 2917 | [Exercise] Logical operations between two variables |  | Naive  |
-| 2918 | Formatting Old Poems |  | Naive  |
+| 2918 | Formatting Old Poems | [CSS](./src/2918.formatting-old-poems/solution.css) | Naive  |
 | 2919 | Integer Operations 2 |  | Naive  |
 | 2920 | Get the input data and print it |  | Naive  |
-| 2921 | Completing the Navigation Menu with Tab Nesting |  | Naive  |
-| 2922 | Make a Menu |  | Easy  |
+| 2921 | Completing the Navigation Menu with Tab Nesting | [HTML](./src/2921.completing-the-navigation-menu-with-tab-nesting/solution.html) | Naive  |
+| 2922 | Make a Menu | [CSS](./src/2922.make-a-menu/solution.css) [HTML](./src/2922.make-a-menu/solution.html) | Easy  |
 | 2923 | Define a list |  | Naive  |
 | 2924 | Define strings and numbers and print them |  | Naive  |
 | 2925 | Define a tuple |  | Naive  |
@@ -2609,16 +2609,16 @@
 | 2932 | Print Student Grade Point Average |  | Naive  |
 | 2933 | Print student grade point average (exception version) |  | Easy  |
 | 2934 | Read csv file and modify |  | Easy  |
-| 2935 | The Disappearing Box |  | Naive  |
-| 2936 | Handling Overflow Content |  | Naive  |
+| 2935 | The Disappearing Box | [CSS](./src/2935.the-disappearing-box/solution.css) | Naive  |
+| 2936 | Handling Overflow Content | [CSS](./src/2936.handling-overflow-content/solution.css) | Naive  |
 | 2937 | The rightmost 1 of a binary number |  | Medium  |
 | 2938 | Complete the chain table class (I) |  | Medium  |
 | 2939 | Complete the chain table class (II) |  | Easy  |
 | 2940 | Byte string and string interconversion |  | Naive  |
 | 2942 | Blocking people on the blacklist |  | Naive  |
-| 2943 | Making a Name Entry Box |  | Naive  |
-| 2945 | Modifying the Style of In-Line Phrases |  | Naive  |
-| 2946 | Positioning Sub-packagings |  | Naive  |
+| 2943 | Making a Name Entry Box | [HTML](./src/2943.making-a-name-entry-box/solution.html) | Naive  |
+| 2945 | Modifying the Style of In-Line Phrases | [CSS](./src/2945.modifying-the-style-of-in-line-phrases/solution.css) | Naive  |
+| 2946 | Positioning Sub-packagings | [CSS](./src/2946.positioning-sub-packagings/solution.css) | Naive  |
 | 2947 | Determine if it is in the list |  | Naive  |
 | 2948 | Discounts for members |  | Naive  |
 | 2949 | Find the number that appears an odd number of times |  | Easy  |
@@ -2631,20 +2631,20 @@
 | 2958 | Fetch the numbers in the list for operation |  | Naive  |
 | 2959 | Find the average of the maximum values in each list |  | Easy  |
 | 2960 | Define a function |  | Naive  |
-| 2961 | Formatting Ancient Poems II |  | Naive  |
-| 2962 | Initializing CSS |  | Naive  |
-| 2963 | Colourful Input Boxes |  | Naive  |
-| 2965 | Modifying the Mouse Cursor Style |  | Naive  |
+| 2961 | Formatting Ancient Poems II | [CSS](./src/2961.formatting-ancient-poems-ii/solution.css) | Naive  |
+| 2962 | Initializing CSS | [CSS](./src/2962.initializing-css/solution.css) | Naive  |
+| 2963 | Colourful Input Boxes | [CSS](./src/2963.colourful-input-boxes/solution.css) | Naive  |
+| 2965 | Modifying the Mouse Cursor Style | [CSS](./src/2965.modifying-the-mouse-cursor-style/solution.css) | Naive  |
 | 2966 | Adding Text and Box Shadows |  | Naive  |
-| 2967 | Colourful Buttons |  | Naive  |
-| 2968 | Text Omitted if Out of Width |  | Easy  |
+| 2967 | Colourful Buttons | [CSS](./src/2967.colourful-buttons/solution.css) | Naive  |
+| 2968 | Text Omitted if Out of Width | [CSS](./src/2968.text-omitted-if-out-of-width/solution.css) | Easy  |
 | 2971 | Making of the Heart |  | Easy  |
 | 2972 | Modify Opacity |  | Naive  |
-| 2973 | Relationship Selectors |  | Naive  |
+| 2973 | Relationship Selectors | [CSS](./src/2973.relationship-selectors/solution.css) | Naive  |
 | 2974 | The Relationship Selector II |  | Naive  |
 | 2975 | Stylized Buttons |  | Easy  |
 | 2976 | Adding a Progress Bar |  | Naive  |
-| 2977 | The Link Jump |  | Naive  |
+| 2977 | The Link Jump | [HTML](./src/2977.the-link-jump/solution.html) | Naive  |
 | 2978 | Modifying the Outer Shape of a Figure |  | Naive  |
 | 2980 | Setting the Margins of Boxes II |  | Naive  |
 | 2981 | Different Rounded Corners |  | Naive  |
@@ -2656,7 +2656,7 @@
 | 2988 | Units in CSS II |  | Naive  |
 | 2989 | Choose a Favourite Course |  | Easy  |
 | 2990 | The Cool Box |  | Naive  |
-| 2991 | Adjusting Paragraph Size |  | Naive  |
+| 2991 | Adjusting Paragraph Size | [CSS](./src/2991.adjusting-paragraph-size/solution.css) | Naive  |
 | 2992 | Revising the Outline of a Paragraph |  | Naive  |
 | 2993 | Making a Christmas Tree |  | Naive  |
 | 2994 | Modifying the Alignment of Paragraphs |  | Naive  |
