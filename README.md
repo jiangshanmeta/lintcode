@@ -418,7 +418,7 @@
 | 413 | Reverse Integer | [JavaScript](./src/0413.reverse-integer/solution.js) | Easy  |
 | 414 | Divide Two Integers |  | Medium  |
 | 415 | Valid Palindrome | [JavaScript](./src/0415.valid-palindrome/solution.js) | Medium  |
-| 417 | Valid Number |  | Easy  |
+| 417 | Valid Number | [TypeScript](./src/0417.valid-number/solution.ts) | Easy  |
 | 418 | Integer to Roman | [JavaScript](./src/0418.integer-to-roman/solution.js) | Medium  |
 | 419 | Roman to Integer | [JavaScript](./src/0419.roman-to-integer/solution.js) | Medium  |
 | 420 | Count and Say |  | Easy  |
@@ -568,7 +568,7 @@
 | 569 | Add Digits | [JavaScript](./src/0569.add-digits/solution.js) | Easy  |
 | 570 | Find the Missing Number II |  | Medium  |
 | 571 | Judgment repetition |  | Medium  |
-| 572 | Music Pairs |  | Easy  |
+| 572 | Music Pairs | [TypeScript](./src/0572.music-pairs/solution.ts) | Easy  |
 | 573 | Build Post Office II |  | Hard  |
 | 574 | Build Post Office |  | Medium  |
 | 575 | Decode String |  | Medium  |
@@ -693,7 +693,7 @@
 | 709 | Restaurant OO Design |  | Hard  |
 | 712 | Vending machine OO Design |  | Hard  |
 | 714 | Black Jack OO Design |  | Medium  |
-| 716 | Add and Search |  | Easy  |
+| 716 | Add and Search | [TypeScript](./src/0716.add-and-search/solution.ts) | Easy  |
 | 717 | Tree Longest Path With Same Value |  | Medium  |
 | 718 | Repeat String |  | Medium  |
 | 719 | Calculate Maximum Value |  | Medium  |
@@ -1101,8 +1101,8 @@
 | 1150 | Fraction Addition and Subtraction |  | Medium  |
 | 1151 | Tag Validator |  | Hard  |
 | 1152 | Erect the Fence |  | Hard  |
-| 1153 | string sorting |  | Easy  |
-| 1154 | Attendance Judgment |  | Easy  |
+| 1153 | string sorting | [TypeScript](./src/1153.string-sorting/solution.ts) | Easy  |
+| 1154 | Attendance Judgment | [TypeScript](./src/1154.attendance-judgment/solution.ts) | Easy  |
 | 1156 | Delete Operation for Two Strings | [JavaScript](./src/1156.delete-operation-for-two-strings/solution.js) | Medium  |
 | 1157 | Shortest Unsorted Continuous Subarray |  | Easy  |
 | 1158 | Plant flowers |  | Medium  |
@@ -1146,7 +1146,7 @@
 | 1196 | Freedom Trail |  | Hard  |
 | 1197 | Find Bottom Left Tree Value | [JavaScript](./src/1197.find-bottom-left-tree-value/solution.js) | Medium  |
 | 1198 | Most Frequent Subtree Sum |  | Medium  |
-| 1199 | Perfect Number |  | Easy  |
+| 1199 | Perfect Number | [TypeScript](./src/1199.perfect-number/solution.ts) | Easy  |
 | 1200 | Relative Ranks | [JavaScript](./src/1200.relative-ranks/solution.js) | Easy  |
 | 1201 | Next Greater Element II |  | Medium  |
 | 1202 | IPO |  | Hard  |
@@ -1163,7 +1163,7 @@
 | 1213 | Smallest Good Base |  | Hard  |
 | 1214 | License Key Formatting | [JavaScript](./src/1214.license-key-formatting/solution.js) | Easy  |
 | 1215 | Magical String |  | Medium  |
-| 1216 | Largest Palindrome Product |  | Easy  |
+| 1216 | Largest Palindrome Product | [TypeScript](./src/1216.largest-palindrome-product/solution.ts) | Easy  |
 | 1217 | Total Hamming Distance |  | Medium  |
 | 1218 | Number Complement | [JavaScript](./src/1218.number-complement/solution.js) | Easy  |
 | 1219 | Heaters |  | Medium  |
