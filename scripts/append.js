@@ -22,26 +22,29 @@ function append () {
         return;
     }
 
-    const ext = process.argv[3];
-    if (!extSet.has(ext)) {
-        console.log('扩展名无效');
-        return;
-    }
+    const exts = process.argvs.slice(3);
 
-    const folderName = genFolderName(question);
-    const folderDir = path.join(__dirname, '../src', folderName);
-    if (!fs.existsSync(folderDir)) {
-        fs.mkdirSync(folderDir);
-    }
+    for (const ext of exts) {
+        if (!extSet.has(ext)) {
+            console.log('扩展名无效');
+            continue;
+        }
 
-    const fileName = `solution.${ext}`;
-    const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
-    if (fs.existsSync(file)) {
-        console.log('文件已存在');
-        return;
-    }
+        const folderName = genFolderName(question);
+        const folderDir = path.join(__dirname, '../src', folderName);
+        if (!fs.existsSync(folderDir)) {
+            fs.mkdirSync(folderDir);
+        }
 
-    fs.writeFileSync(file, '');
+        const fileName = `solution.${ext}`;
+        const file = path.join(__dirname, `../src/${folderName}/${fileName}`);
+        if (fs.existsSync(file)) {
+            console.log('文件已存在');
+            continue;
+        }
+
+        fs.writeFileSync(file, '');
+    }
 }
 
 append();
