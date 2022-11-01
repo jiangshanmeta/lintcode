@@ -1,0 +1,6 @@
+span:first-of-type{
+    background-color: bisque;
+}
+p:nth-of-type(2){
+    color:red;
+}
