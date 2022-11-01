@@ -1,0 +1,9 @@
+.btn{
+    width: 100px;
+    height: 50px;
+    background: transparent;
+    border: 1px solid coral;
+    color: coral;
+    border-radius: 5px;
+    cursor: pointer;
+}
