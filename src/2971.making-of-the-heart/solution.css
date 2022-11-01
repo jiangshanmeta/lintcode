@@ -1,0 +1,24 @@
+.square,.disc1 ,.disc2 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.square{
+    margin:50px auto;
+    position: relative;
+    transform: rotate(45deg);
+}
+.disc1,.disc2{
+    border-radius: 100px;
+    position: absolute;
+}
+.disc1{
+    position: absolute;
+    left: -50px;
+    top:0;
+}
+.disc2{
+    position: absolute;
+    top:-50px;
+    left: 0;
+}
