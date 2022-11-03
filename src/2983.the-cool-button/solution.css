@@ -1,0 +1,9 @@
+button{
+    width: 300px;
+    height: 100px;
+    border: 0px;
+    border-radius: 20px;
+    font-size: 20px;
+    color: aliceblue;
+    background:linear-gradient(to left top,blue,red);
+}
