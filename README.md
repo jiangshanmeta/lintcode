@@ -1172,7 +1172,7 @@
 | 1222 | Validate IP Address |  | Medium  |
 | 1223 | Unique Substrings in Wraparound String |  | Medium  |
 | 1224 | Count The Repetitions |  | Hard  |
-| 1225 | Island Perimeter |  | Easy  |
+| 1225 | Island Perimeter | [TypeScript](./src/1225.island-perimeter/solution.ts) | Easy  |
 | 1226 | Minimum Moves to Equal Array Elements II |  | Medium  |
 | 1227 | Repeated Substring Pattern | [JavaScript](./src/1227.repeated-substring-pattern/solution.js) | Easy  |
 | 1228 | Poor Pigs |  | Easy  |
@@ -1276,7 +1276,7 @@
 | 1328 | Double Change |  | Easy  |
 | 1329 | Sequence maintenance |  | Hard  |
 | 1330 | zero matrix |  | Hard  |
-| 1331 | English Software |  | Easy  |
+| 1331 | English Software | [TypeScript](./src/1331.english-software/solution.ts) | Easy  |
 | 1332 | Number of 1 Bits | [JavaScript](./src/1332.number-of-1-bits/solution.js) | Easy  |
 | 1333 | Reverse Bits | [JavaScript](./src/1333.reverse-bits/solution.js) [Python](./src/1333.reverse-bits/solution.py) | Easy  |
 | 1334 | Rotate Array | [JavaScript](./src/1334.rotate-array/solution.js) | Easy  |
@@ -1533,7 +1533,7 @@
 | 1610 | Find the numbers |  | Medium  |
 | 1611 | Shortest subarray |  | Medium  |
 | 1612 | Smallest Path |  | Medium  |
-| 1613 | Highest frequency IP |  | Naive  |
+| 1613 | Highest frequency IP | [TypeScript](./src/1613.highest-frequency-ip/solution.ts) | Naive  |
 | 1614 | Highest growth stock |  | Easy  |
 | 1615 | The result of investment |  | Easy  |
 | 1616 | Shortest subarray II |  | Hard  |
@@ -1568,7 +1568,7 @@
 | 1646 | CheckWords |  | Medium  |
 | 1647 | Path Search |  | Medium  |
 | 1648 | max substring |  | Hard  |
-| 1649 | Super Lollipop |  | Easy  |
+| 1649 | Super Lollipop | [TypeScript](./src/1649.super-lollipop/solution.ts) | Easy  |
 | 1656 | Legal Number Statistics | [JavaScript](./src/1656.legal-number-statistics/solution.js) | Easy  |
 | 1657 | Operation Time |  | Easy  |
 | 1659 | Legal Number Statistics II |  | Easy  |
@@ -1666,7 +1666,7 @@
 | 1816 | Find the Smallest Divisor Given a Threshold |  | Medium  |
 | 1817 | Divide Chocolate |  | Hard  |
 | 1819 | Longest Semi Alternating Substring |  | Easy  |
-| 1820 | Find Letter |  | Easy  |
+| 1820 | Find Letter | [TypeScript](./src/1820.find-letter/solution.ts) | Easy  |
 | 1821 | Min Deletions To Obtain String in Right Format |  | Easy  |
 | 1822 | Minimum Moves |  | Easy  |
 | 1823 | Longest Prefix of Array |  | Easy  |
@@ -1706,7 +1706,7 @@
 | 1871 | Maximum moment |  | Easy  |
 | 1872 | Minimum Cost to Connect Sticks |  | Medium  |
 | 1874 | Kth Smallest Element in a Specific Array |  | Medium  |
-| 1876 | Alien Dictionary(easy) |  | Easy  |
+| 1876 | Alien Dictionary(easy) | [TypeScript](./src/1876.alien-dictionaryeasy/solution.ts) | Easy  |
 | 1877 | longest super sequence |  | Medium  |
 | 1878 | Rotated Nums |  | Easy  |
 | 1879 | Two Sum VII |  | Hard  |
