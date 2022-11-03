@@ -1,0 +1,9 @@
+.shape {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: rebeccapurple;
+    margin: 20px;
+    shape-outside: margin-box;
+    float:left;
+}
