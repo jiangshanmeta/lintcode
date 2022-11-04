@@ -1,0 +1,5 @@
+.root{
+    width: 100px;
+    height: 100px;
+    animation: move 5s linear infinite alternate;
+}
