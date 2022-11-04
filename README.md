@@ -1725,7 +1725,7 @@
 | 1892 | Mine-sweeping |  | Medium  |
 | 1893 | the Valid String |  | Medium  |
 | 1894 | Ad Click Analysis |  | Easy  |
-| 1895 | Arrange interview city |  | Easy  |
+| 1895 | Arrange interview city | [TypeScript](./src/1895.arrange-interview-city/solution.ts) | Easy  |
 | 1896 | Pick Carrots |  | Easy  |
 | 1897 | Meeting Room III |  | Medium  |
 | 1899 | Fetch supplies II |  | Medium  |
@@ -1735,11 +1735,11 @@
 | 1903 | Department Statistics |  | Easy  |
 | 1904 | Place the Balls |  | Hard  |
 | 1905 | Character deletion | [JavaScript](./src/1905.character-deletion/solution.js) | Easy  |
-| 1906 | Look for points that are bigger than the surrounding area |  | Easy  |
+| 1906 | Look for points that are bigger than the surrounding area | [TypeScript](./src/1906.look-for-points-that-are-bigger-than-the-surrounding-area/solution.ts) | Easy  |
 | 1907 | Array Game |  | Medium  |
 | 1908 | Boolean expression evaluation |  | Hard  |
 | 1909 | Order allocation |  | Medium  |
-| 1910 | Most numbers |  | Naive  |
+| 1910 | Most numbers | [TypeScript](./src/1910.most-numbers/solution.ts) | Naive  |
 | 1911 | As Far from Land as Possible |  | Medium  |
 | 1913 | Query Student Enrollment Information |  | Naive  |
 | 1914 | Smart Sale |  | Medium  |
@@ -2638,21 +2638,21 @@
 | 2966 | Adding Text and Box Shadows |  | Naive  |
 | 2967 | Colourful Buttons | [CSS](./src/2967.colourful-buttons/solution.css) | Naive  |
 | 2968 | Text Omitted if Out of Width | [CSS](./src/2968.text-omitted-if-out-of-width/solution.css) | Easy  |
-| 2971 | Making of the Heart |  | Easy  |
+| 2971 | Making of the Heart | [CSS](./src/2971.making-of-the-heart/solution.css) | Easy  |
 | 2972 | Modify Opacity |  | Naive  |
 | 2973 | Relationship Selectors | [CSS](./src/2973.relationship-selectors/solution.css) | Naive  |
-| 2974 | The Relationship Selector II |  | Naive  |
-| 2975 | Stylized Buttons |  | Easy  |
-| 2976 | Adding a Progress Bar |  | Naive  |
+| 2974 | The Relationship Selector II | [CSS](./src/2974.the-relationship-selector-ii/solution.css) | Naive  |
+| 2975 | Stylized Buttons | [CSS](./src/2975.stylized-buttons/solution.css) | Easy  |
+| 2976 | Adding a Progress Bar | [CSS](./src/2976.adding-a-progress-bar/solution.css) [HTML](./src/2976.adding-a-progress-bar/solution.html) | Naive  |
 | 2977 | The Link Jump | [HTML](./src/2977.the-link-jump/solution.html) | Naive  |
-| 2978 | Modifying the Outer Shape of a Figure |  | Naive  |
-| 2980 | Setting the Margins of Boxes II |  | Naive  |
-| 2981 | Different Rounded Corners |  | Naive  |
-| 2982 | The Tenth Row that Never Goes |  | Naive  |
-| 2983 | The Cool Button |  | Naive  |
+| 2978 | Modifying the Outer Shape of a Figure | [CSS](./src/2978.modifying-the-outer-shape-of-a-figure/solution.css) | Naive  |
+| 2980 | Setting the Margins of Boxes II | [CSS](./src/2980.setting-the-margins-of-boxes-ii/solution.css) | Naive  |
+| 2981 | Different Rounded Corners | [CSS](./src/2981.different-rounded-corners/solution.css) | Naive  |
+| 2982 | The Tenth Row that Never Goes | [CSS](./src/2982.the-tenth-row-that-never-goes/solution.css) | Naive  |
+| 2983 | The Cool Button | [CSS](./src/2983.the-cool-button/solution.css) | Naive  |
 | 2984 | Moving Black Blocks |  | Naive  |
-| 2986 | Units in CSS |  | Naive  |
-| 2987 | Selecting dishes |  | Naive  |
+| 2986 | Units in CSS | [CSS](./src/2986.units-in-css/solution.css) | Naive  |
+| 2987 | Selecting dishes | [HTML](./src/2987.selecting-dishes/solution.html) | Naive  |
 | 2988 | Units in CSS II |  | Naive  |
 | 2989 | Choose a Favourite Course |  | Easy  |
 | 2990 | The Cool Box |  | Naive  |
