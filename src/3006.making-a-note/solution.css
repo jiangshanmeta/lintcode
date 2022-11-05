@@ -1,0 +1,15 @@
+.para{
+    line-height: 30px;
+}
+.highlight {
+    text-decoration: underline red;
+}
+.note{
+    text-decoration: underline wavy;
+}
+.point{
+    text-decoration: underline overline dashed;
+}
+.delete{
+    text-decoration: line-through;
+}
