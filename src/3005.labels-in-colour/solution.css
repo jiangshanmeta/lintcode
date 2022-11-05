@@ -1,0 +1,12 @@
+.root1 span:first-child{
+    /* display: block; */
+    background-color: lightseagreen;
+}
+
+.root2 span:nth-child(2n-1){
+    background-color: lightpink;
+}
+
+.root3 span:nth-child(-n+3){
+    background-color: lightskyblue;
+}
