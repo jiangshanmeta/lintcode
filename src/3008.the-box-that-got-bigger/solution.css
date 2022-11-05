@@ -1,0 +1,5 @@
+.root {
+    width: 100px;
+    height: 100px;
+    transition: background-color 5s ease 0s, width 5s ease 0s;
+}
