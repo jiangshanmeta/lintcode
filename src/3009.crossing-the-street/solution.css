@@ -1,0 +1,8 @@
+.crossing {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.adult{
+    order: -1;
+}
