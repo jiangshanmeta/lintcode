@@ -1,0 +1,18 @@
+.left1{
+    float: left;
+}
+.right1{
+    float: right;
+}
+.root2{
+    display: flex;
+    justify-content: space-between;
+}
+.root3{
+position: relative;
+}
+.right3{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
