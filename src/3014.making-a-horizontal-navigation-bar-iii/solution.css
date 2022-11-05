@@ -1,0 +1,10 @@
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    flex-grow: 1;
+}
+nav ul li:nth-child(4) {
+    flex-grow: 3;
+}
