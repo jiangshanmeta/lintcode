@@ -1,0 +1,9 @@
+h1:nth-of-type(odd){
+    color: steelblue;
+}
+p:first-of-type{
+    text-decoration:  underline wavy;
+}
+p:last-of-type{
+    text-decoration: line-through;
+}
