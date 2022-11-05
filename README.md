@@ -2654,16 +2654,16 @@
 | 2986 | Units in CSS | [CSS](./src/2986.units-in-css/solution.css) | Naive  |
 | 2987 | Selecting dishes | [HTML](./src/2987.selecting-dishes/solution.html) | Naive  |
 | 2988 | Units in CSS II |  | Naive  |
-| 2989 | Choose a Favourite Course |  | Easy  |
-| 2990 | The Cool Box |  | Naive  |
+| 2989 | Choose a Favourite Course | [HTML](./src/2989.choose-a-favourite-course/solution.html) | Easy  |
+| 2990 | The Cool Box | [CSS](./src/2990.the-cool-box/solution.css) | Naive  |
 | 2991 | Adjusting Paragraph Size | [CSS](./src/2991.adjusting-paragraph-size/solution.css) | Naive  |
 | 2992 | Revising the Outline of a Paragraph |  | Naive  |
-| 2993 | Making a Christmas Tree |  | Naive  |
-| 2994 | Modifying the Alignment of Paragraphs |  | Naive  |
+| 2993 | Making a Christmas Tree | [CSS](./src/2993.making-a-christmas-tree/solution.css) | Naive  |
+| 2994 | Modifying the Alignment of Paragraphs | [CSS](./src/2994.modifying-the-alignment-of-paragraphs/solution.css) | Naive  |
 | 2995 | Choose Your Favorite Animal |  | Naive  |
-| 2996 | Making a Student Information Form |  | Naive  |
-| 2997 | Modifying Case |  | Naive  |
-| 2998 | Making a Horizontal Navigation Bar |  | Easy  |
+| 2996 | Making a Student Information Form | [CSS](./src/2996.making-a-student-information-form/solution.css) [HTML](./src/2996.making-a-student-information-form/solution.html) | Naive  |
+| 2997 | Modifying Case | [CSS](./src/2997.modifying-case/solution.css) | Naive  |
+| 2998 | Making a Horizontal Navigation Bar | [CSS](./src/2998.making-a-horizontal-navigation-bar/solution.css) [HTML](./src/2998.making-a-horizontal-navigation-bar/solution.html) | Easy  |
 | 2999 | Making a Vertical Navigation Bar |  | Easy  |
 | 3000 | Making a Horizontal Navigation Bar (II) |  | Naive  |
 | 3001 | Modifying Character Spacing |  | Naive  |
