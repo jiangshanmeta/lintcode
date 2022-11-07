@@ -2674,13 +2674,13 @@
 | 3006 | Making a Note | [CSS](./src/3006.making-a-note/solution.css) | Naive  |
 | 3007 | Selecting Brother Headings and Paragraphs | [CSS](./src/3007.selecting-brother-headings-and-paragraphs/solution.css) | Naive  |
 | 3008 | The Box That Got Bigger | [CSS](./src/3008.the-box-that-got-bigger/solution.css) | Naive  |
-| 3009 | Crossing the Street |  | Naive  |
+| 3009 | Crossing the Street | [CSS](./src/3009.crossing-the-street/solution.css) | Naive  |
 | 3010 | Modifying the Boldness of Fonts |  | Naive  |
 | 3012 | Making CSS Box Model |  | Easy  |
-| 3013 | The Many Ways to Distribute Left and Right |  | Easy  |
-| 3014 | Making a Horizontal Navigation Bar III |  | Easy  |
-| 3015 | Changing the Point of Origin |  | Naive  |
-| 3017 | Modifying Text Size |  | Naive  |
+| 3013 | The Many Ways to Distribute Left and Right | [CSS](./src/3013.the-many-ways-to-distribute-left-and-right/solution.css) | Easy  |
+| 3014 | Making a Horizontal Navigation Bar III | [CSS](./src/3014.making-a-horizontal-navigation-bar-iii/solution.css) | Easy  |
+| 3015 | Changing the Point of Origin | [CSS](./src/3015.changing-the-point-of-origin/solution.css) | Naive  |
+| 3017 | Modifying Text Size | [CSS](./src/3017.modifying-text-size/solution.css) | Naive  |
 | 3018 | Setting the Background Pattern Style |  | Naive  |
 | 3019 | Modify Picture Style |  | Naive  |
 | 3020 | The Cutting Box |  | Naive  |
