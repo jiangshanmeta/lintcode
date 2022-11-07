@@ -2665,15 +2665,15 @@
 | 2997 | Modifying Case | [CSS](./src/2997.modifying-case/solution.css) | Naive  |
 | 2998 | Making a Horizontal Navigation Bar | [CSS](./src/2998.making-a-horizontal-navigation-bar/solution.css) [HTML](./src/2998.making-a-horizontal-navigation-bar/solution.html) | Easy  |
 | 2999 | Making a Vertical Navigation Bar |  | Easy  |
-| 3000 | Making a Horizontal Navigation Bar (II) |  | Naive  |
+| 3000 | Making a Horizontal Navigation Bar (II) | [CSS](./src/3000.making-a-horizontal-navigation-bar-ii/solution.css) | Naive  |
 | 3001 | Modifying Character Spacing |  | Naive  |
-| 3002 | Modifying Paragraph Indentations |  | Naive  |
-| 3003 | The Dazzling Text |  | Naive  |
-| 3004 | Revising Poetry Row High |  | Naive  |
-| 3005 | Labels in Colour |  | Naive  |
-| 3006 | Making a Note |  | Naive  |
-| 3007 | Selecting Brother Headings and Paragraphs |  | Naive  |
-| 3008 | The Box That Got Bigger |  | Naive  |
+| 3002 | Modifying Paragraph Indentations | [CSS](./src/3002.modifying-paragraph-indentations/solution.css) | Naive  |
+| 3003 | The Dazzling Text | [CSS](./src/3003.the-dazzling-text/solution.css) | Naive  |
+| 3004 | Revising Poetry Row High | [CSS](./src/3004.revising-poetry-row-high/solution.css) | Naive  |
+| 3005 | Labels in Colour | [CSS](./src/3005.labels-in-colour/solution.css) | Naive  |
+| 3006 | Making a Note | [CSS](./src/3006.making-a-note/solution.css) | Naive  |
+| 3007 | Selecting Brother Headings and Paragraphs | [CSS](./src/3007.selecting-brother-headings-and-paragraphs/solution.css) | Naive  |
+| 3008 | The Box That Got Bigger | [CSS](./src/3008.the-box-that-got-bigger/solution.css) | Naive  |
 | 3009 | Crossing the Street |  | Naive  |
 | 3010 | Modifying the Boldness of Fonts |  | Naive  |
 | 3012 | Making CSS Box Model |  | Easy  |
