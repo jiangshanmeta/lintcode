@@ -1,0 +1,4 @@
+.pic{
+    clip-path: circle(50%);
+    shape-outside: margin-box;
+}
