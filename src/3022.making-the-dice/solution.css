@@ -1,0 +1,24 @@
+.cube {
+    transform-style: preserve-3d;
+    transform: rotateX(-30deg)  rotateY(30deg);
+}
+
+.front {
+    transform: translateZ(1em);
+}
+
+.top {
+    transform: rotateX(90deg) translateZ(1em);
+}
+.right{
+    transform: rotateY(90deg) translateZ(1em);
+}
+.left{
+    transform: rotateY(-90deg) translateZ(1em);
+}
+.bottom {
+    transform: rotateX(-90deg) translateZ(1em);
+}
+.back{
+    transform: rotateY(-180deg) translateZ(1em);
+}
