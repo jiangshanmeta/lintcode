@@ -1,0 +1,11 @@
+table{
+    background: lightcyan;
+    text-align: center;
+    
+}
+tr:nth-child(odd){
+    background: dodgerblue;
+}  
+tr:nth-child(even){
+     background: lightskyblue;
+}
