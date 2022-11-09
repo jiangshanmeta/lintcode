@@ -2681,14 +2681,14 @@
 | 3014 | Making a Horizontal Navigation Bar III | [CSS](./src/3014.making-a-horizontal-navigation-bar-iii/solution.css) | Easy  |
 | 3015 | Changing the Point of Origin | [CSS](./src/3015.changing-the-point-of-origin/solution.css) | Naive  |
 | 3017 | Modifying Text Size | [CSS](./src/3017.modifying-text-size/solution.css) | Naive  |
-| 3018 | Setting the Background Pattern Style |  | Naive  |
-| 3019 | Modify Picture Style |  | Naive  |
-| 3020 | The Cutting Box |  | Naive  |
-| 3021 | Choosing a Favourite Critter II |  | Easy  |
-| 3022 | Making the Dice |  | Easy  |
-| 3023 | The Extra Long Word |  | Naive  |
-| 3026 | Modifying Boxes Borders |  | Naive  |
-| 3027 | Tables for Colour Explosion |  | Naive  |
+| 3018 | Setting the Background Pattern Style | [CSS](./src/3018.setting-the-background-pattern-style/solution.css) | Naive  |
+| 3019 | Modify Picture Style | [CSS](./src/3019.modify-picture-style/solution.css) [HTML](./src/3019.modify-picture-style/solution.html) | Naive  |
+| 3020 | The Cutting Box | [CSS](./src/3020.the-cutting-box/solution.css) | Naive  |
+| 3021 | Choosing a Favourite Critter II | [HTML](./src/3021.choosing-a-favourite-critter-ii/solution.html) | Easy  |
+| 3022 | Making the Dice | [CSS](./src/3022.making-the-dice/solution.css) | Easy  |
+| 3023 | The Extra Long Word | [CSS](./src/3023.the-extra-long-word/solution.css) | Naive  |
+| 3026 | Modifying Boxes Borders | [CSS](./src/3026.modifying-boxes-borders/solution.css) | Naive  |
+| 3027 | Tables for Colour Explosion | [CSS](./src/3027.tables-for-colour-explosion/solution.css) | Naive  |
 | 3029 | Modifying the Background Origin |  | Naive  |
 | 3044 | Designing a Search Box |  | Easy  |
 | 3048 | Making a Login Form |  | Easy  |
