@@ -1,0 +1,6 @@
+.text1{
+    word-break: keep-all;
+}
+.text2{
+    word-break: break-all;
+}
