@@ -1,0 +1,22 @@
+form{
+    display: flex;
+    width: 80%;
+    height: 300px;
+    background-color: aliceblue;
+    border-style: solid;
+    border-width: 1px;
+    border-color: lightblue;
+    flex-direction: column;
+    justify-content: space-evenly; /*主軸等間隔*/
+    align-items:center;  /*交叉軸*/
+    
+}
+
+input{
+    width: 80%;
+    height: 30px;
+}
+
+.a{
+    cursor:pointer;
+}
