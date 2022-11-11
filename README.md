@@ -857,7 +857,7 @@
 | 889 | Sentence Screen Fitting |  | Medium  |
 | 890 | Minimum Unique Word Abbreviation |  | Hard  |
 | 891 | Valid Palindrome II | [JavaScript](./src/0891.valid-palindrome-ii/solution.js) | Medium  |
-| 892 | Alien Dictionary |  | Hard  |
+| 892 | Alien Dictionary | [JavaScript](./src/0892.alien-dictionary/solution.js) | Hard  |
 | 893 | Longest Palindromic Substring II |  | Hard  |
 | 894 | Pancake Sorting |  | Medium  |
 | 895 | Friend Request |  | Easy  |
@@ -1469,7 +1469,7 @@
 | 1537 | Swap Zero-One |  | Medium  |
 | 1538 | Card Game II |  | Medium  |
 | 1539 | Flipped the Pixel |  | Medium  |
-| 1540 | Can Convert |  | Easy  |
+| 1540 | Can Convert | [TypeScript](./src/1540.can-convert/solution.ts) | Easy  |
 | 1541 | Put Box |  | Medium  |
 | 1542 | NextTime  Norepeat |  | Medium  |
 | 1543 | Unique Path IV |  | Medium  |
@@ -2689,12 +2689,12 @@
 | 3023 | The Extra Long Word | [CSS](./src/3023.the-extra-long-word/solution.css) | Naive  |
 | 3026 | Modifying Boxes Borders | [CSS](./src/3026.modifying-boxes-borders/solution.css) | Naive  |
 | 3027 | Tables for Colour Explosion | [CSS](./src/3027.tables-for-colour-explosion/solution.css) | Naive  |
-| 3029 | Modifying the Background Origin |  | Naive  |
-| 3044 | Designing a Search Box |  | Easy  |
-| 3048 | Making a Login Form |  | Easy  |
-| 3061 | Basic structure of HTML |  | Naive  |
+| 3029 | Modifying the Background Origin | [CSS](./src/3029.modifying-the-background-origin/solution.css) | Naive  |
+| 3044 | Designing a Search Box | [CSS](./src/3044.designing-a-search-box/solution.css) [HTML](./src/3044.designing-a-search-box/solution.html) | Easy  |
+| 3048 | Making a Login Form | [CSS](./src/3048.making-a-login-form/solution.css) [HTML](./src/3048.making-a-login-form/solution.html) | Easy  |
+| 3061 | Basic structure of HTML | [HTML](./src/3061.basic-structure-of-html/solution.html) | Naive  |
 | 3062 | Print Hello World! |  | Naive  |
-| 3063 | HTML Page Title Tag |  | Naive  |
+| 3063 | HTML Page Title Tag | [HTML](./src/3063.html-page-title-tag/solution.html) | Naive  |
 | 3064 | Data Portfolio |  | Naive  |
 | 3065 | Basic syntax of HTML |  | Naive  |
 | 3067 | Easy Calculator |  | Naive  |
