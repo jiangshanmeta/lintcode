@@ -2696,21 +2696,21 @@
 | 3062 | Print Hello World! |  | Naive  |
 | 3063 | HTML Page Title Tag | [HTML](./src/3063.html-page-title-tag/solution.html) | Naive  |
 | 3064 | Data Portfolio |  | Naive  |
-| 3065 | Basic syntax of HTML |  | Naive  |
+| 3065 | Basic syntax of HTML | [HTML](./src/3065.basic-syntax-of-html/solution.html) | Naive  |
 | 3067 | Easy Calculator |  | Naive  |
 | 3068 | Exchange variables |  | Naive  |
-| 3069 | Custom text content tags span |  | Naive  |
+| 3069 | Custom text content tags span | [HTML](./src/3069.custom-text-content-tags-span/solution.html) | Naive  |
 | 3070 | Progressive data |  | Naive  |
-| 3071 | Image tags img |  | Naive  |
-| 3072 | Horizontal line tag hr |  | Naive  |
+| 3071 | Image tags img | [HTML](./src/3071.image-tags-img/solution.html) | Naive  |
+| 3072 | Horizontal line tag hr | [HTML](./src/3072.horizontal-line-tag-hr/solution.html) | Naive  |
 | 3073 | Hello world! |  | Naive  |
 | 3074 | Parity judgment |  | Naive  |
 | 3075 | Determining leap years (PHP version) |  | Naive  |
-| 3077 | Paragraph tag p |  | Naive  |
+| 3077 | Paragraph tag p | [HTML](./src/3077.paragraph-tag-p/solution.html) | Naive  |
 | 3078 | Write route and view |  | Naive  |
 | 3081 | Standard input and output statements |  | Naive  |
 | 3082 | Branching Statements |  | Naive  |
-| 3083 | Custom Tag div |  | Naive  |
+| 3083 | Custom Tag div | [HTML](./src/3083.custom-tag-div/solution.html) | Naive  |
 | 3084 | Loop statements |  | Naive  |
 | 3085 | Introduction to Functions |  | Naive  |
 | 3086 | Month days judgment |  | Naive  |
