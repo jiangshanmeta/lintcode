@@ -1,35 +1,57 @@
+const fs = require('fs');
+const path = require('path');
+const readline = require('readline');
+const questions = require('./question.json');
+const questionMap = questions.reduce((obj, item) => {
+    obj[item.index] = item;
+    return obj;
+}, Object.create(null));
+
+const languages = require('./config').languages;
+const extSet = new Set(languages.map(item => item.ext));
+
+const rl = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout,
+});
+
 const {
     genFolderName,
 } = require('./common');
 
-function append () {
-    const fs = require('fs');
-    const path = require('path');
-    const questions = require('./question.json');
-    const questionMap = questions.reduce((obj, item) => {
-        obj[item.index] = item;
-        return obj;
-    }, Object.create(null));
+function getIndex () {
+    return new Promise((resolve) => {
+        rl.question('index? ', (index) => {
+            index = index.trim();
+            const question = questionMap[index];
+            console.log(question);
+            if (!question) {
+                console.log('没有对应的问题');
+                resolve(getIndex());
+            } else {
+                resolve(index);
+            }
+        });
+    });
+}
 
-    const languages = require('./config').languages;
-    const extSet = new Set(languages.map(item => item.ext));
+function getExts () {
+    return new Promise((resolve) => {
+        rl.question('exts? ', (extstr) => {
+            const exts = extstr.split(' ').filter(item => extSet.has(item));
+            if (exts.length === 0) {
+                resolve(getExts());
+            } else {
+                resolve(exts);
+            }
+        });
+    });
+}
 
-    const index = process.argv[2];
+function append (index, exts) {
     const question = questionMap[index];
-    console.log(question);
-    if (!question) {
-        console.log('没有对应的问题');
-        return;
-    }
-
-    const exts = process.argvs.slice(3);
 
     for (const ext of exts) {
-        if (!extSet.has(ext)) {
-            console.log('扩展名无效');
-            continue;
-        }
-
         const folderName = genFolderName(question);
         const folderDir = path.join(__dirname, '../src', folderName);
         if (!fs.existsSync(folderDir)) {
@@ -47,4 +69,12 @@ function append () {
     }
 }
 
-append();
+async function main () {
+    while (true) {
+        const index = await getIndex();
+        const exts = await getExts();
+        append(index, exts);
+    }
+}
+
+main();
