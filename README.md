@@ -2714,10 +2714,10 @@
 | 3084 | Loop statements |  | Naive  |
 | 3085 | Introduction to Functions |  | Naive  |
 | 3086 | Month days judgment |  | Naive  |
-| 3087 | Frame tag iframe |  | Naive  |
+| 3087 | Frame tag iframe | [HTML](./src/3087.frame-tag-iframe/solution.html) | Naive  |
 | 3088 | Score Leveling |  | Naive  |
 | 3089 | Variable definition exercise |  | Naive  |
-| 3090 | Common Structured Element Tags |  | Easy  |
+| 3090 | Common Structured Element Tags | [HTML](./src/3090.common-structured-element-tags/solution.html) | Easy  |
 | 3091 | Maximal Convention (php version) |  | Naive  |
 | 3092 | Summation (PHP version) |  | Naive  |
 | 3093 | Han Xin Points (PHP version) |  | Naive  |
@@ -2725,15 +2725,15 @@
 | 3095 | Is it a letter? |  | Easy  |
 | 3096 | Is it a leap year? |  | Easy  |
 | 3097 | The sum of numbers that are not divisible by 7 |  | Naive  |
-| 3098 | Button tag button |  | Naive  |
+| 3098 | Button tag button | [HTML](./src/3098.button-tag-button/solution.html) | Naive  |
 | 3099 | Implement Polls application Model |  | Easy  |
-| 3100 | Text field tag textarea |  | Naive  |
+| 3100 | Text field tag textarea | [HTML](./src/3100.text-field-tag-textarea/solution.html) | Naive  |
 | 3101 | Make the model modifiable in admin |  | Naive  |
 | 3102 | Binary digits of an integer |  | Easy  |
 | 3103 | Write URLconf |  | Easy  |
-| 3104 | Drop-down menu tag select |  | Naive  |
+| 3104 | Drop-down menu tag select | [HTML](./src/3104.drop-down-menu-tag-select/solution.html) | Naive  |
 | 3105 | Take absolute value |  | Easy  |
-| 3106 | Label wrap input box label |  | Naive  |
+| 3106 | Label wrap input box label | [HTML](./src/3106.label-wrap-input-box-label/solution.html) | Naive  |
 | 3107 | Write URLconf (Bug Fix) |  | Naive  |
 | 3108 | Movie Rating |  | Easy  |
 | 3109 | Customize background management |  | Naive  |
