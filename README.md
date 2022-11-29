@@ -51,13 +51,13 @@
 | 32 | Minimum Window Substring | [Python](./src/0032.minimum-window-substring/solution.py) | Medium  |
 | 33 | N-Queens |  | Medium  |
 | 34 | N-Queens II |  | Medium  |
-| 35 | Reverse Linked List | [JavaScript](./src/0035.reverse-linked-list/solution.js) | Easy  |
+| 35 | Reverse Linked List | [JavaScript](./src/0035.reverse-linked-list/solution.js) [TypeScript](./src/0035.reverse-linked-list/solution.ts) | Easy  |
 | 36 | Reverse Linked List II | [JavaScript](./src/0036.reverse-linked-list-ii/solution.js) | Medium  |
 | 37 | Reverse 3-digit Integer | [JavaScript](./src/0037.reverse-3-digit-integer/solution.js) | Naive  |
 | 38 | Search a 2D Matrix II | [JavaScript](./src/0038.search-a-2d-matrix-ii/solution.js) | Medium  |
 | 39 | Recover Rotated Sorted Array | [JavaScript](./src/0039.recover-rotated-sorted-array/solution.js) | Easy  |
 | 40 | Implement Queue by Two Stacks | [Python](./src/0040.implement-queue-by-two-stacks/solution.py) | Medium  |
-| 41 | Maximum Subarray | [JavaScript](./src/0041.maximum-subarray/solution.js) | Easy  |
+| 41 | Maximum Subarray | [JavaScript](./src/0041.maximum-subarray/solution.js) [TypeScript](./src/0041.maximum-subarray/solution.ts) | Easy  |
 | 42 | Maximum Subarray II | [Python](./src/0042.maximum-subarray-ii/solution.py) | Medium  |
 | 43 | Maximum Subarray III | [JavaScript](./src/0043.maximum-subarray-iii/solution.js) | Hard  |
 | 44 | Minimum Subarray | [Python](./src/0044.minimum-subarray/solution.py) | Easy  |
@@ -71,7 +71,7 @@
 | 52 | Next Permutation |  | Medium  |
 | 53 | Reverse Words in a String | [Python](./src/0053.reverse-words-in-a-string/solution.py) | Easy  |
 | 54 | String to Integer (atoi) |  | Hard  |
-| 55 | Compare Strings | [JavaScript](./src/0055.compare-strings/solution.js) | Easy  |
+| 55 | Compare Strings | [JavaScript](./src/0055.compare-strings/solution.js) [TypeScript](./src/0055.compare-strings/solution.ts) | Easy  |
 | 56 | Two Sum | [JavaScript](./src/0056.two-sum/solution.js) | Easy  |
 | 57 | 3Sum | [Python](./src/0057.3sum/solution.py) | Medium  |
 | 58 | 4Sum | [JavaScript](./src/0058.4sum/solution.js) [Python](./src/0058.4sum/solution.py) | Medium  |
@@ -83,11 +83,11 @@
 | 64 | Merge Sorted Array (easy version) | [Python](./src/0064.merge-sorted-array-easy-version/solution.py) | Easy  |
 | 65 | Median of two Sorted Arrays |  | Hard  |
 | 66 | Binary Tree Preorder Traversal | [JavaScript](./src/0066.binary-tree-preorder-traversal/solution.js) | Easy  |
-| 67 | Binary Tree Inorder Traversal | [JavaScript](./src/0067.binary-tree-inorder-traversal/solution.js) | Easy  |
-| 68 | Binary Tree Postorder Traversal | [JavaScript](./src/0068.binary-tree-postorder-traversal/solution.js) | Easy  |
-| 69 | Binary Tree Level Order Traversal | [JavaScript](./src/0069.binary-tree-level-order-traversal/solution.js) | Easy  |
+| 67 | Binary Tree Inorder Traversal | [JavaScript](./src/0067.binary-tree-inorder-traversal/solution.js) [TypeScript](./src/0067.binary-tree-inorder-traversal/solution.ts) | Easy  |
+| 68 | Binary Tree Postorder Traversal | [JavaScript](./src/0068.binary-tree-postorder-traversal/solution.js) [TypeScript](./src/0068.binary-tree-postorder-traversal/solution.ts) | Easy  |
+| 69 | Binary Tree Level Order Traversal | [JavaScript](./src/0069.binary-tree-level-order-traversal/solution.js) [TypeScript](./src/0069.binary-tree-level-order-traversal/solution.ts) | Easy  |
 | 70 | Binary Tree Level Order Traversal II | [Python](./src/0070.binary-tree-level-order-traversal-ii/solution.py) | Medium  |
-| 71 | Binary Tree Zigzag Level Order Traversal | [JavaScript](./src/0071.binary-tree-zigzag-level-order-traversal/solution.js) | Medium  |
+| 71 | Binary Tree Zigzag Level Order Traversal | [JavaScript](./src/0071.binary-tree-zigzag-level-order-traversal/solution.js) [TypeScript](./src/0071.binary-tree-zigzag-level-order-traversal/solution.ts) | Medium  |
 | 72 | Construct Binary Tree from Inorder and Postorder Traversal | [JavaScript](./src/0072.construct-binary-tree-from-inorder-and-postorder-traversal/solution.js) | Medium  |
 | 73 | Construct Binary Tree from Preorder and Inorder Traversal | [JavaScript](./src/0073.construct-binary-tree-from-preorder-and-inorder-traversal/solution.js) | Medium  |
 | 74 | First Bad Version | [Python](./src/0074.first-bad-version/solution.py) | Medium  |
@@ -2714,10 +2714,10 @@
 | 3084 | Loop statements |  | Naive  |
 | 3085 | Introduction to Functions |  | Naive  |
 | 3086 | Month days judgment |  | Naive  |
-| 3087 | Frame tag iframe |  | Naive  |
+| 3087 | Frame tag iframe | [HTML](./src/3087.frame-tag-iframe/solution.html) | Naive  |
 | 3088 | Score Leveling |  | Naive  |
 | 3089 | Variable definition exercise |  | Naive  |
-| 3090 | Common Structured Element Tags |  | Easy  |
+| 3090 | Common Structured Element Tags | [HTML](./src/3090.common-structured-element-tags/solution.html) | Easy  |
 | 3091 | Maximal Convention (php version) |  | Naive  |
 | 3092 | Summation (PHP version) |  | Naive  |
 | 3093 | Han Xin Points (PHP version) |  | Naive  |
@@ -2725,15 +2725,15 @@
 | 3095 | Is it a letter? |  | Easy  |
 | 3096 | Is it a leap year? |  | Easy  |
 | 3097 | The sum of numbers that are not divisible by 7 |  | Naive  |
-| 3098 | Button tag button |  | Naive  |
+| 3098 | Button tag button | [HTML](./src/3098.button-tag-button/solution.html) | Naive  |
 | 3099 | Implement Polls application Model |  | Easy  |
-| 3100 | Text field tag textarea |  | Naive  |
+| 3100 | Text field tag textarea | [HTML](./src/3100.text-field-tag-textarea/solution.html) | Naive  |
 | 3101 | Make the model modifiable in admin |  | Naive  |
 | 3102 | Binary digits of an integer |  | Easy  |
 | 3103 | Write URLconf |  | Easy  |
-| 3104 | Drop-down menu tag select |  | Naive  |
+| 3104 | Drop-down menu tag select | [HTML](./src/3104.drop-down-menu-tag-select/solution.html) | Naive  |
 | 3105 | Take absolute value |  | Easy  |
-| 3106 | Label wrap input box label |  | Naive  |
+| 3106 | Label wrap input box label | [HTML](./src/3106.label-wrap-input-box-label/solution.html) | Naive  |
 | 3107 | Write URLconf (Bug Fix) |  | Naive  |
 | 3108 | Movie Rating |  | Easy  |
 | 3109 | Customize background management |  | Naive  |
