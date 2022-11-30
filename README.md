@@ -113,7 +113,7 @@
 | 94 | Binary Tree Maximum Path Sum | [JavaScript](./src/0094.binary-tree-maximum-path-sum/solution.js) | Medium  |
 | 95 | Validate Binary Search Tree | [JavaScript](./src/0095.validate-binary-search-tree/solution.js) | Medium  |
 | 96 | Partition List | [JavaScript](./src/0096.partition-list/solution.js) | Easy  |
-| 97 | Maximum Depth of Binary Tree | [JavaScript](./src/0097.maximum-depth-of-binary-tree/solution.js) | Easy  |
+| 97 | Maximum Depth of Binary Tree | [JavaScript](./src/0097.maximum-depth-of-binary-tree/solution.js) [TypeScript](./src/0097.maximum-depth-of-binary-tree/solution.ts) | Easy  |
 | 98 | Sort List | [Python](./src/0098.sort-list/solution.py) | Medium  |
 | 99 | Reorder List | [Python](./src/0099.reorder-list/solution.py) | Medium  |
 | 100 | Remove Duplicates from Sorted Array | [Python](./src/0100.remove-duplicates-from-sorted-array/solution.py) | Easy  |
@@ -203,7 +203,7 @@
 | 185 | Matrix Zigzag Traversal | [JavaScript](./src/0185.matrix-zigzag-traversal/solution.js) | Easy  |
 | 186 | Max Points on a Line |  | Medium  |
 | 187 | Gas Station |  | Medium  |
-| 188 | Insert five |  | Easy  |
+| 188 | Insert five | [TypeScript](./src/0188.insert-five/solution.ts) | Easy  |
 | 189 | First Missing Positive | [JavaScript](./src/0189.first-missing-positive/solution.js) | Medium  |
 | 191 | Maximum Product Subarray | [JavaScript](./src/0191.maximum-product-subarray/solution.js) | Medium  |
 | 192 | Wildcard Matching |  | Hard  |
@@ -990,7 +990,7 @@
 | 1028 | Rotated Digits |  | Easy  |
 | 1029 | Cheapest Flights Within K Stops |  | Medium  |
 | 1030 | K-th Smallest Prime Fraction |  | Hard  |
-| 1031 | Is Graph Bipartite? |  | Medium  |
+| 1031 | Is Graph Bipartite? | [TypeScript](./src/1031.is-graph-bipartite/solution.ts) | Medium  |
 | 1032 | Letter Case Permutation | [JavaScript](./src/1032.letter-case-permutation/solution.js) | Easy  |
 | 1033 | Minimum Difference Between BST Nodes | [JavaScript](./src/1033.minimum-difference-between-bst-nodes/solution.js) | Easy  |
 | 1034 | Transform to Chessboard |  | Hard  |
@@ -1702,8 +1702,8 @@
 | 1867 | Most Frequent Word II |  | Easy  |
 | 1868 | Find the Number of “Balance” in the String |  | Medium  |
 | 1869 | Count Square Submatrices with All Ones |  | Medium  |
-| 1870 | Number of Substrings with All Zeroes |  | Medium  |
-| 1871 | Maximum moment |  | Easy  |
+| 1870 | Number of Substrings with All Zeroes | [TypeScript](./src/1870.number-of-substrings-with-all-zeroes/solution.ts) | Medium  |
+| 1871 | Maximum moment | [TypeScript](./src/1871.maximum-moment/solution.ts) | Easy  |
 | 1872 | Minimum Cost to Connect Sticks |  | Medium  |
 | 1874 | Kth Smallest Element in a Specific Array |  | Medium  |
 | 1876 | Alien Dictionary(easy) | [TypeScript](./src/1876.alien-dictionaryeasy/solution.ts) | Easy  |
@@ -1717,7 +1717,7 @@
 | 1884 | Take Away The Bottle |  | Hard  |
 | 1885 | A Strange Sorting Problem |  | Hard  |
 | 1886 | Moving Target |  | Easy  |
-| 1887 | Stretch Word |  | Easy  |
+| 1887 | Stretch Word | [TypeScript](./src/1887.stretch-word/solution.ts) | Easy  |
 | 1888 | Shortest Path in Matrix |  | Medium  |
 | 1889 | Interval Merge |  | Medium  |
 | 1890 | Form Minimum Number |  | Medium  |
