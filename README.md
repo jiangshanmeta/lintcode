@@ -1708,7 +1708,7 @@
 | 1874 | Kth Smallest Element in a Specific Array |  | Medium  |
 | 1876 | Alien Dictionary(easy) | [TypeScript](./src/1876.alien-dictionaryeasy/solution.ts) | Easy  |
 | 1877 | longest super sequence |  | Medium  |
-| 1878 | Rotated Nums |  | Easy  |
+| 1878 | Rotated Nums | [TypeScript](./src/1878.rotated-nums/solution.ts) | Easy  |
 | 1879 | Two Sum VII |  | Hard  |
 | 1880 | Largest Number X Which Occurs X Times |  | Easy  |
 | 1881 | Aircraft seat |  | Easy  |
@@ -1726,11 +1726,11 @@
 | 1893 | the Valid String |  | Medium  |
 | 1894 | Ad Click Analysis |  | Easy  |
 | 1895 | Arrange interview city | [TypeScript](./src/1895.arrange-interview-city/solution.ts) | Easy  |
-| 1896 | Pick Carrots |  | Easy  |
+| 1896 | Pick Carrots | [TypeScript](./src/1896.pick-carrots/solution.ts) | Easy  |
 | 1897 | Meeting Room III |  | Medium  |
 | 1899 | Fetch supplies II |  | Medium  |
 | 1900 | Gene Similarity |  | Hard  |
-| 1901 | Squares of a Sorted Array |  | Easy  |
+| 1901 | Squares of a Sorted Array | [TypeScript](./src/1901.squares-of-a-sorted-array/solution.ts) | Easy  |
 | 1902 | Find Google |  | Easy  |
 | 1903 | Department Statistics |  | Easy  |
 | 1904 | Place the Balls |  | Hard  |
@@ -1742,9 +1742,9 @@
 | 1910 | Most numbers | [TypeScript](./src/1910.most-numbers/solution.ts) | Naive  |
 | 1911 | As Far from Land as Possible |  | Medium  |
 | 1913 | Query Student Enrollment Information |  | Naive  |
-| 1914 | Smart Sale |  | Medium  |
+| 1914 | Smart Sale | [JavaScript](./src/1914.smart-sale/solution.js) | Medium  |
 | 1915 | Lifting Weights |  | Hard  |
-| 1916 | Longest lighting time |  | Easy  |
+| 1916 | Longest lighting time | [TypeScript](./src/1916.longest-lighting-time/solution.ts) | Easy  |
 | 1917 | Cutting Metal Surplus |  | Medium  |
 | 1918 | The height of the second tallest player |  | Medium  |
 | 1919 | Members Whose Scores Exceed the Group leader |  | Naive  |
