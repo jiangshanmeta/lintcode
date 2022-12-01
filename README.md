@@ -263,7 +263,7 @@
 | 247 | Segment Tree Query II | [Python](./src/0247.segment-tree-query-ii/solution.py) | Medium  |
 | 248 | Count of Smaller Number | [JavaScript](./src/0248.count-of-smaller-number/solution.js) | Medium  |
 | 249 | Count of Smaller Number before itself | [JavaScript](./src/0249.count-of-smaller-number-before-itself/solution.js) | Hard  |
-| 250 | Special Palindrome String |  | Easy  |
+| 250 | Special Palindrome String | [TypeScript](./src/0250.special-palindrome-string/solution.ts) | Easy  |
 | 251 | Array compression |  | Medium  |
 | 252 | arithmetic matrix |  | Medium  |
 | 253 | URL Edcode |  | Easy  |
@@ -278,7 +278,7 @@
 | 262 | heir tree |  | Medium  |
 | 263 | Matching of parentheses | [TypeScript](./src/0263.matching-of-parentheses/solution.ts) | Easy  |
 | 264 | Counting Universal Subarrays |  | Easy  |
-| 265 | Maximum Non-Negative Subarray |  | Easy  |
+| 265 | Maximum Non-Negative Subarray | [TypeScript](./src/0265.maximum-non-negative-subarray/solution.ts) | Easy  |
 | 266 | Expect Distance |  | Medium  |
 | 267 | minimum rest days |  | Medium  |
 | 268 | Parentheses Score |  | Medium  |
@@ -663,7 +663,7 @@
 | 669 | Coin Change | [JavaScript](./src/0669.coin-change/solution.js) | Medium  |
 | 671 | Rotate Words | [Python](./src/0671.rotate-words/solution.py) | Easy  |
 | 676 | Decode Ways II |  | Hard  |
-| 677 | Number of Big Islands |  | Medium  |
+| 677 | Number of Big Islands | [TypeScript](./src/0677.number-of-big-islands/solution.ts) | Medium  |
 | 678 | Shortest Palindrome |  | Medium  |
 | 679 | Unique Paths III |  | Hard  |
 | 680 | Split String | [Python](./src/0680.split-string/solution.py) | Medium  |
@@ -1089,7 +1089,7 @@
 | 1137 | Construct String from Binary Tree | [JavaScript](./src/1137.construct-string-from-binary-tree/solution.js) | Easy  |
 | 1138 | Can Place Flowers | [JavaScript](./src/1138.can-place-flowers/solution.js) | Easy  |
 | 1139 | the kth subarray |  | Hard  |
-| 1141 | The month's days |  | Easy  |
+| 1141 | The month's days | [TypeScript](./src/1141.the-months-days/solution.ts) | Easy  |
 | 1142 | Non-negative Integers without Consecutive Ones |  | Hard  |
 | 1143 | Minimum Index Sum of Two Lists | [JavaScript](./src/1143.minimum-index-sum-of-two-lists/solution.js) | Easy  |
 | 1144 | Range Addition II |  | Easy  |
@@ -1115,7 +1115,7 @@
 | 1165 | Subtree of Another Tree | [JavaScript](./src/1165.subtree-of-another-tree/solution.js) | Easy  |
 | 1166 | Recommended Results are Scattered |  | Easy  |
 | 1167 | Top three numbers |  | Medium  |
-| 1168 | array score |  | Easy  |
+| 1168 | array score | [TypeScript](./src/1168.array-score/solution.ts) | Easy  |
 | 1169 | Permutation in String | [JavaScript](./src/1169.permutation-in-string/solution.js) | Medium  |
 | 1170 | Reshape the Matrix | [JavaScript](./src/1170.reshape-the-matrix/solution.js) | Easy  |
 | 1171 | Find the Closest Palindrome |  | Hard  |
@@ -1526,7 +1526,7 @@
 | 1600 | Reachable Nodes In Subdivided Graph |  | Hard  |
 | 1601 | Boats to Save People | [JavaScript](./src/1601.boats-to-save-people/solution.js) | Medium  |
 | 1602 | Decoded String at Index |  | Medium  |
-| 1604 | Maximum Sum of Two Numbers |  | Medium  |
+| 1604 | Maximum Sum of Two Numbers | [TypeScript](./src/1604.maximum-sum-of-two-numbers/solution.ts) | Medium  |
 | 1607 | Profitable Schemes |  | Hard  |
 | 1608 | Nth Magical Number |  | Hard  |
 | 1609 | Middle of the Linked List | [JavaScript](./src/1609.middle-of-the-linked-list/solution.js) | Easy  |
@@ -1688,7 +1688,7 @@
 | 1849 | Grumpy Bookstore Owner |  | Medium  |
 | 1850 | Pick Apples |  | Medium  |
 | 1851 | Buy Passes |  | Medium  |
-| 1852 | Final Discounted Price |  | Medium  |
+| 1852 | Final Discounted Price | [TypeScript](./src/1852.final-discounted-price/solution.ts) | Medium  |
 | 1853 | Efficient Job Processing Service |  | Medium  |
 | 1854 | Partition Array III |  | Easy  |
 | 1855 | Reach Destination |  | Hard  |
