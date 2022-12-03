@@ -2740,12 +2740,12 @@
 | 3110 | String Splicings |  | Naive  |
 | 3111 | String case conversion |  | Easy  |
 | 3112 | Printable Ninety-Nine Multiplication Table |  | Easy  |
-| 3113 | HTML Character Entities |  | Naive  |
+| 3113 | HTML Character Entities | [HTML](./src/3113.html-character-entities/solution.html) | Naive  |
 | 3114 | Word Searchs |  | Naive  |
 | 3115 | Wrong echo string |  | Naive  |
 | 3116 | Invalid IP address |  | Naive  |
-| 3118 | HTML colors |  | Naive  |
-| 3119 | HTML & CSS |  | Naive  |
+| 3118 | HTML colors | [HTML](./src/3118.html-colors/solution.html) | Naive  |
+| 3119 | HTML & CSS | [HTML](./src/3119.html-css/solution.html) | Naive  |
 | 3120 | Thread Control Logic |  | Medium  |
 | 3121 | Adaptive Access between Company A and Company B |  | Easy  |
 | 3122 | String escaping |  | Naive  |
