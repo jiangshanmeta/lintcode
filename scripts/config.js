@@ -20,6 +20,10 @@ exports.languages = [
         ext: 'ts',
     },
     {
+        label: 'Java',
+        ext: 'java',
+    },
+    {
         label: 'HTML',
         ext: 'html',
     },
