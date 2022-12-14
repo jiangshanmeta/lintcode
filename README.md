@@ -1913,7 +1913,7 @@
 | 2085 | Remove the primary key constraint from the course table `courses` |  | Naive  |
 | 2086 | Search for the nationality of the teacher starting with 'U' and the total number of students between 2000 and 5000 and the total number of students of that nationality |  | Easy  |
 | 2087 | Implemente Linear Regression based on sklearn |  | Easy  |
-| 2088 | First Java Code: Print Hello World |  | Naive  |
+| 2088 | First Java Code: Print Hello World | [Java](./src/2088.first-java-code-print-hello-world/solution.java) | Naive  |
 | 2089 | Implement timer decorator |  | Medium  |
 | 2090 | Print Zero, Even and Odd Number II |  | Medium  |
 | 2091 | Adding Foreign Key Constraints to Course Tables |  | Easy  |
@@ -1951,15 +1951,15 @@
 | 2153 | Implement an API to Check User's Login Status |  | Easy  |
 | 2155 | Implement User Signup API |  | Medium  |
 | 2156 | Implement User Logout API |  | Easy  |
-| 2157 | Print Welcome to LintCode! |  | Naive  |
+| 2157 | Print Welcome to LintCode! | [Java](./src/2157.print-welcome-to-lintcode/solution.java) | Naive  |
 | 2158 | Custom Exceptions |  | Easy  |
-| 2159 | Printing strings by splicing |  | Naive  |
-| 2160 | Print "Hello Java" |  | Naive  |
+| 2159 | Printing strings by splicing | [Java](./src/2159.printing-strings-by-splicing/solution.java) | Naive  |
+| 2160 | Print "Hello Java" | [Java](./src/2160.print-hello-java/solution.java) | Naive  |
 | 2161 | Implement a Class Dog Inherit from Animal |  | Medium  |
 | 2162 | Filter Users by Email |  | Easy  |
-| 2163 | Realize age-based determination of adulthood |  | Naive  |
-| 2164 | Pass or fail according to the score |  | Naive  |
-| 2165 | Calculate the values of 1+2+3+... +n values |  | Naive  |
+| 2163 | Realize age-based determination of adulthood | [Java](./src/2163.realize-age-based-determination-of-adulthood/solution.java) | Naive  |
+| 2164 | Pass or fail according to the score | [Java](./src/2164.pass-or-fail-according-to-the-score/solution.java) | Naive  |
+| 2165 | Calculate the values of 1+2+3+... +n values | [Java](./src/2165.calculate-the-values-of-123-n-values/solution.java) | Naive  |
 | 2166 | Simple addition, subtraction, multiplication and division |  | Naive  |
 | 2167 | Get or Create a User Object |  | Naive  |
 | 2168 | Printable Trigonometric NIne NIne Multiplication Table |  | Naive  |
@@ -1976,7 +1976,7 @@
 | 2180 | Comparing the size of two numbers |  | Naive  |
 | 2181 | Iterator and an even series |  | Easy  |
 | 2182 | Calculate the sum of all positive integers up to and including n that are divisible by 3 |  | Naive  |
-| 2183 | Determine the student's achievement range based on the student's achievement level |  | Naive  |
+| 2183 | Determine the student's achievement range based on the student's achievement level | [Java](./src/2183.determine-the-students-achievement-range-based-on-the-students-achievement-level/solution.java) | Naive  |
 | 2184 | Implement User Signup API (Bug Fix II) |  | Easy  |
 | 2185 | Count the number of times an element appears in the list |  | Naive  |
 | 2186 | Calculate the factorial of n |  | Naive  |
