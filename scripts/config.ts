@@ -1,4 +1,4 @@
-exports.difficultyMap = {
+export const difficultyMap = {
     0: 'Naive',
     1: 'Easy',
     2: 'Medium',
@@ -6,7 +6,7 @@ exports.difficultyMap = {
     4: 'Super',
 };
 
-exports.languages = [
+export const languages = [
     {
         label: 'JavaScript',
         ext: 'js',

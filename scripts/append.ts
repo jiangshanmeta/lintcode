@@ -1,13 +1,18 @@
-const fs = require('fs');
-const path = require('path');
-const readline = require('readline');
-const questions = require('./question.json');
-const questionMap = questions.reduce((obj, item) => {
+import fs from 'fs';
+import path from 'path';
+import readline from 'readline';
+import {
+    languages,
+} from './config';
+import { genFolderName, } from './common';
+import questions from './question.json';
+import { Question, } from './typing';
+
+const questionMap = questions.reduce<Record<number, Question>>((obj, item) => {
     obj[item.index] = item;
     return obj;
-}, Object.create(null));
+}, {});
 
-const languages = require('./config').languages;
 const extSet = new Set(languages.map(item => item.ext));
 
 const rl = readline.createInterface({
@@ -15,28 +20,24 @@ const rl = readline.createInterface({
     output: process.stdout,
 });
 
-const {
-    genFolderName,
-} = require('./common');
-
-function getIndex () {
-    return new Promise((resolve) => {
+function getQuestion () {
+    return new Promise<Question>((resolve) => {
         rl.question('index? ', (index) => {
             index = index.trim();
-            const question = questionMap[index];
+            const question = questionMap[+index];
             console.log(question);
             if (!question) {
                 console.log('没有对应的问题');
-                resolve(getIndex());
+                resolve(getQuestion());
             } else {
-                resolve(index);
+                resolve(question);
             }
         });
     });
 }
 
 function getExts () {
-    return new Promise((resolve) => {
+    return new Promise<string[]>((resolve) => {
         rl.question('exts? ', (extstr) => {
             const exts = extstr.split(' ').filter(item => extSet.has(item));
             if (exts.length === 0) {
@@ -48,9 +49,7 @@ function getExts () {
     });
 }
 
-function append (index, exts) {
-    const question = questionMap[index];
-
+function append (question: Question, exts:string[]) {
     for (const ext of exts) {
         const folderName = genFolderName(question);
         const folderDir = path.join(__dirname, '../src', folderName);
@@ -71,9 +70,9 @@ function append (index, exts) {
 
 async function main () {
     while (true) {
-        const index = await getIndex();
+        const question = await getQuestion();
         const exts = await getExts();
-        append(index, exts);
+        append(question, exts);
     }
 }
 

@@ -1,8 +1,9 @@
-const fs = require('fs');
-const path = require('path');
-const questions = require('./question.json');
+import fs from 'fs';
+import path from 'path';
+import questions from './question.json';
+import { Question, } from './typing';
 
-const questionsMap = questions.reduce((obj, item) => {
+const questionsMap = questions.reduce<Record<number, Question>>((obj, item) => {
     obj[item.index] = item;
     return obj;
 }, {});

@@ -1,27 +1,27 @@
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
 
-const {
+import {
     difficultyMap,
     languages,
-} = require('./config');
+} from './config';
 
-const {
+import {
     genFolderName,
-} = require('./common');
+} from './common';
 
-const extLabelMap = languages.reduce((obj, { label, ext, }) => {
+import questions from './question.json';
+
+const extLabelMap = languages.reduce<Record<string, string>>((obj, { label, ext, }) => {
     obj[ext] = label;
     return obj;
 }, {});
 
-const questions = require('./question.json');
-
 const fileList = fs.readdirSync(path.join(__dirname, '../src'));
 
-const answersMap = fileList.reduce((obj, dirName) => {
-    const answers = fs.readdirSync(path.join(__dirname, '../src', dirName));
-    obj[parseInt(dirName)] = answers;
+const answersMap = fileList.reduce<Record<number, string[]>>((obj, folder) => {
+    const answers = fs.readdirSync(path.join(__dirname, '../src', folder));
+    obj[+folder] = answers;
     return obj;
 }, {});
 
@@ -35,12 +35,12 @@ const mergedQuestions = questions.map((question) => {
     const folderName = genFolderName(question);
 
     const answers = (answersMap[index] || []).map((answerFileName) => {
-        const ext = answerFileName.split('.').pop();
+        const ext = answerFileName.split('.').pop()!;
         const label = extLabelMap[ext];
         return `[${label}](./src/${folderName}/${answerFileName})`;
     }).join(' ');
 
-    return `| ${index} | ${title} | ${answers} | ${difficultyMap[difficulty]}  |`;
+    return `| ${index} | ${title} | ${answers} | ${difficultyMap[difficulty as keyof typeof difficultyMap]}  |`;
 }).join('\n');
 
 const prefix = fs.readFileSync(path.join(__dirname, './_prefix.md'), 'utf8');

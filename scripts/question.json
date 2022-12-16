@@ -1813,8 +1813,8 @@
     },
     {
         "index": 308,
-        "title": "Sepcial Substring",
-        "title_slug": "sepcial-substring",
+        "title": "Special Substring",
+        "title_slug": "special-substring",
         "difficulty": 2
     },
     {
@@ -4351,8 +4351,8 @@
     },
     {
         "index": 773,
-        "title": "Vlid Anagram",
-        "title_slug": "vlid-anagram",
+        "title": "Valid Anagrams",
+        "title_slug": "valid-anagrams",
         "difficulty": 1
     },
     {
@@ -6043,8 +6043,8 @@
     },
     {
         "index": 1067,
-        "title": "Split Linked List in Parts",
-        "title_slug": "split-linked-list-in-parts",
+        "title": "Split Array in Parts",
+        "title_slug": "split-array-in-parts",
         "difficulty": 2
     },
     {
@@ -11359,8 +11359,8 @@
     },
     {
         "index": 2086,
-        "title": "Search for the nationality of the teacher starting with 'U' and the total number of students between 2000 and 5000 and the total number of students of that nationality",
-        "title_slug": "search-for-the-nationality-of-the-teacher-starting-with-u-and-the-total-number-of-students-between-2000-and-5000-and-the-total-number-of-students-of-that-nationality",
+        "title": "Query the Nationality of Teachers Starting with ‘U’ and the Total Number of Students Between 2000 and 5000 and the Total Number of Students of Teachers of That Nationality",
+        "title_slug": "query-the-nationality-of-teachers-starting-with-u-and-the-total-number-of-students-between-2000-and-5000-and-the-total-number-of-students-of-teachers-of-that-nationality",
         "difficulty": 1
     },
     {
@@ -13188,6 +13188,12 @@
         "difficulty": 2
     },
     {
+        "index": 2477,
+        "title": "Inject like information into the comment API",
+        "title_slug": "inject-like-information-into-the-comment-api",
+        "difficulty": 2
+    },
+    {
         "index": 2478,
         "title": "Implement an API to Send Comment Notification",
         "title_slug": "implement-an-api-to-send-comment-notification",
@@ -13246,6 +13252,12 @@
         "title": "Highest scoring player in the team",
         "title_slug": "highest-scoring-player-in-the-team",
         "difficulty": 2
+    },
+    {
+        "index": 2501,
+        "title": "Implement the One Click Read API",
+        "title_slug": "implement-the-one-click-read-api",
+        "difficulty": 1
     },
     {
         "index": 2502,
@@ -14052,6 +14064,12 @@
         "difficulty": 2
     },
     {
+        "index": 2650,
+        "title": "Implement the Tweet API",
+        "title_slug": "implement-the-tweet-api",
+        "difficulty": 2
+    },
+    {
         "index": 2651,
         "title": "Implement the function of determining whether you have followed or not",
         "title_slug": "implement-the-function-of-determining-whether-you-have-followed-or-not",
@@ -14659,8 +14677,8 @@
     },
     {
         "index": 2755,
-        "title": "查看系统信息",
-        "title_slug": "",
+        "title": "View System Information",
+        "title_slug": "view-system-information",
         "difficulty": 0
     },
     {
@@ -14728,12 +14746,6 @@
         "title": "Setting and deleting variables",
         "title_slug": "setting-and-deleting-variables",
         "difficulty": 0
-    },
-    {
-        "index": 2798,
-        "title": "Aop Simplify Log",
-        "title_slug": "aop-simplify-log",
-        "difficulty": 1
     },
     {
         "index": 2799,
@@ -17538,6 +17550,12 @@
         "difficulty": 1
     },
     {
+        "index": 3446,
+        "title": "Automatic Coffee Maker",
+        "title_slug": "automatic-coffee-maker",
+        "difficulty": 1
+    },
+    {
         "index": 3447,
         "title": "Implement Blog View Class",
         "title_slug": "implement-blog-view-class",
@@ -17550,10 +17568,22 @@
         "difficulty": 1
     },
     {
+        "index": 3449,
+        "title": "Automatic Coffee Maker II",
+        "title_slug": "automatic-coffee-maker-ii",
+        "difficulty": 1
+    },
+    {
         "index": 3450,
         "title": "Implement Blog application view class",
         "title_slug": "implement-blog-application-view-class",
         "difficulty": 2
+    },
+    {
+        "index": 3451,
+        "title": "Stock of Vending Machines",
+        "title_slug": "stock-of-vending-machines",
+        "difficulty": 1
     },
     {
         "index": 3452,
@@ -17566,5 +17596,23 @@
         "title": "Create Hyperlink Path",
         "title_slug": "create-hyperlink-path",
         "difficulty": 2
+    },
+    {
+        "index": 3454,
+        "title": "Fruit Packaging Factory",
+        "title_slug": "fruit-packaging-factory",
+        "difficulty": 1
+    },
+    {
+        "index": 3455,
+        "title": "Iterator for Linked List",
+        "title_slug": "iterator-for-linked-list",
+        "difficulty": 1
+    },
+    {
+        "index": 3456,
+        "title": "Receptionist at Pet Store",
+        "title_slug": "receptionist-at-pet-store",
+        "difficulty": 1
     }
 ]
