@@ -323,7 +323,7 @@
 | 308 | Special Substring |  | Medium  |
 | 309 | Interleaved Array |  | Easy  |
 | 310 | Digital distortion |  | Easy  |
-| 311 | Pioneering palindrome |  | Easy  |
+| 311 | Pioneering palindrome | [TypeScript](./src/0311/solution.ts) | Easy  |
 | 312 | Bull Cards |  | Medium  |
 | 313 | Minimum Insertion |  | Hard  |
 | 314 | The Lost Record |  | Medium  |
@@ -344,7 +344,7 @@
 | 331 | Confusing Number |  | Medium  |
 | 332 | restoreArray |  | Hard  |
 | 333 | Identifying Strings |  | Medium  |
-| 334 | Order Check |  | Easy  |
+| 334 | Order Check | [TypeScript](./src/0334/solution.ts) | Easy  |
 | 335 | plateau |  | Medium  |
 | 336 | Text Compression |  | Easy  |
 | 337 | Team notification |  | Medium  |
@@ -1082,7 +1082,7 @@
 | 1130 | Magic circle |  | Hard  |
 | 1131 | The Function in Permutations |  | Medium  |
 | 1132 | Valid Triangle Number |  | Medium  |
-| 1133 | Group Buy |  | Easy  |
+| 1133 | Group Buy | [TypeScript](./src/1133/solution.ts) | Easy  |
 | 1134 | Find Duplicate File in System |  | Medium  |
 | 1135 | Feature extraction |  | Easy  |
 | 1136 | High Click Induction Area |  | Medium  |
@@ -1641,7 +1641,7 @@
 | 1787 | Google Suggestion (Map Reduce) |  | Medium  |
 | 1788 | Ascending Binary Sorting |  | Medium  |
 | 1789 | Distinguish Username |  | Easy  |
-| 1790 | Rotate String II |  | Easy  |
+| 1790 | Rotate String II | [TypeScript](./src/1790/solution.ts) | Easy  |
 | 1791 | Simple queries |  | Medium  |
 | 1792 | Cut the sticks |  | Easy  |
 | 1793 | Balanced Array |  | Easy  |
@@ -1716,7 +1716,7 @@
 | 1883 | Top K Frequently Mentioned Keywords |  | Medium  |
 | 1884 | Take Away The Bottle |  | Hard  |
 | 1885 | A Strange Sorting Problem |  | Hard  |
-| 1886 | Moving Target |  | Easy  |
+| 1886 | Moving Target | [TypeScript](./src/1886/solution.ts) | Easy  |
 | 1887 | Stretch Word | [TypeScript](./src/1887/solution.ts) | Easy  |
 | 1888 | Shortest Path in Matrix |  | Medium  |
 | 1889 | Interval Merge |  | Medium  |
@@ -1993,13 +1993,13 @@
 | 2197 | Query information about teachers who are not older than the specified age and are not of the specified nationality |  | Easy  |
 | 2198 | Query all the information of the teacher |  | Naive  |
 | 2199 | Remove empty lines from files |  | Naive  |
-| 2200 | Calculate all leap years from 1949 to n |  | Naive  |
+| 2200 | Calculate all leap years from 1949 to n | [Java](./src/2200/solution.java) | Naive  |
 | 2201 | Get the element whose index is the last digit |  | Naive  |
 | 2202 | Calculate Sum (Python version) |  | Naive  |
 | 2203 | Get the length of the string | [Java](./src/2203/solution.java) | Naive  |
 | 2204 | The remainder of a partial function to divide two positive integers |  | Easy  |
 | 2205 | Binary to decimal conversion |  | Naive  |
-| 2206 | Get the sum of the lengths of all strings in the string array |  | Naive  |
+| 2206 | Get the sum of the lengths of all strings in the string array | [Java](./src/2206/solution.java) | Naive  |
 | 2207 | Filter out all odd numbers |  | Medium  |
 | 2208 | Create objects, assign values to object properties and print |  | Naive  |
 | 2209 | Create subclass objects and print data using parent class methods |  | Easy  |
@@ -2232,7 +2232,7 @@
 | 2503 | Implement a thread-safe counter |  | Easy  |
 | 2504 | Log recording with multithreading |  | Easy  |
 | 2505 | Calculate accuracy score based on Sklearn |  | Naive  |
-| 2506 | Remove the Invalid Parentheses |  | Easy  |
+| 2506 | Remove the Invalid Parentheses | [JavaScript](./src/2506/solution.js) | Easy  |
 | 2507 | Recognition hand writing digital images based on KNN algorithm |  | Easy  |
 | 2508 | Recognition hand writing digital images based on Logistic Regression algorithm |  | Easy  |
 | 2510 | Recognition hand writing digital images based on Multi-layer Perceptron |  | Easy  |
