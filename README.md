@@ -365,7 +365,7 @@
 | 354 | lottery draw |  | Hard  |
 | 355 | shuttleInBuildings |  | Hard  |
 | 357 | Symmetrical Suffix |  | Medium  |
-| 358 | treePlanning |  | Easy  |
+| 358 | treePlanning | [TypeScript](./src/0358/solution.ts) | Easy  |
 | 359 | makeEquilateralTriangle |  | Easy  |
 | 360 | Sliding Window Median |  | Hard  |
 | 362 | Sliding Window Maximum | [JavaScript](./src/0362/solution.js) | Hard  |
@@ -1059,7 +1059,7 @@
 | 1099 | Non-decreasing Array | [JavaScript](./src/1099/solution.js) | Easy  |
 | 1100 | Strange Printer |  | Hard  |
 | 1101 | Maximum Width of Binary Tree | [JavaScript](./src/1101/solution.js) | Medium  |
-| 1102 | Image Smoother |  | Easy  |
+| 1102 | Image Smoother | [TypeScript](./src/1102/solution.ts) | Easy  |
 | 1103 | Split Array into Consecutive Subsequences |  | Medium  |
 | 1104 | Judge Route Circle |  | Easy  |
 | 1105 | Print Binary Tree | [JavaScript](./src/1105/solution.js) | Medium  |
