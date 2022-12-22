@@ -76,7 +76,7 @@
 | 57 | 3Sum | [Python](./src/0057/solution.py) | Medium  |
 | 58 | 4Sum | [JavaScript](./src/0058/solution.js) [Python](./src/0058/solution.py) | Medium  |
 | 59 | 3Sum Closest | [JavaScript](./src/0059/solution.js) | Medium  |
-| 60 | Search Insert Position | [JavaScript](./src/0060/solution.js) | Easy  |
+| 60 | Search Insert Position | [JavaScript](./src/0060/solution.js) [TypeScript](./src/0060/solution.ts) | Easy  |
 | 61 | Search for a Range | [JavaScript](./src/0061/solution.js) | Medium  |
 | 62 | Search in Rotated Sorted Array | [JavaScript](./src/0062/solution.js) | Medium  |
 | 63 | Search in Rotated Sorted Array II | [JavaScript](./src/0063/solution.js) | Medium  |
@@ -109,10 +109,10 @@
 | 90 | k Sum II | [Python](./src/0090/solution.py) | Medium  |
 | 91 | Minimum Adjustment Cost |  | Medium  |
 | 92 | Backpack | [JavaScript](./src/0092/solution.js) | Medium  |
-| 93 | Balanced Binary Tree | [JavaScript](./src/0093/solution.js) | Easy  |
+| 93 | Balanced Binary Tree | [JavaScript](./src/0093/solution.js) [TypeScript](./src/0093/solution.ts) | Easy  |
 | 94 | Binary Tree Maximum Path Sum | [JavaScript](./src/0094/solution.js) | Medium  |
 | 95 | Validate Binary Search Tree | [JavaScript](./src/0095/solution.js) | Medium  |
-| 96 | Partition List | [JavaScript](./src/0096/solution.js) | Easy  |
+| 96 | Partition List | [JavaScript](./src/0096/solution.js) [TypeScript](./src/0096/solution.ts) | Easy  |
 | 97 | Maximum Depth of Binary Tree | [JavaScript](./src/0097/solution.js) [TypeScript](./src/0097/solution.ts) | Easy  |
 | 98 | Sort List | [Python](./src/0098/solution.py) | Medium  |
 | 99 | Reorder List | [Python](./src/0099/solution.py) | Medium  |
@@ -1313,7 +1313,7 @@
 | 1366 | Directed Graph Loop |  | Medium  |
 | 1367 | Police Distance |  | Medium  |
 | 1368 | Same Number | [JavaScript](./src/1368/solution.js) | Easy  |
-| 1369 | Most Common Word |  | Easy  |
+| 1369 | Most Common Word | [TypeScript](./src/1369/solution.ts) | Easy  |
 | 1370 | Race Car |  | Hard  |
 | 1371 | Linked List Components | [JavaScript](./src/1371/solution.js) | Medium  |
 | 1372 | Ambiguous Coordinates |  | Medium  |
