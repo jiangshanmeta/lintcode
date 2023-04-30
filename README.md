@@ -261,7 +261,7 @@
 | 245 | Subtree |  | Medium  |
 | 246 | Binary Tree Path Sum II |  | Medium  |
 | 247 | Segment Tree Query II | [Python](./src/0247/solution.py) | Medium  |
-| 248 | Count of Smaller Number | [JavaScript](./src/0248/solution.js) | Medium  |
+| 248 | Count of Smaller Number | [JavaScript](./src/0248/solution.js) [TypeScript](./src/0248/solution.ts) | Medium  |
 | 249 | Count of Smaller Number before itself | [JavaScript](./src/0249/solution.js) | Hard  |
 | 250 | Special Palindrome String | [TypeScript](./src/0250/solution.ts) | Easy  |
 | 251 | Array compression |  | Medium  |
