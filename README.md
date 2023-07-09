@@ -300,13 +300,13 @@
 | 285 | Tall Building |  | Medium  |
 | 286 | Inversions |  | Hard  |
 | 287 | The Competition of View |  | Medium  |
-| 288 | Container Design |  | Easy  |
+| 288 | Container Design | [Python](./src/0288/solution.py) | Easy  |
 | 289 | Container Design II |  | Easy  |
 | 290 | Sorted Arrangement |  | Hard  |
 | 291 | Second Diameter |  | Medium  |
 | 292 | Sort Anagrams Array |  | Easy  |
 | 293 | The depth of the tunnel |  | Medium  |
-| 294 | Linked List Simplification |  | Easy  |
+| 294 | Linked List Simplification | [TypeScript](./src/0294/solution.ts) | Easy  |
 | 295 | Intersection |  | Easy  |
 | 296 | Unique Array |  | Easy  |
 | 297 | Find the maximum | [TypeScript](./src/0297/solution.ts) | Naive  |
@@ -403,7 +403,7 @@
 | 395 | Coins in a Line II |  | Medium  |
 | 396 | Coins in a Line III |  | Hard  |
 | 397 | Longest Continuous Increasing Subsequence | [JavaScript](./src/0397/solution.js) | Easy  |
-| 398 | Longest Continuous Increasing Subsequence II |  | Hard  |
+| 398 | Longest Ascent Path |  | Hard  |
 | 400 | Maximum Gap |  | Medium  |
 | 401 | Kth Smallest Number in Sorted Matrix | [JavaScript](./src/0401/solution.js) | Medium  |
 | 402 | Continuous Subarray Sum | [JavaScript](./src/0402/solution.js) | Medium  |
@@ -504,7 +504,7 @@
 | 503 | Anagram (Map Reduce) |  | Medium  |
 | 504 | Inverted Index (Map Reduce) |  | Medium  |
 | 505 | Web Logger |  | Medium  |
-| 506 | Movie Recommendation |  | Easy  |
+| 506 | Movie Recommendation |  | Medium  |
 | 507 | Wiggle Sort II |  | Hard  |
 | 508 | Wiggle Sort |  | Medium  |
 | 509 | Mini Yelp |  | Hard  |
@@ -1909,6 +1909,7 @@
 | 2080 | Search for the name of the instructor and the total number of students in all the instructor's courses with less than 3000 students |  | Naive  |
 | 2081 | Insert the current date into the table |  | Naive  |
 | 2082 | Statistics on the number of courses taught by each teacher |  | Easy  |
+| 2083 | Create student table and add primary key constraint on ID column |  | Naive  |
 | 2084 | Add primary key constraints to the course table courses |  | Naive  |
 | 2085 | Remove the primary key constraint from the course table `courses` |  | Naive  |
 | 2086 | Query the Nationality of Teachers Starting with ‘U’ and the Total Number of Students Between 2000 and 5000 and the Total Number of Students of Teachers of That Nationality |  | Easy  |
@@ -2207,11 +2208,13 @@
 | 2463 | Define the NewsFeed Model |  | Medium  |
 | 2464 | Implement an API to Get NewsFeeds |  | Easy  |
 | 2465 | Data shuffle based on Sklearn |  | Naive  |
+| 2466 | List deduplicate |  | Naive  |
 | 2467 | Design Bounded Blocking Stack |  | Medium  |
 | 2468 | Fanout New Tweets to NewsFeed |  | Medium  |
 | 2469 | Implement an API to Get Comment List |  | Medium  |
 | 2470 | Implement a single tweet API with comments |  | Medium  |
 | 2471 | Design Thread Safe Linked List |  | Medium  |
+| 2472 | Adding elements to a set |  | Naive  |
 | 2473 | Design Thread Safe Hash Table |  | Medium  |
 | 2474 | Define The Like Model |  | Medium  |
 | 2475 | Implement an API  to Create Like |  | Hard  |
@@ -2222,9 +2225,11 @@
 | 2491 | Implement an API to get the number of unread messages |  | Easy  |
 | 2492 | Implement data normalization based on Sklearn |  | Naive  |
 | 2493 | Implement data standardization based on Sklearn |  | Naive  |
+| 2494 | Summation of a tuple at a specified position |  | Naive  |
 | 2495 | Calculate F1 score of data based on Sklearn |  | Naive  |
 | 2496 | 4 threads modify the same variable |  | Easy  |
 | 2497 | Deposit and Withdraw Money |  | Easy  |
+| 2498 | Set update operation |  | Naive  |
 | 2499 | Height of players appearing consecutively |  | Medium  |
 | 2500 | Highest scoring player in the team |  | Medium  |
 | 2501 | Implement the One Click Read API |  | Easy  |
@@ -2235,6 +2240,7 @@
 | 2506 | Remove the Invalid Parentheses | [JavaScript](./src/2506/solution.js) | Easy  |
 | 2507 | Recognition hand writing digital images based on KNN algorithm |  | Easy  |
 | 2508 | Recognition hand writing digital images based on Logistic Regression algorithm |  | Easy  |
+| 2509 | Find a number that appears only once in the list |  | Easy  |
 | 2510 | Recognition hand writing digital images based on Multi-layer Perceptron |  | Easy  |
 | 2511 | Code constructor to initialize student class instance |  | Easy  |
 | 2513 | Remove Folder |  | Naive  |
@@ -2473,9 +2479,10 @@
 | 2761 | Understanding SQL Procedures (II) |  | Easy  |
 | 2793 | Execute the command in the variable |  | Naive  |
 | 2794 | Execute the command in the variable(ii) |  | Naive  |
-| 2795 | Set environment variables |  | Naive  |
+| 2795 | Set Environment Variables |  | Naive  |
 | 2796 | Shell Resource Settings |  | Naive  |
 | 2797 | Setting and deleting variables |  | Naive  |
+| 2798 | Aop Simplify Log |  | Easy  |
 | 2799 | Creating a procedure for inserting data in bulk |  | Medium  |
 | 2800 | Zhang San's MySQL Learning Path (IV) |  | Hard  |
 | 2801 | Delete Stored Procedure (I) |  | Easy  |
@@ -2842,9 +2849,12 @@
 | 3215 | Pointer traversal of arrays |  | Easy  |
 | 3220 | Define The Student Model I |  | Naive  |
 | 3227 | Define The Book Model II |  | Naive  |
+| 3228 | Output ASCII values of input lowercase letters in sequence |  | Naive  |
 | 3229 | Define The Book Model I |  | Naive  |
+| 3230 | Find duplicate mailboxes |  | Naive  |
 | 3231 | Define The Student Model II |  | Naive  |
 | 3232 | Implement Class application Model |  | Naive  |
+| 3239 | Update the table contents and output the updated table |  | Naive  |
 | 3240 | Count the number of Letters of each type |  | Easy  |
 | 3241 | Query the number of students for the web course |  | Naive  |
 | 3242 | Print "LintCode" |  | Naive  |
@@ -2875,9 +2885,10 @@
 | 3345 | Initialize the Person Class |  | Naive  |
 | 3349 | Initialize the Animals Class (C++) |  | Naive  |
 | 3350 | Abstract Factory for Making Milk Tea (Java) |  | Medium  |
-| 3354 | Application of Synchronized - Alternate Printing |  | Medium  |
+| 3354 | Application of Synchronized - Alternate Printing |  | Easy  |
+| 3356 | Equivalent String (Python) |  | Easy  |
 | 3357 | Print Student Information |  | Naive  |
-| 3364 | Application of Keyword Volatile - Printing Incremental Numbers |  | Medium  |
+| 3364 | Application of Keyword Volatile - Printing Incremental Numbers |  | Easy  |
 | 3365 | Rewrite the model save() method |  | Easy  |
 | 3366 | Implement Restaurant application Model |  | Easy  |
 | 3367 | Create Model - Custom Manager |  | Easy  |
@@ -2954,3 +2965,184 @@
 | 3454 | Fruit Packaging Factory |  | Easy  |
 | 3455 | Iterator for Linked List |  | Easy  |
 | 3456 | Receptionist at Pet Store |  | Easy  |
+| 3457 | Create a Thread to Splice Words |  | Naive  |
+| 3458 | Print Hello LintCode in Thread |  | Naive  |
+| 3459 | Stop a Running Thread |  | Naive  |
+| 3460 | Determine If a Thread Is Stopped |  | Naive  |
+| 3461 | Creation of Multitasking Threads |  | Easy  |
+| 3462 | Thread’s Working Ways |  | Naive  |
+| 3463 | Putting Thread to Sleep |  | Naive  |
+| 3464 | Custom Thread Wrapper |  | Easy  |
+| 3465 | Force a New Thread to Execute |  | Naive  |
+| 3466 | Changing the Priority of a Thread |  | Naive  |
+| 3467 | Create a Daemon Thread |  | Naive  |
+| 3468 | Thread Passing Parameters |  | Naive  |
+| 3469 | Transfer Thread Ownership |  | Naive  |
+| 3470 | Swap Thread |  | Naive  |
+| 3471 | Data Concurrent Modification Protection |  | Naive  |
+| 3472 | Remove the Deadlock Relationship |  | Naive  |
+| 3473 | Timeout Attempt on Mutex |  | Naive  |
+| 3474 | Box for Storing Data from Different Threads |  | Easy  |
+| 3475 | Incrementing and Modifying Values in an Array at the Same Time |  | Easy  |
+| 3476 | Print Values in Two Arrays Alternately |  | Easy  |
+| 3477 | 1 Producer and 1 Consumer |  | Easy  |
+| 3478 | Create a Thread Pool to Perform a Specified Amount of Tasks |  | Easy  |
+| 3479 | Shutdown the Thread Pool |  | Naive  |
+| 3480 | Complete Array |  | Easy  |
+| 3481 | Find the Index of the Maximum Value |  | Easy  |
+| 3482 | The Only Thread-safe Call |  | Naive  |
+| 3483 | Create an Asynchronous Task |  | Naive  |
+| 3484 | Create a Custom Thread Pool to Execute Tasks |  | Easy  |
+| 3485 | Asynchronous Result Sharing |  | Naive  |
+| 3486 | Customizing Thread Pool Rejection Policy |  | Easy  |
+| 3487 | Custom Asynchronous Results |  | Naive  |
+| 3488 | Print in Order |  | Easy  |
+| 3489 | Convert Asynchronous Tasks |  | Naive  |
+| 3490 | Synchronization of Workers' Tasks |  | Easy  |
+| 3491 | Synchronization of Workers' Tasks II |  | Easy  |
+| 3492 | Design of the Spinlock |  | Naive  |
+| 3493 | Longest Subarray |  | Medium  |
+| 3494 | Simulation of Station Gates |  | Easy  |
+| 3495 | Family Fruit |  | Medium  |
+| 3496 | Family Fruit II |  | Hard  |
+| 3497 | Print Values of Two Arrays Alternately II |  | Easy  |
+| 3498 | Supply Products |  | Medium  |
+| 3499 | Supply Products II |  | Medium  |
+| 3500 | Dividing Line |  | Easy  |
+| 3501 | The best sales |  | Easy  |
+| 3502 | Implementation of CountDownLatch |  | Easy  |
+| 3503 | Supply Products III |  | Medium  |
+| 3504 | Implementation of Semaphore |  | Easy  |
+| 3505 | Product Combination |  | Medium  |
+| 3506 | Implementation of Barrier |  | Easy  |
+| 3507 | Compute and Remove Spaces from a String |  | Naive  |
+| 3508 | First-Come First-Served |  | Easy  |
+| 3509 | Implementation of CyclicBarrier |  | Medium  |
+| 3510 | Display Full Name Synchronously |  | Easy  |
+| 3511 | Implementing a Message Pop-Up Component |  | Easy  |
+| 3512 | Implementation of the TODO List |  | Medium  |
+| 3513 | Implementation of the TODO List II |  | Hard  |
+| 3514 | Shortest Job First |  | Medium  |
+| 3515 | Highest Response Ratio Next |  | Medium  |
+| 3516 | Shortest Remaining Time Next |  | Hard  |
+| 3517 | Implementation of Parallel Search Algorithm |  | Medium  |
+| 3518 | Solving for roots and powers of positive integers |  | Naive  |
+| 3519 | Average Salary |  | Naive  |
+| 3520 | Implementation of Parallel Bubble Sort Algorithm |  | Easy  |
+| 3521 | Control Style Scopes |  | Naive  |
+| 3522 | Hello Vue |  | Naive  |
+| 3523 | Vue Class Bindings |  | Naive  |
+| 3524 | Render All List Elements |  | Naive  |
+| 3525 | Vue Style Bindings |  | Naive  |
+| 3526 | Dependency Injection (Provide) |  | Easy  |
+| 3527 | Dependency Injection (Injection) |  | Easy  |
+| 3528 | Transition Effect |  | Medium  |
+| 3529 | Transition animation of list |  | Medium  |
+| 3530 | Process List And Render |  | Naive  |
+| 3531 | Vue Conditional Rendering |  | Naive  |
+| 3532 | Vue Conditional Rendering II |  | Naive  |
+| 3533 | Design Data Self-Increment And Self-Decrement Buttons |  | Naive  |
+| 3534 | Teleport |  | Medium  |
+| 3535 | Use of Text Interpolation |  | Naive  |
+| 3536 | Insert Raw HTML Code |  | Naive  |
+| 3537 | Make Form Text Box |  | Naive  |
+| 3538 | Sort and Filter Grid Component Implementation |  | Hard  |
+| 3539 | Make Form Selection Box |  | Naive  |
+| 3540 | Bind Click Event to Buttons |  | Naive  |
+| 3541 | Tree View Component Implementation |  | Hard  |
+| 3542 | Non-Negative Prefix Sum |  | Easy  |
+| 3543 | Dynamically Bind Class Names for Paragraphs |  | Naive  |
+| 3544 | Exam Progress |  | Easy  |
+| 3545 | Vue Props |  | Easy  |
+| 3546 | Dynamically Bind Styles for Paragraphs |  | Naive  |
+| 3547 | Matrix Override |  | Medium  |
+| 3548 | Vue Slots |  | Naive  |
+| 3549 | Vue Emits |  | Easy  |
+| 3550 | Vue Dynamic Components |  | Easy  |
+| 3551 | Vue Global Component Registration |  | Easy  |
+| 3552 | Interesting Triples |  | Medium  |
+| 3553 | Importing Components |  | Naive  |
+| 3554 | Default & Named Slots |  | Easy  |
+| 3555 | Defining and Using Components |  | Naive  |
+| 3556 | Scoped Slots |  | Easy  |
+| 3557 | Counting Button Clicks |  | Easy  |
+| 3558 | Vue Local Component Registration |  | Easy  |
+| 3559 | Customized Subcomponents |  | Easy  |
+| 3560 | Bind Keyboard Events to Input Boxes |  | Naive  |
+| 3561 | Form Input Bindings |  | Naive  |
+| 3562 | Single-File Component |  | Naive  |
+| 3563 | Component Two-Way Binding |  | Naive  |
+| 3564 | List and Object Traversal |  | Naive  |
+| 3565 | Polling Display Title |  | Naive  |
+| 3566 | Local Registration of Components |  | Naive  |
+| 3567 | Global Registration of Components |  | Naive  |
+| 3568 | Provide |  | Naive  |
+| 3569 | Inject |  | Naive  |
+| 3570 | Computed |  | Naive  |
+| 3571 | Named Slot |  | Naive  |
+| 3572 | Slot |  | Naive  |
+| 3573 | Transition Style Binding |  | Naive  |
+| 3574 | List Transition Animation |  | Naive  |
+| 3575 | Dynamic Components |  | Naive  |
+| 3576 | Add Data to Button Component |  | Naive  |
+| 3577 | Define Properties of the Component |  | Naive  |
+| 3578 | KeepAlive |  | Naive  |
+| 3579 | Caching Components and Switching Between Them |  | Easy  |
+| 3580 | Implementing Content Polling Button |  | Naive  |
+| 3581 | External Teleport |  | Naive  |
+| 3582 | A Fake Counter |  | Naive  |
+| 3583 | Watch Property |  | Naive  |
+| 3584 | Observing the Impact of Quantity Changes in the Shopping Cart |  | Easy  |
+| 3585 | Calculate Average and Array Sum |  | Naive  |
+| 3586 | Virtual DOM |  | Naive  |
+| 3587 | Render Functions |  | Naive  |
+| 3588 | Priority of Rendering Options |  | Naive  |
+| 3589 | Use ref(), toRef(), and unref() to Manage Data |  | Easy  |
+| 3590 | Count the Number of Characters |  | Naive  |
+| 3591 | Basic Use of Mixins |  | Easy  |
+| 3592 | Customized Commands |  | Naive  |
+| 3593 | Record List Element Log |  | Easy  |
+| 3594 | Implementation of Multiple Delete Function in Table |  | Easy  |
+| 3595 | Deserialize Binary Tree |  | Medium  |
+| 3596 | Order Volume for Each Time Period |  | Medium  |
+| 3597 | Lowest Common Ancestor IV |  | Hard  |
+| 3598 | Sum of Two Linked Lists | [TypeScript](./src/3598/solution.ts) | Easy  |
+| 3599 | Remove Repeated Letters |  | Medium  |
+| 3600 | Fix Binary Search Tree |  | Medium  |
+| 3601 | Cumulative Number |  | Medium  |
+| 3602 | The Largest Sum Divisible by Three |  | Medium  |
+| 3603 | Longest Nice Subarray |  | Medium  |
+| 3604 | The Minimum String After Swapping |  | Medium  |
+| 3605 | Shift 2D Grid |  | Easy  |
+| 3606 | Query the Middle Node ID |  | Medium  |
+| 3607 | Number of Students Passing the Exam |  | Easy  |
+| 3608 | Overall Approval Rate of Friend Requests |  | Medium  |
+| 3609 | Who Has the Most Friends |  | Medium  |
+| 3610 | Courses Taken by All Students |  | Easy  |
+| 3611 | My Best Friend |  | Medium  |
+| 3612 | Product Prices for the Specified Date |  | Medium  |
+| 3613 | Search For Students Ranked Second to Fifth |  | Easy  |
+| 3614 | Check the Referrals of Customers |  | Easy  |
+| 3615 | Data Median |  | Medium  |
+| 3616 | Combined Course Transcripts |  | Easy  |
+| 3617 | Replacement of Seats for Two Consecutive Persons |  | Medium  |
+| 3618 | Time-Consuming Top Three Tasks |  | Easy  |
+| 3619 | Project Subtask |  | Hard  |
+| 3621 | Fixed Point | [TypeScript](./src/3621/solution.ts) | Easy  |
+| 3622 | Read N Characters Given Read4 |  | Easy  |
+| 3623 | Sum of Digits in the Minimum Number |  | Easy  |
+| 3624 | Count Substrings with Only One Distinct Letter |  | Easy  |
+| 3626 | How Many Apples Can You Put into the Basket |  | Easy  |
+| 3628 | Highest Five Subject Average |  | Easy  |
+| 3629 | Intersection of Three Sorted Arrays |  | Easy  |
+| 3630 | Two Sum Less Than Target |  | Easy  |
+| 3631 | Remove Vowels From String |  | Easy  |
+| 3633 | Missing Number In Arithmetic Progression |  | Easy  |
+| 3634 | Largest Unique Number |  | Easy  |
+| 3636 | Array Transformation |  | Easy  |
+| 3638 | Single-Row Keyboard |  | Easy  |
+| 3640 | Hexspeak |  | Easy  |
+| 3641 | Sport Plan Performance |  | Easy  |
+| 3642 | Counting Elements |  | Easy  |
+| 3644 | Check If a Number is Majority Element in an Array |  | Easy  |
+| 3645 | Perform String Shifts |  | Easy  |
