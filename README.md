@@ -3131,12 +3131,12 @@
 | 3621 | Fixed Point | [TypeScript](./src/3621/solution.ts) | Easy  |
 | 3622 | Read N Characters Given Read4 |  | Easy  |
 | 3623 | Sum of Digits in the Minimum Number |  | Easy  |
-| 3624 | Count Substrings with Only One Distinct Letter |  | Easy  |
-| 3626 | How Many Apples Can You Put into the Basket |  | Easy  |
-| 3628 | Highest Five Subject Average |  | Easy  |
+| 3624 | Count Substrings with Only One Distinct Letter | [TypeScript](./src/3624/solution.ts) | Easy  |
+| 3626 | How Many Apples Can You Put into the Basket | [TypeScript](./src/3626/solution.ts) | Easy  |
+| 3628 | Highest Five Subject Average | [TypeScript](./src/3628/solution.ts) | Easy  |
 | 3629 | Intersection of Three Sorted Arrays |  | Easy  |
 | 3630 | Two Sum Less Than Target |  | Easy  |
-| 3631 | Remove Vowels From String |  | Easy  |
+| 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
 | 3633 | Missing Number In Arithmetic Progression |  | Easy  |
 | 3634 | Largest Unique Number |  | Easy  |
 | 3636 | Array Transformation |  | Easy  |
