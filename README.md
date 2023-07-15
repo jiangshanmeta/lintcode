@@ -551,8 +551,8 @@
 | 552 | Create Maximum Number |  | Hard  |
 | 553 | Bomb Enemy |  | Medium  |
 | 554 | Sort Integers (Map Reduce) |  | Medium  |
-| 555 | Counting Bloom Filter |  | Medium  |
-| 556 | Standard Bloom Filter |  | Medium  |
+| 555 | Counting Bloom Filter | [Python](./src/0555/solution.py) | Medium  |
+| 556 | Standard Bloom Filter | [Python](./src/0556/solution.py) | Medium  |
 | 557 | Count Characters |  | Easy  |
 | 558 | Sliding Window Matrix Maximum |  | Medium  |
 | 559 | Trie Service |  | Medium  |
@@ -3138,9 +3138,9 @@
 | 3630 | Two Sum Less Than Target |  | Easy  |
 | 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
 | 3633 | Missing Number In Arithmetic Progression |  | Easy  |
-| 3634 | Largest Unique Number |  | Easy  |
+| 3634 | Largest Unique Number | [TypeScript](./src/3634/solution.ts) | Easy  |
 | 3636 | Array Transformation |  | Easy  |
-| 3638 | Single-Row Keyboard |  | Easy  |
+| 3638 | Single-Row Keyboard | [TypeScript](./src/3638/solution.ts) | Easy  |
 | 3640 | Hexspeak |  | Easy  |
 | 3641 | Sport Plan Performance |  | Easy  |
 | 3642 | Counting Elements |  | Easy  |
