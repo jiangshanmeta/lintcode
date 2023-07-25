@@ -3141,8 +3141,8 @@
 | 3634 | Largest Unique Number | [TypeScript](./src/3634/solution.ts) | Easy  |
 | 3636 | Array Transformation |  | Easy  |
 | 3638 | Single-Row Keyboard | [TypeScript](./src/3638/solution.ts) | Easy  |
-| 3640 | Hexspeak |  | Easy  |
-| 3641 | Sport Plan Performance |  | Easy  |
-| 3642 | Counting Elements |  | Easy  |
-| 3644 | Check If a Number is Majority Element in an Array |  | Easy  |
-| 3645 | Perform String Shifts |  | Easy  |
+| 3640 | Hexspeak | [TypeScript](./src/3640/solution.ts) | Easy  |
+| 3641 | Sport Plan Performance | [TypeScript](./src/3641/solution.ts) | Easy  |
+| 3642 | Counting Elements | [TypeScript](./src/3642/solution.ts) | Easy  |
+| 3644 | Check If a Number is Majority Element in an Array | [TypeScript](./src/3644/solution.ts) | Easy  |
+| 3645 | Perform String Shifts | [TypeScript](./src/3645/solution.ts) | Easy  |
