@@ -227,7 +227,7 @@
 | 211 | String Permutation | [JavaScript](./src/0211/solution.js) | Easy  |
 | 212 | Space Replacement | [Python](./src/0212/solution.py) | Easy  |
 | 213 | String Compression | [JavaScript](./src/0213/solution.js) | Easy  |
-| 214 | Max of Array |  | Naive  |
+| 214 | Max of Array | [TypeScript](./src/0214/solution.ts) | Naive  |
 | 215 | Rate Limiter |  | Hard  |
 | 216 | Substring Rotation |  | Easy  |
 | 217 | Remove Duplicates from Unsorted List |  | Easy  |
@@ -266,14 +266,14 @@
 | 250 | Special Palindrome String | [TypeScript](./src/0250/solution.ts) | Easy  |
 | 251 | Array compression |  | Medium  |
 | 252 | arithmetic matrix |  | Medium  |
-| 253 | URL Edcode |  | Easy  |
+| 253 | URL Edcode | [TypeScript](./src/0253/solution.ts) | Easy  |
 | 254 | Drop Eggs |  | Easy  |
 | 255 | Multi-string search |  | Easy  |
 | 256 | The Maximum Order |  | Hard  |
 | 257 | Longest String Chain |  | Medium  |
 | 258 | Map Jump |  | Hard  |
 | 259 | Find the largest Divisor |  | Medium  |
-| 260 | Same Diagonal Elements |  | Easy  |
+| 260 | Same Diagonal Elements | [TypeScript](./src/0260/solution.ts) | Easy  |
 | 261 | Maximum Connected Area |  | Medium  |
 | 262 | heir tree |  | Medium  |
 | 263 | Matching of parentheses | [TypeScript](./src/0263/solution.ts) | Easy  |
@@ -293,7 +293,7 @@
 | 277 | Word Spacing |  | Easy  |
 | 278 | Paint Fill | [JavaScript](./src/0278/solution.js) | Medium  |
 | 279 | Number of Ways to Represent N Cents |  | Medium  |
-| 280 | Closest City |  | Easy  |
+| 280 | Closest City | [TypeScript](./src/0280/solution.ts) | Easy  |
 | 281 | Paint the Ceiling |  | Medium  |
 | 282 | Decrypt the String |  | Easy  |
 | 283 | Max of 3 Numbers | [JavaScript](./src/0283/solution.js) | Naive  |
@@ -318,7 +318,7 @@
 | 303 | Beautiful Number |  | Medium  |
 | 304 | Maximum product |  | Medium  |
 | 305 | longest increasing path in a matrix |  | Hard  |
-| 306 | Product List |  | Easy  |
+| 306 | Product List | [TypeScript](./src/0306/solution.ts) | Easy  |
 | 307 | Transform String |  | Medium  |
 | 308 | Special Substring |  | Medium  |
 | 309 | Interleaved Array |  | Easy  |
@@ -815,6 +815,7 @@
 | 844 | Number Pair Statistics |  | Easy  |
 | 845 | Greatest Common Divisor | [JavaScript](./src/0845/solution.js) | Easy  |
 | 846 | Multi-keyword Sort | [JavaScript](./src/0846/solution.js) | Easy  |
+| 847 | Split BST |  | Medium  |
 | 848 | Minimize Max Distance to Gas Station |  | Hard  |
 | 849 | Basic Calculator III |  | Hard  |
 | 850 | Employee Free Time |  | Hard  |
@@ -848,6 +849,7 @@
 | 879 | Output Contest Matches |  | Medium  |
 | 880 | Construct Binary Tree from String | [JavaScript](./src/0880/solution.js) | Medium  |
 | 881 | Lonely Pixel II |  | Medium  |
+| 882 | Lonely Pixel |  | Medium  |
 | 883 | Max Consecutive Ones II | [JavaScript](./src/0883/solution.js) | Medium  |
 | 884 | Find Permutation |  | Medium  |
 | 885 | Encode String with Shortest Length |  | Hard  |
@@ -889,6 +891,7 @@
 | 922 | Group Shifted Strings |  | Medium  |
 | 923 | Strobogrammatic Number III |  | Hard  |
 | 924 | Shortest Word Distance | [JavaScript](./src/0924/solution.js) | Easy  |
+| 925 | Shortest Word Distance II |  | Medium  |
 | 926 | Shortest Word Distance III |  | Medium  |
 | 927 | Reverse Words in a String II | [JavaScript](./src/0927/solution.js) | Medium  |
 | 928 | Longest Substring with At Most Two Distinct Characters |  | Medium  |
@@ -921,6 +924,7 @@
 | 958 | Palindrome Data Stream |  | Easy  |
 | 959 | K Spaced Array Sorting |  | Medium  |
 | 960 | First Unique Number in Data Stream II | [Python](./src/0960/solution.py) | Medium  |
+| 961 | Design Log Storage System |  | Medium  |
 | 962 | Condition string |  | Medium  |
 | 963 | The Judges Give Problem |  | Medium  |
 | 964 | Food Set |  | Medium  |
@@ -928,7 +932,7 @@
 | 966 | Closest Pair of Points |  | Hard  |
 | 967 | Quality Inspection |  | Hard  |
 | 968 | Valid Currency Amount |  | Medium  |
-| 969 | Longest Repeating Substring |  | Medium  |
+| 969 | Longest Repeating Substring II |  | Medium  |
 | 970 | Big Business |  | Easy  |
 | 971 | Surplus Value Backpack |  | Hard  |
 | 972 | Deliver The Message |  | Medium  |
@@ -3037,7 +3041,6 @@
 | 3526 | Dependency Injection (Provide) |  | Easy  |
 | 3527 | Dependency Injection (Injection) |  | Easy  |
 | 3528 | Transition Effect |  | Medium  |
-| 3529 | Transition animation of list |  | Medium  |
 | 3530 | Process List And Render |  | Naive  |
 | 3531 | Vue Conditional Rendering |  | Naive  |
 | 3532 | Vue Conditional Rendering II |  | Naive  |
@@ -3128,21 +3131,77 @@
 | 3617 | Replacement of Seats for Two Consecutive Persons |  | Medium  |
 | 3618 | Time-Consuming Top Three Tasks |  | Easy  |
 | 3619 | Project Subtask |  | Hard  |
+| 3620 | Logger Rate Limiter |  | Easy  |
 | 3621 | Fixed Point | [TypeScript](./src/3621/solution.ts) | Easy  |
 | 3622 | Read N Characters Given Read4 |  | Easy  |
 | 3623 | Sum of Digits in the Minimum Number |  | Easy  |
 | 3624 | Count Substrings with Only One Distinct Letter | [TypeScript](./src/3624/solution.ts) | Easy  |
+| 3625 | Index Pairs of a String |  | Medium  |
 | 3626 | How Many Apples Can You Put into the Basket | [TypeScript](./src/3626/solution.ts) | Easy  |
+| 3627 | Find All The Lonely Nodes |  | Easy  |
 | 3628 | Highest Five Subject Average | [TypeScript](./src/3628/solution.ts) | Easy  |
 | 3629 | Intersection of Three Sorted Arrays |  | Easy  |
 | 3630 | Two Sum Less Than Target |  | Easy  |
 | 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
+| 3632 | Delete n Nodes After m Nodes of a Linked List |  | Easy  |
 | 3633 | Missing Number In Arithmetic Progression |  | Easy  |
 | 3634 | Largest Unique Number | [TypeScript](./src/3634/solution.ts) | Easy  |
+| 3635 | Largest Subarray Length k |  | Easy  |
 | 3636 | Array Transformation |  | Easy  |
+| 3637 | Problematic Sensor |  | Easy  |
 | 3638 | Single-Row Keyboard | [TypeScript](./src/3638/solution.ts) | Easy  |
+| 3639 | Check If a String Be Split into Value-Equal Substrings |  | Easy  |
 | 3640 | Hexspeak | [TypeScript](./src/3640/solution.ts) | Easy  |
 | 3641 | Sport Plan Performance | [TypeScript](./src/3641/solution.ts) | Easy  |
 | 3642 | Counting Elements | [TypeScript](./src/3642/solution.ts) | Easy  |
+| 3643 | Whether the Array Is a Consecutive Array |  | Easy  |
 | 3644 | Check If a Number is Majority Element in an Array | [TypeScript](./src/3644/solution.ts) | Easy  |
 | 3645 | Perform String Shifts | [TypeScript](./src/3645/solution.ts) | Easy  |
+| 3646 | Count Houses on a Circular Street |  | Easy  |
+| 3647 | Design Compressed String Iterator |  | Easy  |
+| 3648 | Reverse Words in a String IV |  | Medium  |
+| 3649 | Find the Sum of Two Nodes of Two BST |  | Medium  |
+| 3650 | Absolutely Continuous Numbers |  | Medium  |
+| 3651 | Number of Connected Components in an Undirected Graph |  | Medium  |
+| 3652 | Shortest Way to Form String |  | Medium  |
+| 3653 | Meeting Scheduler |  | Medium  |
+| 3654 | Toss Coins |  | Medium  |
+| 3655 | Minimize Rounding Error to Meet Target |  | Medium  |
+| 3656 | Design Snake Game |  | Medium  |
+| 3657 | All Paths Can Pass from Start to End |  | Medium  |
+| 3658 | Website Crawler |  | Medium  |
+| 3659 | Design Phone Directory |  | Easy  |
+| 3660 | Competition Leaderboard |  | Medium  |
+| 3661 | Missing Element in Sorted Array |  | Medium  |
+| 3662 | Design Hit Counter |  | Easy  |
+| 3663 | Diameter of an Undirected Tree |  | Medium  |
+| 3664 | Longest Repeating Substring |  | Medium  |
+| 3665 | Inorder Successor in BST II |  | Medium  |
+| 3666 | Campus Bikes II |  | Hard  |
+| 3667 | Encode Number |  | Medium  |
+| 3668 | Bracket Expansion |  | Medium  |
+| 3669 | Smallest Common Region |  | Medium  |
+| 3670 | The Earliest Moment When Everyone Become Friends |  | Medium  |
+| 3671 | Replace the Synonyms in the Sentence |  | Medium  |
+| 3672 | Connecting Cities With Minimum Cost |  | Medium  |
+| 3673 | Parallel Courses |  | Medium  |
+| 3674 | Printing Immutable Linked List in Reverse Order |  | Medium  |
+| 3675 | Minimum Swaps to Group All 1's Together |  | Medium  |
+| 3676 | Analyze User Website Visit Pattern |  | Medium  |
+| 3677 | Design File System |  | Medium  |
+| 3678 | Delete Interval |  | Medium  |
+| 3679 | Shortest Distance to Target Color |  | Medium  |
+| 3680 | Before and After Puzzle |  | Medium  |
+| 3681 | Delete Nodes of Tree |  | Medium  |
+| 3682 | Knight Shortest Path IV |  | Medium  |
+| 3683 | Columns with at Least a One on the Leftmost Side |  | Medium  |
+| 3684 | Find Smallest Common Element in All Rows |  | Medium  |
+| 3685 | First Unique Integer |  | Medium  |
+| 3686 | Diameter of N-Ary Tree |  | Medium  |
+| 3687 | Check If an Array Is a Valid Sequence |  | Medium  |
+| 3688 | Strings Differ by One Character |  | Medium  |
+| 3689 | Put Boxes Into the Warehouse |  | Medium  |
+| 3690 | Clone Binary Tree II |  | Medium  |
+| 3691 | Dot Product of Two Sparse Vectors |  | Easy  |
+| 3692 | Put Boxes Into the Warehouse II |  | Medium  |
+| 3693 | Clone N-branch Tree |  | Medium  |
