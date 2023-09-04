@@ -321,7 +321,7 @@
 | 306 | Product List | [TypeScript](./src/0306/solution.ts) | Easy  |
 | 307 | Transform String |  | Medium  |
 | 308 | Special Substring |  | Medium  |
-| 309 | Interleaved Array |  | Easy  |
+| 309 | Interleaved Array | [TypeScript](./src/0309/solution.ts) | Easy  |
 | 310 | Digital distortion |  | Easy  |
 | 311 | Pioneering palindrome | [TypeScript](./src/0311/solution.ts) | Easy  |
 | 312 | Bull Cards |  | Medium  |
@@ -330,7 +330,7 @@
 | 315 | Reformat String |  | Medium  |
 | 316 | Combination set |  | Medium  |
 | 317 | Minimum Parentheses Matching |  | Medium  |
-| 318 | Character Grid |  | Easy  |
+| 318 | Character Grid | [TypeScript](./src/0318/solution.ts) | Easy  |
 | 319 | Square Queue |  | Hard  |
 | 321 | perfect string |  | Easy  |
 | 322 | Chess Game |  | Easy  |
@@ -366,7 +366,7 @@
 | 355 | shuttleInBuildings |  | Hard  |
 | 357 | Symmetrical Suffix |  | Medium  |
 | 358 | treePlanning | [TypeScript](./src/0358/solution.ts) | Easy  |
-| 359 | makeEquilateralTriangle |  | Easy  |
+| 359 | makeEquilateralTriangle | [TypeScript](./src/0359/solution.ts) | Easy  |
 | 360 | Sliding Window Median |  | Hard  |
 | 362 | Sliding Window Maximum | [JavaScript](./src/0362/solution.js) | Hard  |
 | 363 | Trapping Rain Water |  | Medium  |
@@ -476,7 +476,7 @@
 | 475 | Binary Tree Maximum Path Sum II |  | Medium  |
 | 476 | Stone Game | [JavaScript](./src/0476/solution.js) | Medium  |
 | 477 | Surrounded Regions | [Python](./src/0477/solution.py) | Medium  |
-| 478 | Simple Calculator |  | Naive  |
+| 478 | Simple Calculator | [TypeScript](./src/0478/solution.ts) | Naive  |
 | 479 | Second Max of Array | [JavaScript](./src/0479/solution.js) | Easy  |
 | 480 | Binary Tree Paths | [JavaScript](./src/0480/solution.js) | Easy  |
 | 481 | Binary Tree Leaf Sum |  | Easy  |
@@ -761,7 +761,7 @@
 | 789 | The Maze III |  | Hard  |
 | 790 | Parser |  | Medium  |
 | 791 | Merge Number | [JavaScript](./src/0791/solution.js) | Medium  |
-| 792 | Kth Prime Number |  | Easy  |
+| 792 | Kth Prime Number | [TypeScript](./src/0792/solution.ts) | Easy  |
 | 793 | Intersection of Arrays |  | Medium  |
 | 794 | Sliding Puzzle II |  | Hard  |
 | 795 | 4-Way Unique Paths |  | Medium  |
