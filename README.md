@@ -268,7 +268,7 @@
 | 252 | arithmetic matrix |  | Medium  |
 | 253 | URL Edcode | [TypeScript](./src/0253/solution.ts) | Easy  |
 | 254 | Drop Eggs |  | Easy  |
-| 255 | Multi-string search |  | Easy  |
+| 255 | Multi-string search | [TypeScript](./src/0255/solution.ts) | Easy  |
 | 256 | The Maximum Order |  | Hard  |
 | 257 | Longest String Chain |  | Medium  |
 | 258 | Map Jump |  | Hard  |
@@ -295,7 +295,7 @@
 | 279 | Number of Ways to Represent N Cents |  | Medium  |
 | 280 | Closest City | [TypeScript](./src/0280/solution.ts) | Easy  |
 | 281 | Paint the Ceiling |  | Medium  |
-| 282 | Decrypt the String |  | Easy  |
+| 282 | Decrypt the String | [TypeScript](./src/0282/solution.ts) | Easy  |
 | 283 | Max of 3 Numbers | [JavaScript](./src/0283/solution.js) | Naive  |
 | 285 | Tall Building |  | Medium  |
 | 286 | Inversions |  | Hard  |
@@ -807,7 +807,7 @@
 | 836 | Partition to K Equal Sum Subsets |  | Hard  |
 | 837 | Palindromic Substrings | [JavaScript](./src/0837/solution.js) | Medium  |
 | 838 | Subarray Sum Equals K | [JavaScript](./src/0838/solution.js) | Easy  |
-| 839 | Merge Two Sorted Interval Lists |  | Easy  |
+| 839 | Merge Two Sorted Interval Lists | [TypeScript](./src/0839/solution.ts) | Easy  |
 | 840 | Range Sum Query - Mutable | [Python](./src/0840/solution.py) | Medium  |
 | 841 | String Replace |  | Hard  |
 | 842 | Origami |  | Medium  |
@@ -1198,7 +1198,7 @@
 | 1244 | Minimum Genetic Mutation |  | Medium  |
 | 1245 | All O(1) Data Structure |  | Hard  |
 | 1246 | Longest Repeating Character Replacement |  | Medium  |
-| 1247 | Reconstruct Original Digits from English |  | Medium  |
+| 1247 | Reconstruct Original Digits from English | [TypeScript](./src/1247/solution.ts) | Medium  |
 | 1248 | Maximum XOR of Two Numbers in an Array |  | Medium  |
 | 1249 | Strong Password Checker |  | Hard  |
 | 1250 | Third Maximum Number | [JavaScript](./src/1250/solution.js) | Easy  |
@@ -1320,7 +1320,7 @@
 | 1369 | Most Common Word | [TypeScript](./src/1369/solution.ts) | Easy  |
 | 1370 | Race Car |  | Hard  |
 | 1371 | Linked List Components | [JavaScript](./src/1371/solution.js) | Medium  |
-| 1372 | Ambiguous Coordinates |  | Medium  |
+| 1372 | Ambiguous Coordinates | [TypeScript](./src/1372/solution.ts) | Medium  |
 | 1373 | Movies on Flight |  | Medium  |
 | 1374 | Shortest Distance in 3D Space |  | Medium  |
 | 1375 | Substring With At Least K Distinct Characters |  | Medium  |
