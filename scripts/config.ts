@@ -31,5 +31,13 @@ export const languages = [
         label: 'CSS',
         ext: 'css',
     },
+    {
+        label: 'Vue',
+        ext: 'vue',
+    },
+    {
+        label: 'PHP',
+        ext: 'php',
+    },
 
 ];
