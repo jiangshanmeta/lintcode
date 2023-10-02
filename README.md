@@ -307,7 +307,7 @@
 | 292 | Sort Anagrams Array |  | Easy  |
 | 293 | The depth of the tunnel |  | Medium  |
 | 294 | Linked List Simplification | [TypeScript](./src/0294/solution.ts) | Easy  |
-| 295 | Intersection |  | Easy  |
+| 295 | Intersection | [TypeScript](./src/0295/solution.ts) | Easy  |
 | 296 | Unique Array |  | Easy  |
 | 297 | Find the maximum | [TypeScript](./src/0297/solution.ts) | Naive  |
 | 298 | Find prime | [TypeScript](./src/0298/solution.ts) | Naive  |
@@ -337,7 +337,7 @@
 | 323 | string game |  | Hard  |
 | 325 | Football |  | Hard  |
 | 326 | Slide Soduku |  | Easy  |
-| 327 | Distance Metrics |  | Medium  |
+| 327 | Distance Metrics | [TypeScript](./src/0327/solution.ts) | Medium  |
 | 328 | String Partition |  | Medium  |
 | 329 | Double Array |  | Easy  |
 | 330 | Increasing Number |  | Medium  |
@@ -422,7 +422,7 @@
 | 418 | Integer to Roman | [JavaScript](./src/0418/solution.js) | Medium  |
 | 419 | Roman to Integer | [JavaScript](./src/0419/solution.js) | Medium  |
 | 420 | Count and Say |  | Easy  |
-| 421 | Simplify Path |  | Medium  |
+| 421 | Simplify Path | [TypeScript](./src/0421/solution.ts) | Medium  |
 | 422 | Length of Last Word | [JavaScript](./src/0422/solution.js) | Easy  |
 | 423 | Valid Parentheses | [JavaScript](./src/0423/solution.js) | Easy  |
 | 424 | Evaluate Reverse Polish Notation | [Python](./src/0424/solution.py) | Medium  |
@@ -567,7 +567,7 @@
 | 568 | Three Chances |  | Medium  |
 | 569 | Add Digits | [JavaScript](./src/0569/solution.js) | Easy  |
 | 570 | Find the Missing Number II |  | Medium  |
-| 571 | Judgment repetition |  | Medium  |
+| 571 | Judgment repetition | [TypeScript](./src/0571/solution.ts) | Medium  |
 | 572 | Music Pairs | [TypeScript](./src/0572/solution.ts) | Easy  |
 | 573 | Build Post Office II |  | Hard  |
 | 574 | Build Post Office |  | Medium  |
@@ -705,7 +705,7 @@
 | 725 | Boolean Parenthesization |  | Hard  |
 | 726 | Check Full Binary Tree | [JavaScript](./src/0726/solution.js) | Medium  |
 | 727 | Chinese Remainder Theorem |  | Hard  |
-| 728 | Three Distinct Factors |  | Medium  |
+| 728 | Three Distinct Factors | [TypeScript](./src/0728/solution.ts) | Medium  |
 | 729 | Last Digit By Factorial Divide |  | Medium  |
 | 730 | Sum of All Subsets | [JavaScript](./src/0730/solution.js) | Easy  |
 | 731 | Restaurant II OO Design |  | Hard  |
@@ -751,7 +751,7 @@
 | 778 | Pacific Atlantic Water Flow | [Python](./src/0778/solution.py) | Medium  |
 | 779 | Generalized Abbreviation |  | Medium  |
 | 780 | Remove Invalid Parentheses |  | Hard  |
-| 782 | AND and OR |  | Medium  |
+| 782 | AND and OR | [TypeScript](./src/0782/solution.ts) | Medium  |
 | 783 | Minimum Risk Path |  | Hard  |
 | 784 | The Longest Common Prefix II |  | Easy  |
 | 785 | Maximum Weighted Sum Path | [JavaScript](./src/0785/solution.js) | Medium  |
@@ -1040,7 +1040,7 @@
 | 1075 | Subarray Product Less Than K |  | Medium  |
 | 1076 | Minimum ASCII Delete Sum for Two Strings | [JavaScript](./src/1076/solution.js) | Medium  |
 | 1077 | Falling Squares |  | Hard  |
-| 1078 | Degree of an Array |  | Easy  |
+| 1078 | Degree of an Array | [TypeScript](./src/1078/solution.ts) | Easy  |
 | 1079 | Count Binary Substrings |  | Easy  |
 | 1080 | Max Area of Island | [JavaScript](./src/1080/solution.js) | Easy  |
 | 1081 | Stickers to Spell Word |  | Hard  |
@@ -1287,7 +1287,7 @@
 | 1335 | Repeated DNA Sequences | [JavaScript](./src/1335/solution.js) | Medium  |
 | 1336 | Party Invitation |  | Medium  |
 | 1337 | Maximum possible value |  | Medium  |
-| 1338 | Parking Dilemma |  | Easy  |
+| 1338 | Parking Dilemma | [TypeScript](./src/1338/solution.ts) | Easy  |
 | 1339 | Maximum Range |  | Hard  |
 | 1340 | add character |  | Easy  |
 | 1341 | Combine New Numbers |  | Medium  |
@@ -1341,7 +1341,7 @@
 | 1390 | Short Encoding of Words |  | Medium  |
 | 1391 | Making A Large Island |  | Hard  |
 | 1392 | Most Profit Assigning Work |  | Medium  |
-| 1393 | Friends Of Appropriate Ages |  | Medium  |
+| 1393 | Friends Of Appropriate Ages | [TypeScript](./src/1393/solution.ts) | Medium  |
 | 1394 | Goat Latin | [JavaScript](./src/1394/solution.js) | Easy  |
 | 1395 | The Barycentre Of The Trees |  | Hard  |
 | 1396 | Set Union |  | Medium  |
@@ -1379,7 +1379,7 @@
 | 1434 | Sum of Distances in Tree |  | Hard  |
 | 1435 | Find And Replace in String |  | Medium  |
 | 1436 | Flipping an Image |  | Easy  |
-| 1437 | Masking Personal Information |  | Medium  |
+| 1437 | Masking Personal Information | [TypeScript](./src/1437/solution.ts) | Medium  |
 | 1438 | Positions of Large Groups | [JavaScript](./src/1438/solution.js) | Easy  |
 | 1439 | Consecutive Numbers Sum |  | Medium  |
 | 1440 | Unique Letter String |  | Hard  |
