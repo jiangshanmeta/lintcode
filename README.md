@@ -887,7 +887,7 @@
 | 918 | 3Sum Smaller | [JavaScript](./src/0918/solution.js) | Medium  |
 | 919 | Meeting Rooms II |  | Medium  |
 | 920 | Meeting Rooms | [JavaScript](./src/0920/solution.js) | Easy  |
-| 921 | Count Univalue Subtrees |  | Medium  |
+| 921 | Count Univalue Subtrees | [TypeScript](./src/0921/solution.ts) | Medium  |
 | 922 | Group Shifted Strings |  | Medium  |
 | 923 | Strobogrammatic Number III |  | Hard  |
 | 924 | Shortest Word Distance | [JavaScript](./src/0924/solution.js) | Easy  |
@@ -1082,7 +1082,7 @@
 | 1125 | Jump Pillar |  | Medium  |
 | 1126 | Merge Two Binary Trees | [JavaScript](./src/1126/solution.js) | Easy  |
 | 1127 | Add Bold Tag in String |  | Medium  |
-| 1129 | Smallest Subtree with All the Deepest Nodes |  | Medium  |
+| 1129 | Smallest Subtree with All the Deepest Nodes | [TypeScript](./src/1129/solution.ts) | Medium  |
 | 1130 | Magic circle |  | Hard  |
 | 1131 | The Function in Permutations |  | Medium  |
 | 1132 | Valid Triangle Number |  | Medium  |
@@ -1466,7 +1466,7 @@
 | 1530 | Encode N-ary Tree to Binary Tree |  | Hard  |
 | 1531 | Automatic Proofreading Program |  | Medium  |
 | 1532 | Serialize and Deserialize N-ary Tree |  | Hard  |
-| 1533 | N-ary Tree Level Order Traversal |  | Easy  |
+| 1533 | N-ary Tree Level Order Traversal | [TypeScript](./src/1533/solution.ts) | Easy  |
 | 1534 | Convert Binary Search Tree to Sorted Doubly Linked List |  | Medium  |
 | 1535 | To Lower Case | [JavaScript](./src/1535/solution.js) | Easy  |
 | 1536 | Find First and Last Position of Element in Sorted Array | [JavaScript](./src/1536/solution.js) | Medium  |
@@ -1575,7 +1575,7 @@
 | 1649 | Super Lollipop | [TypeScript](./src/1649/solution.ts) | Easy  |
 | 1656 | Legal Number Statistics | [JavaScript](./src/1656/solution.js) | Easy  |
 | 1657 | Operation Time |  | Easy  |
-| 1659 | Legal Number Statistics II |  | Easy  |
+| 1659 | Legal Number Statistics II | [TypeScript](./src/1659/solution.ts) | Easy  |
 | 1665 | Calculate number | [JavaScript](./src/1665/solution.js) | Easy  |
 | 1669 | Build a temple |  | Medium  |
 | 1685 | The mazeIV |  | Medium  |
@@ -1691,7 +1691,7 @@
 | 1848 | Word Search III |  | Hard  |
 | 1849 | Grumpy Bookstore Owner |  | Medium  |
 | 1850 | Pick Apples |  | Medium  |
-| 1851 | Buy Passes |  | Medium  |
+| 1851 | Buy Passes | [TypeScript](./src/1851/solution.ts) | Medium  |
 | 1852 | Final Discounted Price | [TypeScript](./src/1852/solution.ts) | Medium  |
 | 1853 | Efficient Job Processing Service |  | Medium  |
 | 1854 | Partition Array III |  | Easy  |
