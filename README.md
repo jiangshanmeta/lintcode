@@ -2706,7 +2706,7 @@
 | 3044 | Designing a Search Box | [CSS](./src/3044/solution.css) [HTML](./src/3044/solution.html) | Easy  |
 | 3048 | Making a Login Form | [CSS](./src/3048/solution.css) [HTML](./src/3048/solution.html) | Easy  |
 | 3061 | Basic structure of HTML | [HTML](./src/3061/solution.html) | Naive  |
-| 3062 | Print Hello World! |  | Naive  |
+| 3062 | Print Hello World! | [PHP](./src/3062/solution.php) | Naive  |
 | 3063 | HTML Page Title Tag | [HTML](./src/3063/solution.html) | Naive  |
 | 3064 | Data Portfolio |  | Naive  |
 | 3065 | Basic syntax of HTML | [HTML](./src/3065/solution.html) | Naive  |
@@ -2750,7 +2750,7 @@
 | 3107 | Write URLconf (Bug Fix) |  | Naive  |
 | 3108 | Movie Rating |  | Easy  |
 | 3109 | Customize background management |  | Naive  |
-| 3110 | String Splicings |  | Naive  |
+| 3110 | String Splicings | [PHP](./src/3110/solution.php) | Naive  |
 | 3111 | String case conversion |  | Easy  |
 | 3112 | Printable Ninety-Nine Multiplication Table |  | Easy  |
 | 3113 | HTML Character Entities | [HTML](./src/3113/solution.html) | Naive  |
@@ -3055,7 +3055,7 @@
 | 3541 | Tree View Component Implementation |  | Hard  |
 | 3542 | Non-Negative Prefix Sum |  | Easy  |
 | 3543 | Dynamically Bind Class Names for Paragraphs |  | Naive  |
-| 3544 | Exam Progress |  | Easy  |
+| 3544 | Exam Progress | [TypeScript](./src/3544/solution.ts) | Easy  |
 | 3545 | Vue Props |  | Easy  |
 | 3546 | Dynamically Bind Styles for Paragraphs |  | Naive  |
 | 3547 | Matrix Override |  | Medium  |
@@ -3134,11 +3134,11 @@
 | 3620 | Logger Rate Limiter |  | Easy  |
 | 3621 | Fixed Point | [TypeScript](./src/3621/solution.ts) | Easy  |
 | 3622 | Read N Characters Given Read4 |  | Easy  |
-| 3623 | Sum of Digits in the Minimum Number |  | Easy  |
+| 3623 | Sum of Digits in the Minimum Number | [TypeScript](./src/3623/solution.ts) | Easy  |
 | 3624 | Count Substrings with Only One Distinct Letter | [TypeScript](./src/3624/solution.ts) | Easy  |
 | 3625 | Index Pairs of a String |  | Medium  |
 | 3626 | How Many Apples Can You Put into the Basket | [TypeScript](./src/3626/solution.ts) | Easy  |
-| 3627 | Find All The Lonely Nodes |  | Easy  |
+| 3627 | Find All The Lonely Nodes | [TypeScript](./src/3627/solution.ts) | Easy  |
 | 3628 | Highest Five Subject Average | [TypeScript](./src/3628/solution.ts) | Easy  |
 | 3629 | Intersection of Three Sorted Arrays |  | Easy  |
 | 3630 | Two Sum Less Than Target |  | Easy  |
