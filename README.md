@@ -3143,24 +3143,24 @@
 | 3629 | Intersection of Three Sorted Arrays |  | Easy  |
 | 3630 | Two Sum Less Than Target |  | Easy  |
 | 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
-| 3632 | Delete n Nodes After m Nodes of a Linked List |  | Easy  |
-| 3633 | Missing Number In Arithmetic Progression |  | Easy  |
+| 3632 | Delete n Nodes After m Nodes of a Linked List | [TypeScript](./src/3632/solution.ts) | Easy  |
+| 3633 | Missing Number In Arithmetic Progression | [TypeScript](./src/3633/solution.ts) | Easy  |
 | 3634 | Largest Unique Number | [TypeScript](./src/3634/solution.ts) | Easy  |
-| 3635 | Largest Subarray Length k |  | Easy  |
+| 3635 | Largest Subarray Length k | [TypeScript](./src/3635/solution.ts) | Easy  |
 | 3636 | Array Transformation |  | Easy  |
 | 3637 | Problematic Sensor |  | Easy  |
 | 3638 | Single-Row Keyboard | [TypeScript](./src/3638/solution.ts) | Easy  |
-| 3639 | Check If a String Be Split into Value-Equal Substrings |  | Easy  |
+| 3639 | Check If a String Be Split into Value-Equal Substrings | [TypeScript](./src/3639/solution.ts) | Easy  |
 | 3640 | Hexspeak | [TypeScript](./src/3640/solution.ts) | Easy  |
 | 3641 | Sport Plan Performance | [TypeScript](./src/3641/solution.ts) | Easy  |
 | 3642 | Counting Elements | [TypeScript](./src/3642/solution.ts) | Easy  |
-| 3643 | Whether the Array Is a Consecutive Array |  | Easy  |
+| 3643 | Whether the Array Is a Consecutive Array | [TypeScript](./src/3643/solution.ts) | Easy  |
 | 3644 | Check If a Number is Majority Element in an Array | [TypeScript](./src/3644/solution.ts) | Easy  |
 | 3645 | Perform String Shifts | [TypeScript](./src/3645/solution.ts) | Easy  |
 | 3646 | Count Houses on a Circular Street |  | Easy  |
 | 3647 | Design Compressed String Iterator |  | Easy  |
 | 3648 | Reverse Words in a String IV |  | Medium  |
-| 3649 | Find the Sum of Two Nodes of Two BST |  | Medium  |
+| 3649 | Find the Sum of Two Nodes of Two BST | [TypeScript](./src/3649/solution.ts) | Medium  |
 | 3650 | Absolutely Continuous Numbers |  | Medium  |
 | 3651 | Number of Connected Components in an Undirected Graph |  | Medium  |
 | 3652 | Shortest Way to Form String |  | Medium  |
@@ -3178,7 +3178,7 @@
 | 3664 | Longest Repeating Substring |  | Medium  |
 | 3665 | Inorder Successor in BST II |  | Medium  |
 | 3666 | Campus Bikes II |  | Hard  |
-| 3667 | Encode Number |  | Medium  |
+| 3667 | Encode Number | [TypeScript](./src/3667/solution.ts) | Medium  |
 | 3668 | Bracket Expansion |  | Medium  |
 | 3669 | Smallest Common Region |  | Medium  |
 | 3670 | The Earliest Moment When Everyone Become Friends |  | Medium  |
