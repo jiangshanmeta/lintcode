@@ -2116,7 +2116,7 @@
     },
     {
         "index": 442,
-        "title": "Implement Trie (Prefix Tree)",
+        "title": "Implement Trie",
         "difficulty": 2
     },
     {
@@ -15932,6 +15932,261 @@
     {
         "index": 3693,
         "title": "Clone N-branch Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 3694,
+        "title": "Nonnegative Subarray",
+        "difficulty": 1
+    },
+    {
+        "index": 3695,
+        "title": "Nonnegative Subarray II",
+        "difficulty": 2
+    },
+    {
+        "index": 3696,
+        "title": "Inverse Subarray",
+        "difficulty": 1
+    },
+    {
+        "index": 3697,
+        "title": "Find Subscripts",
+        "difficulty": 1
+    },
+    {
+        "index": 3698,
+        "title": "The Leftmost Smaller Number",
+        "difficulty": 1
+    },
+    {
+        "index": 3699,
+        "title": "Clear the String",
+        "difficulty": 2
+    },
+    {
+        "index": 3701,
+        "title": "Find Nearest Right Node in Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 3702,
+        "title": "Maximum Sum Queries",
+        "difficulty": 3
+    },
+    {
+        "index": 3703,
+        "title": "Count Number of Rectangles Containing Each Point",
+        "difficulty": 2
+    },
+    {
+        "index": 3704,
+        "title": "Count Good Triplets in Array",
+        "difficulty": 3
+    },
+    {
+        "index": 3705,
+        "title": "Minimum Moves to Make Array Complementary",
+        "difficulty": 2
+    },
+    {
+        "index": 3706,
+        "title": "Number of Pairs That Satisfy the Condition",
+        "difficulty": 3
+    },
+    {
+        "index": 3707,
+        "title": "Corporate Flight Bookings",
+        "difficulty": 2
+    },
+    {
+        "index": 3708,
+        "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+        "difficulty": 3
+    },
+    {
+        "index": 3709,
+        "title": "Minimum Number of Visited Lattices in a Matrix",
+        "difficulty": 3
+    },
+    {
+        "index": 3710,
+        "title": "Design Most Recently Used Queue",
+        "difficulty": 2
+    },
+    {
+        "index": 3711,
+        "title": "Delete the Problem Node in a Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 3712,
+        "title": "Maximum Subarray Sum After Squaring An Element",
+        "difficulty": 2
+    },
+    {
+        "index": 3713,
+        "title": "Change the Root of a Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 3714,
+        "title": "Buildings With an Ocean View",
+        "difficulty": 1
+    },
+    {
+        "index": 3715,
+        "title": "Lowest Common Ancestor V",
+        "difficulty": 2
+    },
+    {
+        "index": 3716,
+        "title": "Longest Perfect Palindromic Subsequence",
+        "difficulty": 2
+    },
+    {
+        "index": 3717,
+        "title": "The Number of Distinct Substrings",
+        "difficulty": 2
+    },
+    {
+        "index": 3718,
+        "title": "Sort Features by Popularity",
+        "difficulty": 2
+    },
+    {
+        "index": 3719,
+        "title": "Shortest Path to Get Bubble Tea",
+        "difficulty": 2
+    },
+    {
+        "index": 3720,
+        "title": "Count Pairs of Equal Substrings With Minimum Difference",
+        "difficulty": 2
+    },
+    {
+        "index": 3721,
+        "title": "Maximum Number of Study Groups",
+        "difficulty": 2
+    },
+    {
+        "index": 3722,
+        "title": "Calculate the Distance Between Two Nodes in a Binary Tree",
+        "difficulty": 2
+    },
+    {
+        "index": 3723,
+        "title": "Remove Duplicates from Unsorted List II",
+        "difficulty": 2
+    },
+    {
+        "index": 3724,
+        "title": "Distinct Numbers in Each Subarray",
+        "difficulty": 2
+    },
+    {
+        "index": 3725,
+        "title": "Calculate the Depth of BST Based on the Order of Insertions",
+        "difficulty": 2
+    },
+    {
+        "index": 3726,
+        "title": "Rotting Oranges",
+        "difficulty": 2
+    },
+    {
+        "index": 3727,
+        "title": "Shortest Path in the Maze",
+        "difficulty": 2
+    },
+    {
+        "index": 3728,
+        "title": "Longest Word With All Prefixed",
+        "difficulty": 2
+    },
+    {
+        "index": 3729,
+        "title": "Implement Trie II",
+        "difficulty": 2
+    },
+    {
+        "index": 3730,
+        "title": "Product of Two Run-Length Encoded Arrays",
+        "difficulty": 2
+    },
+    {
+        "index": 3731,
+        "title": "Minimize Product Sum of Two Arrays",
+        "difficulty": 2
+    },
+    {
+        "index": 3732,
+        "title": "Minimum Path Cost in a Maze",
+        "difficulty": 2
+    },
+    {
+        "index": 3733,
+        "title": "Count Pairs in Two Arrays",
+        "difficulty": 2
+    },
+    {
+        "index": 3734,
+        "title": "Cutting Ribbons",
+        "difficulty": 2
+    },
+    {
+        "index": 3735,
+        "title": "Bash Game II",
+        "difficulty": 2
+    },
+    {
+        "index": 3736,
+        "title": "Kth Smallest Subarray Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 3737,
+        "title": "Find Maximum Values Among All Minimum Values of Subarrays",
+        "difficulty": 2
+    },
+    {
+        "index": 3738,
+        "title": "Longest Common Subsequence Between Sorted Arrays",
+        "difficulty": 2
+    },
+    {
+        "index": 3739,
+        "title": "Binary Searchable Numbers in an Unsorted Array",
+        "difficulty": 2
+    },
+    {
+        "index": 3740,
+        "title": "Calculate the Number of Nodes Equal to Sum of Child Nodes",
+        "difficulty": 2
+    },
+    {
+        "index": 3741,
+        "title": "Widest Pair of Indices With Equal Range Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 3742,
+        "title": "Maximum Number of People Can Be Caught in a Game",
+        "difficulty": 1
+    },
+    {
+        "index": 3743,
+        "title": "Smallest Greater Multiple Made of Two Digits",
+        "difficulty": 2
+    },
+    {
+        "index": 3744,
+        "title": "Calculate the Average Height of Buildings in Each Region",
+        "difficulty": 2
+    },
+    {
+        "index": 3745,
+        "title": "Brightest Position on Street",
         "difficulty": 2
     }
 ]
