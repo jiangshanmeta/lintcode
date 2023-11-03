@@ -172,7 +172,7 @@
 | 153 | Combination Sum II | [Python](./src/0153/solution.py) | Medium  |
 | 154 | Regular Expression Matching |  | Hard  |
 | 155 | Minimum Depth of Binary Tree | [JavaScript](./src/0155/solution.js) | Easy  |
-| 156 | Merge Intervals |  | Easy  |
+| 156 | Merge Intervals | [TypeScript](./src/0156/solution.ts) | Easy  |
 | 157 | Unique Characters | [Python](./src/0157/solution.py) | Easy  |
 | 158 | Valid Anagram | [JavaScript](./src/0158/solution.js) | Easy  |
 | 159 | Find Minimum in Rotated Sorted Array | [JavaScript](./src/0159/solution.js) | Medium  |
@@ -441,7 +441,7 @@
 | 438 | Copy Books II |  | Hard  |
 | 439 | Segment Tree Build II | [Python](./src/0439/solution.py) | Medium  |
 | 440 | Backpack III |  | Medium  |
-| 442 | Implement Trie (Prefix Tree) | [Python](./src/0442/solution.py) | Medium  |
+| 442 | Implement Trie | [Python](./src/0442/solution.py) | Medium  |
 | 443 | Two Sum - Greater than target |  | Medium  |
 | 444 | graph valid tree II |  | Medium  |
 | 445 | Cosine Similarity | [Python](./src/0445/solution.py) | Easy  |
@@ -1117,7 +1117,7 @@
 | 1163 | Distribute Candies | [JavaScript](./src/1163/solution.js) | Easy  |
 | 1164 | Wiggle Subsequence |  | Medium  |
 | 1165 | Subtree of Another Tree | [JavaScript](./src/1165/solution.js) | Easy  |
-| 1166 | Recommended Results are Scattered |  | Easy  |
+| 1166 | Recommended Results are Scattered | [TypeScript](./src/1166/solution.ts) | Easy  |
 | 1167 | Top three numbers |  | Medium  |
 | 1168 | array score | [TypeScript](./src/1168/solution.ts) | Easy  |
 | 1169 | Permutation in String | [JavaScript](./src/1169/solution.js) | Medium  |
@@ -3198,10 +3198,61 @@
 | 3684 | Find Smallest Common Element in All Rows |  | Medium  |
 | 3685 | First Unique Integer |  | Medium  |
 | 3686 | Diameter of N-Ary Tree |  | Medium  |
-| 3687 | Check If an Array Is a Valid Sequence |  | Medium  |
+| 3687 | Check If an Array Is a Valid Sequence | [TypeScript](./src/3687/solution.ts) | Medium  |
 | 3688 | Strings Differ by One Character |  | Medium  |
 | 3689 | Put Boxes Into the Warehouse |  | Medium  |
 | 3690 | Clone Binary Tree II |  | Medium  |
 | 3691 | Dot Product of Two Sparse Vectors |  | Easy  |
 | 3692 | Put Boxes Into the Warehouse II |  | Medium  |
 | 3693 | Clone N-branch Tree |  | Medium  |
+| 3694 | Nonnegative Subarray |  | Easy  |
+| 3695 | Nonnegative Subarray II |  | Medium  |
+| 3696 | Inverse Subarray |  | Easy  |
+| 3697 | Find Subscripts |  | Easy  |
+| 3698 | The Leftmost Smaller Number |  | Easy  |
+| 3699 | Clear the String |  | Medium  |
+| 3701 | Find Nearest Right Node in Binary Tree |  | Medium  |
+| 3702 | Maximum Sum Queries |  | Hard  |
+| 3703 | Count Number of Rectangles Containing Each Point |  | Medium  |
+| 3704 | Count Good Triplets in Array |  | Hard  |
+| 3705 | Minimum Moves to Make Array Complementary |  | Medium  |
+| 3706 | Number of Pairs That Satisfy the Condition |  | Hard  |
+| 3707 | Corporate Flight Bookings |  | Medium  |
+| 3708 | Minimum Number of Increments on Subarrays to Form a Target Array |  | Hard  |
+| 3709 | Minimum Number of Visited Lattices in a Matrix |  | Hard  |
+| 3710 | Design Most Recently Used Queue |  | Medium  |
+| 3711 | Delete the Problem Node in a Binary Tree |  | Medium  |
+| 3712 | Maximum Subarray Sum After Squaring An Element |  | Medium  |
+| 3713 | Change the Root of a Binary Tree |  | Medium  |
+| 3714 | Buildings With an Ocean View | [TypeScript](./src/3714/solution.ts) | Easy  |
+| 3715 | Lowest Common Ancestor V |  | Medium  |
+| 3716 | Longest Perfect Palindromic Subsequence |  | Medium  |
+| 3717 | The Number of Distinct Substrings |  | Medium  |
+| 3718 | Sort Features by Popularity | [TypeScript](./src/3718/solution.ts) | Medium  |
+| 3719 | Shortest Path to Get Bubble Tea |  | Medium  |
+| 3720 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
+| 3721 | Maximum Number of Study Groups |  | Medium  |
+| 3722 | Calculate the Distance Between Two Nodes in a Binary Tree | [TypeScript](./src/3722/solution.ts) | Medium  |
+| 3723 | Remove Duplicates from Unsorted List II |  | Medium  |
+| 3724 | Distinct Numbers in Each Subarray | [TypeScript](./src/3724/solution.ts) | Medium  |
+| 3725 | Calculate the Depth of BST Based on the Order of Insertions |  | Medium  |
+| 3726 | Rotting Oranges |  | Medium  |
+| 3727 | Shortest Path in the Maze |  | Medium  |
+| 3728 | Longest Word With All Prefixed |  | Medium  |
+| 3729 | Implement Trie II |  | Medium  |
+| 3730 | Product of Two Run-Length Encoded Arrays |  | Medium  |
+| 3731 | Minimize Product Sum of Two Arrays | [TypeScript](./src/3731/solution.ts) | Medium  |
+| 3732 | Minimum Path Cost in a Maze |  | Medium  |
+| 3733 | Count Pairs in Two Arrays |  | Medium  |
+| 3734 | Cutting Ribbons |  | Medium  |
+| 3735 | Bash Game II |  | Medium  |
+| 3736 | Kth Smallest Subarray Sum |  | Medium  |
+| 3737 | Find Maximum Values Among All Minimum Values of Subarrays |  | Medium  |
+| 3738 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
+| 3739 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
+| 3740 | Calculate the Number of Nodes Equal to Sum of Child Nodes | [TypeScript](./src/3740/solution.ts) | Medium  |
+| 3741 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
+| 3742 | Maximum Number of People Can Be Caught in a Game |  | Easy  |
+| 3743 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
+| 3744 | Calculate the Average Height of Buildings in Each Region |  | Medium  |
+| 3745 | Brightest Position on Street | [TypeScript](./src/3745/solution.ts) | Medium  |
