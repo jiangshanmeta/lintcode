@@ -1009,7 +1009,7 @@
 | 1043 | Couples Holding Hands |  | Hard  |
 | 1044 | Largest Plus Sign |  | Medium  |
 | 1045 | Partition Labels |  | Medium  |
-| 1046 | Prime Number of Set Bits in Binary Representation |  | Easy  |
+| 1046 | Prime Number of Set Bits in Binary Representation | [TypeScript](./src/1046/solution.ts) | Easy  |
 | 1047 | Special Binary String |  | Medium  |
 | 1048 | Set Intersection Size At Least Two |  | Hard  |
 | 1049 | Pyramid Transition Matrix |  | Medium  |
@@ -1041,14 +1041,14 @@
 | 1076 | Minimum ASCII Delete Sum for Two Strings | [JavaScript](./src/1076/solution.js) | Medium  |
 | 1077 | Falling Squares |  | Hard  |
 | 1078 | Degree of an Array | [TypeScript](./src/1078/solution.ts) | Easy  |
-| 1079 | Count Binary Substrings |  | Easy  |
+| 1079 | Count Binary Substrings | [TypeScript](./src/1079/solution.ts) | Easy  |
 | 1080 | Max Area of Island | [JavaScript](./src/1080/solution.js) | Easy  |
 | 1081 | Stickers to Spell Word |  | Hard  |
 | 1082 | Employee Importance | [Python](./src/1082/solution.py) | Easy  |
 | 1083 | Maximum Sum of 3 Non-Overlapping Subarrays |  | Hard  |
 | 1084 | Knight Probability in Chessboard |  | Medium  |
 | 1085 | Longest Univalue Path | [JavaScript](./src/1085/solution.js) | Easy  |
-| 1086 | Repeated String Match |  | Easy  |
+| 1086 | Repeated String Match | [TypeScript](./src/1086/solution.ts) | Easy  |
 | 1087 | Redundant Connection II |  | Hard  |
 | 1088 | Redundant Connection |  | Medium  |
 | 1089 | Valid Parenthesis String | [JavaScript](./src/1089/solution.js) | Medium  |
@@ -1065,7 +1065,7 @@
 | 1101 | Maximum Width of Binary Tree | [JavaScript](./src/1101/solution.js) | Medium  |
 | 1102 | Image Smoother | [TypeScript](./src/1102/solution.ts) | Easy  |
 | 1103 | Split Array into Consecutive Subsequences |  | Medium  |
-| 1104 | Judge Route Circle |  | Easy  |
+| 1104 | Judge Route Circle | [TypeScript](./src/1104/solution.ts) | Easy  |
 | 1105 | Print Binary Tree | [JavaScript](./src/1105/solution.js) | Medium  |
 | 1106 | Maximum Binary Tree | [JavaScript](./src/1106/solution.js) | Easy  |
 | 1109 | Dota2 Senate |  | Medium  |
@@ -1671,7 +1671,7 @@
 | 1817 | Divide Chocolate |  | Hard  |
 | 1819 | Longest Semi Alternating Substring |  | Easy  |
 | 1820 | Find Letter | [TypeScript](./src/1820/solution.ts) | Easy  |
-| 1821 | Min Deletions To Obtain String in Right Format |  | Easy  |
+| 1821 | Min Deletions To Obtain String in Right Format | [TypeScript](./src/1821/solution.ts) | Easy  |
 | 1822 | Minimum Moves |  | Easy  |
 | 1823 | Longest Prefix of Array |  | Easy  |
 | 1824 | Most Frequent Substring |  | Medium  |
@@ -3179,7 +3179,7 @@
 | 3665 | Inorder Successor in BST II |  | Medium  |
 | 3666 | Campus Bikes II |  | Hard  |
 | 3667 | Encode Number | [TypeScript](./src/3667/solution.ts) | Medium  |
-| 3668 | Bracket Expansion |  | Medium  |
+| 3668 | Bracket Expansion | [TypeScript](./src/3668/solution.ts) | Medium  |
 | 3669 | Smallest Common Region |  | Medium  |
 | 3670 | The Earliest Moment When Everyone Become Friends |  | Medium  |
 | 3671 | Replace the Synonyms in the Sentence |  | Medium  |
@@ -3199,7 +3199,7 @@
 | 3685 | First Unique Integer |  | Medium  |
 | 3686 | Diameter of N-Ary Tree |  | Medium  |
 | 3687 | Check If an Array Is a Valid Sequence | [TypeScript](./src/3687/solution.ts) | Medium  |
-| 3688 | Strings Differ by One Character |  | Medium  |
+| 3688 | Strings Differ by One Character | [TypeScript](./src/3688/solution.ts) | Medium  |
 | 3689 | Put Boxes Into the Warehouse |  | Medium  |
 | 3690 | Clone Binary Tree II |  | Medium  |
 | 3691 | Dot Product of Two Sparse Vectors |  | Easy  |
@@ -3209,7 +3209,7 @@
 | 3695 | Nonnegative Subarray II |  | Medium  |
 | 3696 | Inverse Subarray |  | Easy  |
 | 3697 | Find Subscripts |  | Easy  |
-| 3698 | The Leftmost Smaller Number |  | Easy  |
+| 3698 | The Leftmost Smaller Number | [TypeScript](./src/3698/solution.ts) | Easy  |
 | 3699 | Clear the String |  | Medium  |
 | 3701 | Find Nearest Right Node in Binary Tree |  | Medium  |
 | 3702 | Maximum Sum Queries |  | Hard  |
@@ -3233,14 +3233,14 @@
 | 3720 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
 | 3721 | Maximum Number of Study Groups |  | Medium  |
 | 3722 | Calculate the Distance Between Two Nodes in a Binary Tree | [TypeScript](./src/3722/solution.ts) | Medium  |
-| 3723 | Remove Duplicates from Unsorted List II |  | Medium  |
+| 3723 | Remove Duplicates from Unsorted List II | [TypeScript](./src/3723/solution.ts) | Medium  |
 | 3724 | Distinct Numbers in Each Subarray | [TypeScript](./src/3724/solution.ts) | Medium  |
 | 3725 | Calculate the Depth of BST Based on the Order of Insertions |  | Medium  |
 | 3726 | Rotting Oranges |  | Medium  |
 | 3727 | Shortest Path in the Maze |  | Medium  |
 | 3728 | Longest Word With All Prefixed |  | Medium  |
 | 3729 | Implement Trie II |  | Medium  |
-| 3730 | Product of Two Run-Length Encoded Arrays |  | Medium  |
+| 3730 | Product of Two Run-Length Encoded Arrays | [TypeScript](./src/3730/solution.ts) | Medium  |
 | 3731 | Minimize Product Sum of Two Arrays | [TypeScript](./src/3731/solution.ts) | Medium  |
 | 3732 | Minimum Path Cost in a Maze |  | Medium  |
 | 3733 | Count Pairs in Two Arrays |  | Medium  |
