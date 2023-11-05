@@ -1689,7 +1689,7 @@
 | 1844 | subarray sum equals to k II |  | Medium  |
 | 1846 | Reaching Point II |  | Medium  |
 | 1848 | Word Search III |  | Hard  |
-| 1849 | Grumpy Bookstore Owner |  | Medium  |
+| 1849 | Grumpy Bookstore Owner | [TypeScript](./src/1849/solution.ts) | Medium  |
 | 1850 | Pick Apples |  | Medium  |
 | 1851 | Buy Passes | [TypeScript](./src/1851/solution.ts) | Medium  |
 | 1852 | Final Discounted Price | [TypeScript](./src/1852/solution.ts) | Medium  |
@@ -3141,7 +3141,7 @@
 | 3627 | Find All The Lonely Nodes | [TypeScript](./src/3627/solution.ts) | Easy  |
 | 3628 | Highest Five Subject Average | [TypeScript](./src/3628/solution.ts) | Easy  |
 | 3629 | Intersection of Three Sorted Arrays |  | Easy  |
-| 3630 | Two Sum Less Than Target |  | Easy  |
+| 3630 | Two Sum Less Than Target | [TypeScript](./src/3630/solution.ts) | Easy  |
 | 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
 | 3632 | Delete n Nodes After m Nodes of a Linked List | [TypeScript](./src/3632/solution.ts) | Easy  |
 | 3633 | Missing Number In Arithmetic Progression | [TypeScript](./src/3633/solution.ts) | Easy  |
@@ -3217,7 +3217,7 @@
 | 3704 | Count Good Triplets in Array |  | Hard  |
 | 3705 | Minimum Moves to Make Array Complementary |  | Medium  |
 | 3706 | Number of Pairs That Satisfy the Condition |  | Hard  |
-| 3707 | Corporate Flight Bookings |  | Medium  |
+| 3707 | Corporate Flight Bookings | [TypeScript](./src/3707/solution.ts) | Medium  |
 | 3708 | Minimum Number of Increments on Subarrays to Form a Target Array |  | Hard  |
 | 3709 | Minimum Number of Visited Lattices in a Matrix |  | Hard  |
 | 3710 | Design Most Recently Used Queue |  | Medium  |
@@ -3236,14 +3236,14 @@
 | 3723 | Remove Duplicates from Unsorted List II | [TypeScript](./src/3723/solution.ts) | Medium  |
 | 3724 | Distinct Numbers in Each Subarray | [TypeScript](./src/3724/solution.ts) | Medium  |
 | 3725 | Calculate the Depth of BST Based on the Order of Insertions |  | Medium  |
-| 3726 | Rotting Oranges |  | Medium  |
+| 3726 | Rotting Oranges | [TypeScript](./src/3726/solution.ts) | Medium  |
 | 3727 | Shortest Path in the Maze |  | Medium  |
 | 3728 | Longest Word With All Prefixed |  | Medium  |
 | 3729 | Implement Trie II |  | Medium  |
 | 3730 | Product of Two Run-Length Encoded Arrays | [TypeScript](./src/3730/solution.ts) | Medium  |
 | 3731 | Minimize Product Sum of Two Arrays | [TypeScript](./src/3731/solution.ts) | Medium  |
 | 3732 | Minimum Path Cost in a Maze |  | Medium  |
-| 3733 | Count Pairs in Two Arrays |  | Medium  |
+| 3733 | Count Pairs in Two Arrays | [TypeScript](./src/3733/solution.ts) | Medium  |
 | 3734 | Cutting Ribbons |  | Medium  |
 | 3735 | Bash Game II |  | Medium  |
 | 3736 | Kth Smallest Subarray Sum |  | Medium  |
