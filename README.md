@@ -2708,16 +2708,16 @@
 | 3061 | Basic structure of HTML | [HTML](./src/3061/solution.html) | Naive  |
 | 3062 | Print Hello World! | [PHP](./src/3062/solution.php) | Naive  |
 | 3063 | HTML Page Title Tag | [HTML](./src/3063/solution.html) | Naive  |
-| 3064 | Data Portfolio |  | Naive  |
+| 3064 | Data Portfolio | [PHP](./src/3064/solution.php) | Naive  |
 | 3065 | Basic syntax of HTML | [HTML](./src/3065/solution.html) | Naive  |
-| 3067 | Easy Calculator |  | Naive  |
-| 3068 | Exchange variables |  | Naive  |
+| 3067 | Easy Calculator | [PHP](./src/3067/solution.php) | Naive  |
+| 3068 | Exchange variables | [PHP](./src/3068/solution.php) | Naive  |
 | 3069 | Custom text content tags span | [HTML](./src/3069/solution.html) | Naive  |
-| 3070 | Progressive data |  | Naive  |
+| 3070 | Progressive data | [PHP](./src/3070/solution.php) | Naive  |
 | 3071 | Image tags img | [HTML](./src/3071/solution.html) | Naive  |
 | 3072 | Horizontal line tag hr | [HTML](./src/3072/solution.html) | Naive  |
 | 3073 | Hello world! |  | Naive  |
-| 3074 | Parity judgment |  | Naive  |
+| 3074 | Parity judgment | [PHP](./src/3074/solution.php) | Naive  |
 | 3075 | Determining leap years (PHP version) |  | Naive  |
 | 3077 | Paragraph tag p | [HTML](./src/3077/solution.html) | Naive  |
 | 3078 | Write route and view |  | Naive  |
