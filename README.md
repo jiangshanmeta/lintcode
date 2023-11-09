@@ -2718,7 +2718,7 @@
 | 3072 | Horizontal line tag hr | [HTML](./src/3072/solution.html) | Naive  |
 | 3073 | Hello world! |  | Naive  |
 | 3074 | Parity judgment | [PHP](./src/3074/solution.php) | Naive  |
-| 3075 | Determining leap years (PHP version) |  | Naive  |
+| 3075 | Determining leap years (PHP version) | [PHP](./src/3075/solution.php) | Naive  |
 | 3077 | Paragraph tag p | [HTML](./src/3077/solution.html) | Naive  |
 | 3078 | Write route and view |  | Naive  |
 | 3081 | Standard input and output statements |  | Naive  |
@@ -2726,7 +2726,7 @@
 | 3083 | Custom Tag div | [HTML](./src/3083/solution.html) | Naive  |
 | 3084 | Loop statements |  | Naive  |
 | 3085 | Introduction to Functions |  | Naive  |
-| 3086 | Month days judgment |  | Naive  |
+| 3086 | Month days judgment | [PHP](./src/3086/solution.php) | Naive  |
 | 3087 | Frame tag iframe | [HTML](./src/3087/solution.html) | Naive  |
 | 3088 | Score Leveling |  | Naive  |
 | 3089 | Variable definition exercise |  | Naive  |
@@ -2751,7 +2751,7 @@
 | 3108 | Movie Rating |  | Easy  |
 | 3109 | Customize background management |  | Naive  |
 | 3110 | String Splicings | [PHP](./src/3110/solution.php) | Naive  |
-| 3111 | String case conversion |  | Easy  |
+| 3111 | String case conversion | [PHP](./src/3111/solution.php) | Easy  |
 | 3112 | Printable Ninety-Nine Multiplication Table |  | Easy  |
 | 3113 | HTML Character Entities | [HTML](./src/3113/solution.html) | Naive  |
 | 3114 | Word Searchs |  | Naive  |
@@ -2767,7 +2767,7 @@
 | 3125 | Repeat Strings |  | Naive  |
 | 3126 | Guess the number |  | Easy  |
 | 3127 | How many times is 2 squared? |  | Easy  |
-| 3132 | Summation |  | Naive  |
+| 3132 | Summation | [PHP](./src/3132/solution.php) | Naive  |
 | 3133 | Remove empty folders |  | Naive  |
 | 3134 | Is it a prime number? |  | Easy  |
 | 3135 | CalculatorⅠ |  | Easy  |
@@ -2780,7 +2780,7 @@
 | 3142 | The number of different values in the dictionary |  | Naive  |
 | 3143 | Dictionary size after merging |  | Naive  |
 | 3144 | Replace list elements according to dictionary |  | Naive  |
-| 3145 | Creating arrays |  | Naive  |
+| 3145 | Creating arrays | [PHP](./src/3145/solution.php) | Naive  |
 | 3146 | First and last numbers |  | Naive  |
 | 3147 | Ordered arrays |  | Naive  |
 | 3148 | Using lambda function to construct quadratic polynomial with one variable |  | Naive  |
