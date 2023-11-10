@@ -281,7 +281,7 @@
 | 265 | Maximum Non-Negative Subarray | [TypeScript](./src/0265/solution.ts) | Easy  |
 | 266 | Expect Distance |  | Medium  |
 | 267 | minimum rest days |  | Medium  |
-| 268 | Parentheses Score |  | Medium  |
+| 268 | Parentheses Score | [TypeScript](./src/0268/solution.ts) | Medium  |
 | 269 | two colors' tower |  | Hard  |
 | 270 | Letter Combinations of a Phone Number II |  | Medium  |
 | 271 | prefix notation to postfix notation |  | Medium  |
@@ -316,7 +316,7 @@
 | 301 | Lucky Number II |  | Hard  |
 | 302 | Digital Pairing |  | Easy  |
 | 303 | Beautiful Number |  | Medium  |
-| 304 | Maximum product |  | Medium  |
+| 304 | Maximum product | [TypeScript](./src/0304/solution.ts) | Medium  |
 | 305 | longest increasing path in a matrix |  | Hard  |
 | 306 | Product List | [TypeScript](./src/0306/solution.ts) | Easy  |
 | 307 | Transform String |  | Medium  |
@@ -327,8 +327,8 @@
 | 312 | Bull Cards |  | Medium  |
 | 313 | Minimum Insertion |  | Hard  |
 | 314 | The Lost Record |  | Medium  |
-| 315 | Reformat String |  | Medium  |
-| 316 | Combination set |  | Medium  |
+| 315 | Reformat String | [TypeScript](./src/0315/solution.ts) | Medium  |
+| 316 | Combination set | [TypeScript](./src/0316/solution.ts) | Medium  |
 | 317 | Minimum Parentheses Matching |  | Medium  |
 | 318 | Character Grid | [TypeScript](./src/0318/solution.ts) | Easy  |
 | 319 | Square Queue |  | Hard  |
@@ -1744,7 +1744,7 @@
 | 1908 | Boolean expression evaluation |  | Hard  |
 | 1909 | Order allocation |  | Medium  |
 | 1910 | Most numbers | [TypeScript](./src/1910/solution.ts) | Naive  |
-| 1911 | As Far from Land as Possible |  | Medium  |
+| 1911 | As Far from Land as Possible | [TypeScript](./src/1911/solution.ts) | Medium  |
 | 1913 | Query Student Enrollment Information |  | Naive  |
 | 1914 | Smart Sale | [JavaScript](./src/1914/solution.js) | Medium  |
 | 1915 | Lifting Weights |  | Hard  |
