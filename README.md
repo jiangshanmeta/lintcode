@@ -2728,16 +2728,16 @@
 | 3085 | Introduction to Functions |  | Naive  |
 | 3086 | Month days judgment | [PHP](./src/3086/solution.php) | Naive  |
 | 3087 | Frame tag iframe | [HTML](./src/3087/solution.html) | Naive  |
-| 3088 | Score Leveling |  | Naive  |
+| 3088 | Score Leveling | [PHP](./src/3088/solution.php) | Naive  |
 | 3089 | Variable definition exercise |  | Naive  |
 | 3090 | Common Structured Element Tags | [HTML](./src/3090/solution.html) | Easy  |
-| 3091 | Maximal Convention (php version) |  | Naive  |
-| 3092 | Summation (PHP version) |  | Naive  |
-| 3093 | Han Xin Points (PHP version) |  | Naive  |
+| 3091 | Maximal Convention (php version) | [PHP](./src/3091/solution.php) | Naive  |
+| 3092 | Summation (PHP version) | [PHP](./src/3092/solution.php) | Naive  |
+| 3093 | Han Xin Points (PHP version) | [PHP](./src/3093/solution.php) | Naive  |
 | 3094 | Calculate the area of a circle |  | Easy  |
 | 3095 | Is it a letter? |  | Easy  |
 | 3096 | Is it a leap year? |  | Easy  |
-| 3097 | The sum of numbers that are not divisible by 7 |  | Naive  |
+| 3097 | The sum of numbers that are not divisible by 7 | [PHP](./src/3097/solution.php) | Naive  |
 | 3098 | Button tag button | [HTML](./src/3098/solution.html) | Naive  |
 | 3099 | Implement Polls application Model |  | Easy  |
 | 3100 | Text field tag textarea | [HTML](./src/3100/solution.html) | Naive  |
