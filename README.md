@@ -52,7 +52,7 @@
 | 33 | N-Queens |  | Medium  |
 | 34 | N-Queens II |  | Medium  |
 | 35 | Reverse Linked List | [JavaScript](./src/0035/solution.js) [TypeScript](./src/0035/solution.ts) | Easy  |
-| 36 | Reverse Linked List II | [JavaScript](./src/0036/solution.js) | Medium  |
+| 36 | Reverse Linked List II | [JavaScript](./src/0036/solution.js) [TypeScript](./src/0036/solution.ts) | Medium  |
 | 37 | Reverse 3-digit Integer | [JavaScript](./src/0037/solution.js) | Naive  |
 | 38 | Search a 2D Matrix II | [JavaScript](./src/0038/solution.js) | Medium  |
 | 39 | Recover Rotated Sorted Array | [JavaScript](./src/0039/solution.js) | Easy  |
@@ -289,7 +289,7 @@
 | 273 | Test Strategy |  | Medium  |
 | 274 | Make binary tree average |  | Super  |
 | 275 | Moving Shed |  | Medium  |
-| 276 | another zuma |  | Medium  |
+| 276 | another zuma | [TypeScript](./src/0276/solution.ts) | Medium  |
 | 277 | Word Spacing |  | Easy  |
 | 278 | Paint Fill | [JavaScript](./src/0278/solution.js) | Medium  |
 | 279 | Number of Ways to Represent N Cents |  | Medium  |
@@ -571,7 +571,7 @@
 | 572 | Music Pairs | [TypeScript](./src/0572/solution.ts) | Easy  |
 | 573 | Build Post Office II |  | Hard  |
 | 574 | Build Post Office |  | Medium  |
-| 575 | Decode String |  | Medium  |
+| 575 | Decode String | [TypeScript](./src/0575/solution.ts) | Medium  |
 | 576 | Split Array |  | Medium  |
 | 577 | Merge K Sorted Interval Lists |  | Medium  |
 | 578 | Lowest Common Ancestor III | [Python](./src/0578/solution.py) | Medium  |
@@ -632,7 +632,7 @@
 | 638 | Isomorphic Strings | [JavaScript](./src/0638/solution.js) | Easy  |
 | 639 | Word Abbreviation |  | Hard  |
 | 640 | One Edit Distance |  | Medium  |
-| 641 | Missing Ranges |  | Medium  |
+| 641 | Missing Ranges | [TypeScript](./src/0641/solution.ts) | Medium  |
 | 642 | Moving Average from Data Stream | [Python](./src/0642/solution.py) | Easy  |
 | 643 | Longest Absolute File Path |  | Medium  |
 | 644 | Strobogrammatic Number | [JavaScript](./src/0644/solution.js) | Easy  |
@@ -687,7 +687,7 @@
 | 702 | Concatenated String with Uncommon Characters of Two Strings | [JavaScript](./src/0702/solution.js) | Easy  |
 | 703 | Folding Array |  | Hard  |
 | 704 | Bulb Switcher II |  | Medium  |
-| 706 | Binary Watch |  | Medium  |
+| 706 | Binary Watch | [TypeScript](./src/0706/solution.ts) | Medium  |
 | 707 | Optimal Account Balancing |  | Super  |
 | 708 | Elevator system - OO Design |  | Hard  |
 | 709 | Restaurant OO Design |  | Hard  |
