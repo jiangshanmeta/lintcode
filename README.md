@@ -749,7 +749,7 @@
 | 776 | Strobogrammatic Number II |  | Medium  |
 | 777 | Valid Perfect Square | [JavaScript](./src/0777/solution.js) | Easy  |
 | 778 | Pacific Atlantic Water Flow | [Python](./src/0778/solution.py) | Medium  |
-| 779 | Generalized Abbreviation |  | Medium  |
+| 779 | Generalized Abbreviation | [TypeScript](./src/0779/solution.ts) | Medium  |
 | 780 | Remove Invalid Parentheses |  | Hard  |
 | 782 | AND and OR | [TypeScript](./src/0782/solution.ts) | Medium  |
 | 783 | Minimum Risk Path |  | Hard  |
@@ -830,7 +830,7 @@
 | 859 | Max Stack | [Python](./src/0859/solution.py) | Hard  |
 | 860 | Number of Distinct Islands |  | Medium  |
 | 861 | K Empty Slots |  | Hard  |
-| 862 | Next Closest Time |  | Medium  |
+| 862 | Next Closest Time | [TypeScript](./src/0862/solution.ts) | Medium  |
 | 863 | Binary Tree Path Sum IV |  | Medium  |
 | 864 | Equal Tree Partition | [JavaScript](./src/0864/solution.js) | Medium  |
 | 865 | Remove 9 |  | Hard  |
@@ -849,7 +849,7 @@
 | 879 | Output Contest Matches |  | Medium  |
 | 880 | Construct Binary Tree from String | [JavaScript](./src/0880/solution.js) | Medium  |
 | 881 | Lonely Pixel II |  | Medium  |
-| 882 | Lonely Pixel |  | Medium  |
+| 882 | Lonely Pixel | [TypeScript](./src/0882/solution.ts) | Medium  |
 | 883 | Max Consecutive Ones II | [JavaScript](./src/0883/solution.js) | Medium  |
 | 884 | Find Permutation |  | Medium  |
 | 885 | Encode String with Shortest Length |  | Hard  |
@@ -980,7 +980,7 @@
 | 1014 | Bricks Falling When Hit |  | Hard  |
 | 1015 | Find Eventual Safe States |  | Medium  |
 | 1016 | Minimum Swaps To Make Sequences Increasing |  | Medium  |
-| 1017 | Similar RGB Color |  | Easy  |
+| 1017 | Similar RGB Color | [JavaScript](./src/1017/solution.js) | Easy  |
 | 1018 | Champagne Tower | [JavaScript](./src/1018/solution.js) | Medium  |
 | 1019 | Smallest Rotation with Highest Score |  | Hard  |
 | 1020 | All Paths From Source to Target |  | Medium  |
@@ -1087,7 +1087,7 @@
 | 1131 | The Function in Permutations |  | Medium  |
 | 1132 | Valid Triangle Number |  | Medium  |
 | 1133 | Group Buy | [TypeScript](./src/1133/solution.ts) | Easy  |
-| 1134 | Find Duplicate File in System |  | Medium  |
+| 1134 | Find Duplicate File in System | [JavaScript](./src/1134/solution.js) | Medium  |
 | 1135 | Feature extraction |  | Easy  |
 | 1136 | High Click Induction Area |  | Medium  |
 | 1137 | Construct String from Binary Tree | [JavaScript](./src/1137/solution.js) | Easy  |
