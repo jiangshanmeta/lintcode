@@ -2754,17 +2754,17 @@
 | 3111 | String case conversion | [PHP](./src/3111/solution.php) | Easy  |
 | 3112 | Printable Ninety-Nine Multiplication Table |  | Easy  |
 | 3113 | HTML Character Entities | [HTML](./src/3113/solution.html) | Naive  |
-| 3114 | Word Searchs |  | Naive  |
-| 3115 | Wrong echo string |  | Naive  |
-| 3116 | Invalid IP address |  | Naive  |
+| 3114 | Word Searchs | [PHP](./src/3114/solution.php) | Naive  |
+| 3115 | Wrong echo string | [PHP](./src/3115/solution.php) | Naive  |
+| 3116 | Invalid IP address | [PHP](./src/3116/solution.php) | Naive  |
 | 3118 | HTML colors | [HTML](./src/3118/solution.html) | Naive  |
 | 3119 | HTML & CSS | [HTML](./src/3119/solution.html) | Naive  |
 | 3120 | Thread Control Logic |  | Medium  |
 | 3121 | Adaptive Access between Company A and Company B |  | Easy  |
-| 3122 | String escaping |  | Naive  |
-| 3123 | Normative words |  | Naive  |
+| 3122 | String escaping | [PHP](./src/3122/solution.php) | Naive  |
+| 3123 | Normative words | [PHP](./src/3123/solution.php) | Naive  |
 | 3124 | Knock Seven |  | Easy  |
-| 3125 | Repeat Strings |  | Naive  |
+| 3125 | Repeat Strings | [PHP](./src/3125/solution.php) | Naive  |
 | 3126 | Guess the number |  | Easy  |
 | 3127 | How many times is 2 squared? |  | Easy  |
 | 3132 | Summation | [PHP](./src/3132/solution.php) | Naive  |
