@@ -2781,20 +2781,20 @@
 | 3143 | Dictionary size after merging |  | Naive  |
 | 3144 | Replace list elements according to dictionary |  | Naive  |
 | 3145 | Creating arrays | [PHP](./src/3145/solution.php) | Naive  |
-| 3146 | First and last numbers |  | Naive  |
-| 3147 | Ordered arrays |  | Naive  |
+| 3146 | First and last numbers | [PHP](./src/3146/solution.php) | Naive  |
+| 3147 | Ordered arrays | [PHP](./src/3147/solution.php) | Naive  |
 | 3148 | Using lambda function to construct quadratic polynomial with one variable |  | Naive  |
 | 3149 | Add the two numbers together |  | Naive  |
-| 3150 | Array length |  | Naive  |
-| 3151 | Most frequently occurring words |  | Naive  |
-| 3152 | String conversion |  | Naive  |
+| 3150 | Array length | [PHP](./src/3150/solution.php) | Naive  |
+| 3151 | Most frequently occurring words | [PHP](./src/3151/solution.php) | Naive  |
+| 3152 | String conversion | [PHP](./src/3152/solution.php) | Naive  |
 | 3153 | Deck Generation |  | Medium  |
 | 3154 | Discounted Travel with Transit Card |  | Naive  |
 | 3155 | package file |  | Naive  |
 | 3156 | Area of a circle (macro definition) |  | Naive  |
 | 3157 | Unzip the zip file |  | Naive  |
 | 3158 | Using lambda function to get sum of list |  | Easy  |
-| 3159 | True or False Number |  | Naive  |
+| 3159 | True or False Number | [PHP](./src/3159/solution.php) | Naive  |
 | 3160 | Middle Numbers |  | Naive  |
 | 3161 | Summation of integer arrays |  | Naive  |
 | 3162 | Sort members by age |  | Naive  |
