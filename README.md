@@ -2795,10 +2795,10 @@
 | 3157 | Unzip the zip file |  | Naive  |
 | 3158 | Using lambda function to get sum of list |  | Easy  |
 | 3159 | True or False Number | [PHP](./src/3159/solution.php) | Naive  |
-| 3160 | Middle Numbers |  | Naive  |
-| 3161 | Summation of integer arrays |  | Naive  |
+| 3160 | Middle Numbers | [PHP](./src/3160/solution.php) | Naive  |
+| 3161 | Summation of integer arrays | [PHP](./src/3161/solution.php) | Naive  |
 | 3162 | Sort members by age |  | Naive  |
-| 3163 | The maximum value of the array |  | Naive  |
+| 3163 | The maximum value of the array | [PHP](./src/3163/solution.php) | Naive  |
 | 3164 | Rename the imported file with the same name |  | Naive  |
 | 3165 | Pointer exercise |  | Naive  |
 | 3166 | Sum the absolute values of two numbers (Python version) |  | Naive  |
@@ -2812,8 +2812,8 @@
 | 3174 | The number of elements whose value is a multiple of its index (Python version) |  | Naive  |
 | 3175 | Number of tuples that form a triangle |  | Naive  |
 | 3176 | Print the noon time point of the corresponding date |  | Naive  |
-| 3177 | Definition of functions |  | Naive  |
-| 3178 | Exchange of numbers |  | Naive  |
+| 3177 | Definition of functions | [PHP](./src/3177/solution.php) | Naive  |
+| 3178 | Exchange of numbers | [PHP](./src/3178/solution.php) | Naive  |
 | 3179 | Parameter Printing |  | Naive  |
 | 3180 | String flipping |  | Naive  |
 | 3181 | Anonymous functions |  | Naive  |
