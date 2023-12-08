@@ -94,7 +94,7 @@
 | 75 | Find Peak Element | [Python](./src/0075/solution.py) | Medium  |
 | 76 | Longest Increasing Subsequence | [JavaScript](./src/0076/solution.js) | Medium  |
 | 77 | Longest Common Subsequence | [JavaScript](./src/0077/solution.js) | Medium  |
-| 78 | Longest Common Prefix |  | Medium  |
+| 78 | Longest Common Prefix | [TypeScript](./src/0078/solution.ts) | Medium  |
 | 79 | Longest Common Substring | [JavaScript](./src/0079/solution.js) | Medium  |
 | 80 | Median |  | Easy  |
 | 81 | Find Median from Data Stream |  | Hard  |
@@ -110,7 +110,7 @@
 | 91 | Minimum Adjustment Cost |  | Medium  |
 | 92 | Backpack | [JavaScript](./src/0092/solution.js) | Medium  |
 | 93 | Balanced Binary Tree | [JavaScript](./src/0093/solution.js) [TypeScript](./src/0093/solution.ts) | Easy  |
-| 94 | Binary Tree Maximum Path Sum | [JavaScript](./src/0094/solution.js) | Medium  |
+| 94 | Binary Tree Maximum Path Sum | [JavaScript](./src/0094/solution.js) [TypeScript](./src/0094/solution.ts) | Medium  |
 | 95 | Validate Binary Search Tree | [JavaScript](./src/0095/solution.js) | Medium  |
 | 96 | Partition List | [JavaScript](./src/0096/solution.js) [TypeScript](./src/0096/solution.ts) | Easy  |
 | 97 | Maximum Depth of Binary Tree | [JavaScript](./src/0097/solution.js) [TypeScript](./src/0097/solution.ts) | Easy  |
@@ -139,7 +139,7 @@
 | 120 | Word Ladder |  | Hard  |
 | 121 | Word Ladder II |  | Hard  |
 | 122 | Largest Rectangle in Histogram |  | Hard  |
-| 123 | Word Search |  | Medium  |
+| 123 | Word Search | [TypeScript](./src/0123/solution.ts) | Medium  |
 | 124 | Longest Consecutive Sequence |  | Medium  |
 | 125 | Backpack II | [JavaScript](./src/0125/solution.js) | Medium  |
 | 126 | Max Tree |  | Hard  |
@@ -194,11 +194,11 @@
 | 176 | Route Between Two Nodes in Graph |  | Medium  |
 | 177 | Convert Sorted Array to Binary Search Tree With  Minimal Height. | [Python](./src/0177/solution.py) | Easy  |
 | 178 | Graph Valid Tree |  | Medium  |
-| 179 | Update Bits |  | Medium  |
+| 179 | Update Bits | [TypeScript](./src/0179/solution.ts) | Medium  |
 | 180 | Binary Representation |  | Hard  |
 | 181 | Flip Bits | [JavaScript](./src/0181/solution.js) | Easy  |
 | 182 | Delete Digits |  | Medium  |
-| 183 | Wood Cut |  | Hard  |
+| 183 | Wood Cut | [TypeScript](./src/0183/solution.ts) | Hard  |
 | 184 | Largest Number |  | Medium  |
 | 185 | Matrix Zigzag Traversal | [JavaScript](./src/0185/solution.js) | Easy  |
 | 186 | Max Points on a Line |  | Medium  |
