@@ -272,7 +272,7 @@
 | 256 | The Maximum Order |  | Hard  |
 | 257 | Longest String Chain |  | Medium  |
 | 258 | Map Jump |  | Hard  |
-| 259 | Find the largest Divisor |  | Medium  |
+| 259 | Find the largest Divisor | [TypeScript](./src/0259/solution.ts) | Medium  |
 | 260 | Same Diagonal Elements | [TypeScript](./src/0260/solution.ts) | Easy  |
 | 261 | Maximum Connected Area |  | Medium  |
 | 262 | heir tree |  | Medium  |
@@ -297,7 +297,7 @@
 | 281 | Paint the Ceiling |  | Medium  |
 | 282 | Decrypt the String | [TypeScript](./src/0282/solution.ts) | Easy  |
 | 283 | Max of 3 Numbers | [JavaScript](./src/0283/solution.js) | Naive  |
-| 285 | Tall Building |  | Medium  |
+| 285 | Tall Building | [TypeScript](./src/0285/solution.ts) | Medium  |
 | 286 | Inversions |  | Hard  |
 | 287 | The Competition of View |  | Medium  |
 | 288 | Container Design | [Python](./src/0288/solution.py) | Easy  |
@@ -404,7 +404,7 @@
 | 396 | Coins in a Line III |  | Hard  |
 | 397 | Longest Continuous Increasing Subsequence | [JavaScript](./src/0397/solution.js) | Easy  |
 | 398 | Longest Ascent Path |  | Hard  |
-| 400 | Maximum Gap |  | Medium  |
+| 400 | Maximum Gap | [TypeScript](./src/0400/solution.ts) | Medium  |
 | 401 | Kth Smallest Number in Sorted Matrix | [JavaScript](./src/0401/solution.js) | Medium  |
 | 402 | Continuous Subarray Sum | [JavaScript](./src/0402/solution.js) | Medium  |
 | 403 | Continuous Subarray Sum II |  | Medium  |
@@ -572,7 +572,7 @@
 | 573 | Build Post Office II |  | Hard  |
 | 574 | Build Post Office |  | Medium  |
 | 575 | Decode String | [TypeScript](./src/0575/solution.ts) | Medium  |
-| 576 | Split Array |  | Medium  |
+| 576 | Split Array | [TypeScript](./src/0576/solution.ts) | Medium  |
 | 577 | Merge K Sorted Interval Lists |  | Medium  |
 | 578 | Lowest Common Ancestor III | [Python](./src/0578/solution.py) | Medium  |
 | 581 | Longest Repeating Subsequence |  | Medium  |
@@ -600,7 +600,7 @@
 | 606 | Kth Largest Element II |  | Medium  |
 | 607 | Two Sum III - Data structure design | [Python](./src/0607/solution.py) | Easy  |
 | 608 | Two Sum II - Input array is sorted | [JavaScript](./src/0608/solution.js) | Medium  |
-| 609 | Two Sum - Less than or equal to target |  | Medium  |
+| 609 | Two Sum - Less than or equal to target | [TypeScript](./src/0609/solution.ts) | Medium  |
 | 610 | Two Sum - Difference equals to target |  | Medium  |
 | 611 | Knight Shortest Path |  | Medium  |
 | 612 | K Closest Points |  | Medium  |
