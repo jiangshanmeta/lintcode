@@ -700,7 +700,7 @@
 | 720 | Rearrange a String With Integers | [JavaScript](./src/0720/solution.js) | Easy  |
 | 721 | Next Sparse Number |  | Hard  |
 | 722 | Maximum Subarray VI |  | Super  |
-| 723 | Rotate Bits - Left |  | Medium  |
+| 723 | Rotate Bits - Left | [TypeScript](./src/0723/solution.ts) | Medium  |
 | 724 | Minimum Partition |  | Medium  |
 | 725 | Boolean Parenthesization |  | Hard  |
 | 726 | Check Full Binary Tree | [JavaScript](./src/0726/solution.js) | Medium  |
@@ -729,7 +729,7 @@
 | 751 | John's business |  | Medium  |
 | 752 | Rogue Knight Sven |  | Medium  |
 | 756 | Multiply Two Numbers | [JavaScript](./src/0756/solution.js) | Easy  |
-| 757 | Shortest Unordered Array |  | Easy  |
+| 757 | Shortest Unordered Array | [TypeScript](./src/0757/solution.ts) | Easy  |
 | 759 | Time Angle | [JavaScript](./src/0759/solution.js) | Easy  |
 | 760 | Binary Tree Right Side View | [JavaScript](./src/0760/solution.js) | Medium  |
 | 761 | Smallest Subset | [JavaScript](./src/0761/solution.js) | Medium  |
@@ -746,7 +746,7 @@
 | 773 | Valid Anagrams | [JavaScript](./src/0773/solution.js) | Easy  |
 | 774 | Repeated DNA | [JavaScript](./src/0774/solution.js) | Medium  |
 | 775 | Palindrome Pairs |  | Hard  |
-| 776 | Strobogrammatic Number II |  | Medium  |
+| 776 | Strobogrammatic Number II | [TypeScript](./src/0776/solution.ts) | Medium  |
 | 777 | Valid Perfect Square | [JavaScript](./src/0777/solution.js) | Easy  |
 | 778 | Pacific Atlantic Water Flow | [Python](./src/0778/solution.py) | Medium  |
 | 779 | Generalized Abbreviation | [TypeScript](./src/0779/solution.ts) | Medium  |
@@ -803,7 +803,7 @@
 | 832 | Count Negative Number |  | Medium  |
 | 833 | Process Sequence |  | Medium  |
 | 834 | Remove Duplicate Letters | [JavaScript](./src/0834/solution.js) | Medium  |
-| 835 | Hamming Distance | [JavaScript](./src/0835/solution.js) | Easy  |
+| 835 | Hamming Distance | [JavaScript](./src/0835/solution.js) [TypeScript](./src/0835/solution.ts) | Easy  |
 | 836 | Partition to K Equal Sum Subsets |  | Hard  |
 | 837 | Palindromic Substrings | [JavaScript](./src/0837/solution.js) | Medium  |
 | 838 | Subarray Sum Equals K | [JavaScript](./src/0838/solution.js) | Easy  |
@@ -831,7 +831,7 @@
 | 860 | Number of Distinct Islands |  | Medium  |
 | 861 | K Empty Slots |  | Hard  |
 | 862 | Next Closest Time | [TypeScript](./src/0862/solution.ts) | Medium  |
-| 863 | Binary Tree Path Sum IV |  | Medium  |
+| 863 | Binary Tree Path Sum IV | [TypeScript](./src/0863/solution.ts) | Medium  |
 | 864 | Equal Tree Partition | [JavaScript](./src/0864/solution.js) | Medium  |
 | 865 | Remove 9 |  | Hard  |
 | 866 | Coin Path |  | Hard  |
