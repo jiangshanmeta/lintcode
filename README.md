@@ -869,7 +869,7 @@
 | 900 | Closest Binary Search Tree Value | [JavaScript](./src/0900/solution.js) | Easy  |
 | 901 | Closest Binary Search Tree Value II |  | Hard  |
 | 902 | Kth Smallest Element in a BST | [JavaScript](./src/0902/solution.js) | Medium  |
-| 903 | Range Addition |  | Medium  |
+| 903 | Range Addition | [TypeScript](./src/0903/solution.ts) | Medium  |
 | 904 | Plus One Linked List | [JavaScript](./src/0904/solution.js) | Medium  |
 | 905 | Nested List Weight Sum II |  | Medium  |
 | 906 | Sort Transformed Array | [JavaScript](./src/0906/solution.js) | Medium  |
@@ -902,7 +902,7 @@
 | 934 | Unlock Problem |  | Medium  |
 | 935 | Cartesian Product |  | Medium  |
 | 936 | Capitalizes The First Letter | [JavaScript](./src/0936/solution.js) | Easy  |
-| 937 | How Many Problem Can I Accept |  | Medium  |
+| 937 | How Many Problem Can I Accept | [TypeScript](./src/0937/solution.ts) | Medium  |
 | 939 | Binary Tree Kth Floor Node |  | Medium  |
 | 940 | Maximum Absolute Value |  | Medium  |
 | 941 | Sliding Puzzle |  | Hard  |
@@ -942,7 +942,7 @@
 | 976 | 4Sum II | [JavaScript](./src/0976/solution.js) | Medium  |
 | 977 | Base 7 | [JavaScript](./src/0977/solution.js) | Easy  |
 | 978 | Basic Calculator |  | Medium  |
-| 979 | Additive Number |  | Medium  |
+| 979 | Additive Number | [TypeScript](./src/0979/solution.ts) | Medium  |
 | 980 | Basic Calculator II |  | Medium  |
 | 981 | Basic Calculator IV |  | Hard  |
 | 982 | Arithmetic Slices | [JavaScript](./src/0982/solution.js) | Medium  |
@@ -952,7 +952,7 @@
 | 986 | Battleships in a Board | [Python](./src/0986/solution.py) | Medium  |
 | 987 | Binary Number with Alternating Bits | [JavaScript](./src/0987/solution.js) | Easy  |
 | 988 | Arranging Coins | [JavaScript](./src/0988/solution.js) | Easy  |
-| 989 | Array Nesting |  | Medium  |
+| 989 | Array Nesting | [TypeScript](./src/0989/solution.ts) | Medium  |
 | 990 | Beautiful Arrangement |  | Medium  |
 | 991 | Bulb Switcher |  | Medium  |
 | 992 | Beautiful Arrangement II |  | Medium  |
@@ -991,7 +991,7 @@
 | 1025 | Custom Sort String |  | Medium  |
 | 1026 | Domino and Tromino Tiling |  | Medium  |
 | 1027 | Escape The Ghosts | [JavaScript](./src/1027/solution.js) | Medium  |
-| 1028 | Rotated Digits |  | Easy  |
+| 1028 | Rotated Digits | [TypeScript](./src/1028/solution.ts) | Easy  |
 | 1029 | Cheapest Flights Within K Stops |  | Medium  |
 | 1030 | K-th Smallest Prime Fraction |  | Hard  |
 | 1031 | Is Graph Bipartite? | [TypeScript](./src/1031/solution.ts) | Medium  |
