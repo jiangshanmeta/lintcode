@@ -96,7 +96,7 @@
 | 77 | Longest Common Subsequence | [JavaScript](./src/0077/solution.js) | Medium  |
 | 78 | Longest Common Prefix | [TypeScript](./src/0078/solution.ts) | Medium  |
 | 79 | Longest Common Substring | [JavaScript](./src/0079/solution.js) | Medium  |
-| 80 | Median |  | Easy  |
+| 80 | Median | [TypeScript](./src/0080/solution.ts) | Easy  |
 | 81 | Find Median from Data Stream |  | Hard  |
 | 82 | Single Number | [JavaScript](./src/0082/solution.js) | Easy  |
 | 83 | Single Number II | [JavaScript](./src/0083/solution.js) | Medium  |
@@ -208,7 +208,7 @@
 | 191 | Maximum Product Subarray | [JavaScript](./src/0191/solution.js) | Medium  |
 | 192 | Wildcard Matching |  | Hard  |
 | 193 | Longest Valid Parentheses | [JavaScript](./src/0193/solution.js) | Medium  |
-| 194 | Find Words |  | Medium  |
+| 194 | Find Words | [TypeScript](./src/0194/solution.ts) | Medium  |
 | 196 | Missing Number | [JavaScript](./src/0196/solution.js) | Easy  |
 | 197 | Permutation Index |  | Medium  |
 | 198 | Permutation Index II |  | Medium  |
@@ -301,7 +301,7 @@
 | 286 | Inversions |  | Hard  |
 | 287 | The Competition of View |  | Medium  |
 | 288 | Container Design | [Python](./src/0288/solution.py) | Easy  |
-| 289 | Container Design II |  | Easy  |
+| 289 | Container Design II | [Python](./src/0289/solution.py) | Easy  |
 | 290 | Sorted Arrangement |  | Hard  |
 | 291 | Second Diameter |  | Medium  |
 | 292 | Sort Anagrams Array |  | Easy  |
@@ -394,7 +394,7 @@
 | 386 | Longest Substring with At Most K Distinct Characters |  | Medium  |
 | 387 | The Smallest Difference | [JavaScript](./src/0387/solution.js) | Medium  |
 | 388 | Permutation Sequence |  | Medium  |
-| 389 | Valid Sudoku |  | Easy  |
+| 389 | Valid Sudoku | [TypeScript](./src/0389/solution.ts) | Easy  |
 | 390 | Find Peak Element II |  | Hard  |
 | 391 | Number of Airplanes in the Sky |  | Medium  |
 | 392 | House Robber | [JavaScript](./src/0392/solution.js) | Medium  |
@@ -413,7 +413,7 @@
 | 406 | Minimum Size Subarray Sum | [JavaScript](./src/0406/solution.js) | Medium  |
 | 407 | Plus One | [JavaScript](./src/0407/solution.js) | Easy  |
 | 408 | Add Binary | [JavaScript](./src/0408/solution.js) | Easy  |
-| 411 | Gray Code |  | Medium  |
+| 411 | Gray Code | [TypeScript](./src/0411/solution.ts) | Medium  |
 | 412 | Candy |  | Medium  |
 | 413 | Reverse Integer | [JavaScript](./src/0413/solution.js) | Easy  |
 | 414 | Divide Two Integers |  | Medium  |
