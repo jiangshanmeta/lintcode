@@ -47,7 +47,7 @@
 | 28 | Search a 2D Matrix | [JavaScript](./src/0028/solution.js) | Easy  |
 | 29 | Interleaving String |  | Hard  |
 | 30 | Insert Interval |  | Medium  |
-| 31 | Partition Array |  | Medium  |
+| 31 | Partition Array | [TypeScript](./src/0031/solution.ts) | Medium  |
 | 32 | Minimum Window Substring | [Python](./src/0032/solution.py) | Medium  |
 | 33 | N-Queens |  | Medium  |
 | 34 | N-Queens II |  | Medium  |
@@ -99,7 +99,7 @@
 | 80 | Median | [TypeScript](./src/0080/solution.ts) | Easy  |
 | 81 | Find Median from Data Stream |  | Hard  |
 | 82 | Single Number | [JavaScript](./src/0082/solution.js) | Easy  |
-| 83 | Single Number II | [JavaScript](./src/0083/solution.js) | Medium  |
+| 83 | Single Number II | [JavaScript](./src/0083/solution.js) [TypeScript](./src/0083/solution.ts) | Medium  |
 | 84 | Single Number III | [Python](./src/0084/solution.py) | Medium  |
 | 85 | Insert Node in a Binary Search Tree | [Python](./src/0085/solution.py) | Easy  |
 | 86 | Binary Search Tree Iterator | [Python](./src/0086/solution.py) | Hard  |
@@ -490,7 +490,7 @@
 | 489 | Convert Array List to Linked List |  | Easy  |
 | 490 | Set of Stacks |  | Easy  |
 | 491 | Palindrome Number | [JavaScript](./src/0491/solution.js) | Easy  |
-| 492 | Implement Queue by Linked List |  | Easy  |
+| 492 | Implement Queue by Linked List | [Python](./src/0492/solution.py) | Easy  |
 | 493 | Implement Queue by Linked List II |  | Easy  |
 | 494 | Implement Stack by Two Queues |  | Easy  |
 | 495 | Implement Stack | [Python](./src/0495/solution.py) | Easy  |
@@ -512,8 +512,8 @@
 | 511 | Swap Two Nodes in Linked List | [JavaScript](./src/0511/solution.js) | Medium  |
 | 512 | Decode Ways | [JavaScript](./src/0512/solution.js) | Medium  |
 | 513 | Perfect Squares | [JavaScript](./src/0513/solution.js) | Medium  |
-| 514 | Paint Fence |  | Easy  |
-| 515 | Paint House |  | Medium  |
+| 514 | Paint Fence | [TypeScript](./src/0514/solution.ts) | Easy  |
+| 515 | Paint House | [TypeScript](./src/0515/solution.ts) | Medium  |
 | 516 | Paint House II |  | Hard  |
 | 517 | Ugly Number | [JavaScript](./src/0517/solution.js) | Easy  |
 | 518 | Super Ugly Number | [JavaScript](./src/0518/solution.js) | Medium  |
