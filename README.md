@@ -356,7 +356,7 @@
 | 345 | the sum of array |  | Easy  |
 | 346 | xorsum of Interval extremum |  | Hard  |
 | 347 | maximum number expectation |  | Hard  |
-| 348 | TrackSwitching |  | Medium  |
+| 348 | TrackSwitching | [TypeScript](./src/0348/solution.ts) | Medium  |
 | 349 | Developer-Tester Integration |  | Hard  |
 | 350 | Slash Separating |  | Hard  |
 | 351 | External Sorting Practising |  | Easy  |
@@ -514,7 +514,7 @@
 | 513 | Perfect Squares | [JavaScript](./src/0513/solution.js) | Medium  |
 | 514 | Paint Fence | [TypeScript](./src/0514/solution.ts) | Easy  |
 | 515 | Paint House | [TypeScript](./src/0515/solution.ts) | Medium  |
-| 516 | Paint House II |  | Hard  |
+| 516 | Paint House II | [TypeScript](./src/0516/solution.ts) | Hard  |
 | 517 | Ugly Number | [JavaScript](./src/0517/solution.js) | Easy  |
 | 518 | Super Ugly Number | [JavaScript](./src/0518/solution.js) | Medium  |
 | 519 | Consistent Hashing |  | Easy  |
@@ -563,7 +563,7 @@
 | 564 | Combination Sum IV | [JavaScript](./src/0564/solution.js) | Medium  |
 | 565 | Heart Beat |  | Medium  |
 | 566 | GFS Client |  | Medium  |
-| 567 | maximum score |  | Medium  |
+| 567 | maximum score | [TypeScript](./src/0567/solution.ts) | Medium  |
 | 568 | Three Chances |  | Medium  |
 | 569 | Add Digits | [JavaScript](./src/0569/solution.js) | Easy  |
 | 570 | Find the Missing Number II |  | Medium  |
@@ -781,7 +781,7 @@
 | 809 | K-th Symbol in Grammar |  | Medium  |
 | 810 | Swim in Rising Water |  | Hard  |
 | 811 | Swap Adjacent in LR String |  | Medium  |
-| 812 | Bold Words in String |  | Easy  |
+| 812 | Bold Words in String | [TypeScript](./src/0812/solution.ts) | Easy  |
 | 813 | Find Anagram Mappings | [JavaScript](./src/0813/solution.js) | Easy  |
 | 814 | Shortest Path in Undirected Graph |  | Medium  |
 | 815 | Course Schedule IV |  | Hard  |
@@ -927,7 +927,7 @@
 | 961 | Design Log Storage System |  | Medium  |
 | 962 | Condition string |  | Medium  |
 | 963 | The Judges Give Problem |  | Medium  |
-| 964 | Food Set |  | Medium  |
+| 964 | Food Set | [TypeScript](./src/0964/solution.ts) | Medium  |
 | 965 | LR String |  | Medium  |
 | 966 | Closest Pair of Points |  | Hard  |
 | 967 | Quality Inspection |  | Hard  |
@@ -3256,3 +3256,33 @@
 | 3743 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
 | 3744 | Calculate the Average Height of Buildings in Each Region |  | Medium  |
 | 3745 | Brightest Position on Street | [TypeScript](./src/3745/solution.ts) | Medium  |
+| 3746 | Count the Number of Subarrays Where 1 Appears More than 0 |  | Medium  |
+| 3747 | Maximum Alternating Subarray Sum |  | Medium  |
+| 3748 | Number of Spaces the Robot Can Clean |  | Medium  |
+| 3749 | Reorder Absolute Value Linked List |  | Medium  |
+| 3750 | Minimum Cost of Dividing the Sentence into Lines |  | Medium  |
+| 3751 | Number of Equal Count Substrings |  | Medium  |
+| 3752 | Number of Substrings That Start and End with the Same Letter |  | Easy  |
+| 3753 | Maze of Confusion |  | Medium  |
+| 3754 | Largest Even Sum of Subsequences with Length K |  | Medium  |
+| 3755 | Minimum Cost to Reach City With Discounts |  | Medium  |
+| 3756 | Number of Unique Flavors Remaining After Sharing K Candies |  | Medium  |
+| 3762 | First C Code: Print Hello World |  | Naive  |
+| 3763 | C Variable Definition Exercise |  | Naive  |
+| 3764 | C Variable Definition Exercise II |  | Naive  |
+| 3765 | Print "Hello World" with Quotation Mark |  | Naive  |
+| 3766 | A+B in Different Binaries |  | Naive  |
+| 3767 | Print File Path |  | Naive  |
+| 3768 | Determine Odd or Even Number |  | Naive  |
+| 3769 | Judging Leap Year (C version) |  | Naive  |
+| 3770 | Processing Data |  | Naive  |
+| 3771 | Reverse Integer (C version) |  | Easy  |
+| 3772 | Find all the daffodils (C version) |  | Naive  |
+| 3773 | Print nine-nine multiplication table (C version) |  | Easy  |
+| 3774 | Determining Prime Number |  | Easy  |
+| 3775 | Find the Greatest Common Divisor (C version) |  | Easy  |
+| 3776 | Finding the Least Common Multiples (C version) |  | Easy  |
+| 3777 | Output Data by Format |  | Naive  |
+| 3778 | First String Containing Only Letters |  | Easy  |
+| 3780 | Output The Month According to The Number |  | Naive  |
+| 3781 | Read Data on Demand |  | Easy  |
