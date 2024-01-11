@@ -16188,5 +16188,155 @@
         "index": 3745,
         "title": "Brightest Position on Street",
         "difficulty": 2
+    },
+    {
+        "index": 3746,
+        "title": "Count the Number of Subarrays Where 1 Appears More than 0",
+        "difficulty": 2
+    },
+    {
+        "index": 3747,
+        "title": "Maximum Alternating Subarray Sum",
+        "difficulty": 2
+    },
+    {
+        "index": 3748,
+        "title": "Number of Spaces the Robot Can Clean",
+        "difficulty": 2
+    },
+    {
+        "index": 3749,
+        "title": "Reorder Absolute Value Linked List",
+        "difficulty": 2
+    },
+    {
+        "index": 3750,
+        "title": "Minimum Cost of Dividing the Sentence into Lines",
+        "difficulty": 2
+    },
+    {
+        "index": 3751,
+        "title": "Number of Equal Count Substrings",
+        "difficulty": 2
+    },
+    {
+        "index": 3752,
+        "title": "Number of Substrings That Start and End with the Same Letter",
+        "difficulty": 1
+    },
+    {
+        "index": 3753,
+        "title": "Maze of Confusion",
+        "difficulty": 2
+    },
+    {
+        "index": 3754,
+        "title": "Largest Even Sum of Subsequences with Length K",
+        "difficulty": 2
+    },
+    {
+        "index": 3755,
+        "title": "Minimum Cost to Reach City With Discounts",
+        "difficulty": 2
+    },
+    {
+        "index": 3756,
+        "title": "Number of Unique Flavors Remaining After Sharing K Candies",
+        "difficulty": 2
+    },
+    {
+        "index": 3762,
+        "title": "First C Code: Print Hello World",
+        "difficulty": 0
+    },
+    {
+        "index": 3763,
+        "title": "C Variable Definition Exercise",
+        "difficulty": 0
+    },
+    {
+        "index": 3764,
+        "title": "C Variable Definition Exercise II",
+        "difficulty": 0
+    },
+    {
+        "index": 3765,
+        "title": "Print \"Hello World\" with Quotation Mark",
+        "difficulty": 0
+    },
+    {
+        "index": 3766,
+        "title": "A+B in Different Binaries",
+        "difficulty": 0
+    },
+    {
+        "index": 3767,
+        "title": "Print File Path",
+        "difficulty": 0
+    },
+    {
+        "index": 3768,
+        "title": "Determine Odd or Even Number",
+        "difficulty": 0
+    },
+    {
+        "index": 3769,
+        "title": "Judging Leap Year (C version)",
+        "difficulty": 0
+    },
+    {
+        "index": 3770,
+        "title": "Processing Data",
+        "difficulty": 0
+    },
+    {
+        "index": 3771,
+        "title": "Reverse Integer (C version)",
+        "difficulty": 1
+    },
+    {
+        "index": 3772,
+        "title": "Find all the daffodils (C version)",
+        "difficulty": 0
+    },
+    {
+        "index": 3773,
+        "title": "Print nine-nine multiplication table (C version)",
+        "difficulty": 1
+    },
+    {
+        "index": 3774,
+        "title": "Determining Prime Number",
+        "difficulty": 1
+    },
+    {
+        "index": 3775,
+        "title": "Find the Greatest Common Divisor (C version)",
+        "difficulty": 1
+    },
+    {
+        "index": 3776,
+        "title": "Finding the Least Common Multiples (C version)",
+        "difficulty": 1
+    },
+    {
+        "index": 3777,
+        "title": "Output Data by Format",
+        "difficulty": 0
+    },
+    {
+        "index": 3778,
+        "title": "First String Containing Only Letters",
+        "difficulty": 1
+    },
+    {
+        "index": 3780,
+        "title": "Output The Month According to The Number",
+        "difficulty": 0
+    },
+    {
+        "index": 3781,
+        "title": "Read Data on Demand",
+        "difficulty": 1
     }
 ]
