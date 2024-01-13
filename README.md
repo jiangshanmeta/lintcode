@@ -108,7 +108,7 @@
 | 89 | k Sum |  | Hard  |
 | 90 | k Sum II | [Python](./src/0090/solution.py) | Medium  |
 | 91 | Minimum Adjustment Cost |  | Medium  |
-| 92 | Backpack | [JavaScript](./src/0092/solution.js) | Medium  |
+| 92 | Backpack | [JavaScript](./src/0092/solution.js) [TypeScript](./src/0092/solution.ts) | Medium  |
 | 93 | Balanced Binary Tree | [JavaScript](./src/0093/solution.js) [TypeScript](./src/0093/solution.ts) | Easy  |
 | 94 | Binary Tree Maximum Path Sum | [JavaScript](./src/0094/solution.js) [TypeScript](./src/0094/solution.ts) | Medium  |
 | 95 | Validate Binary Search Tree | [JavaScript](./src/0095/solution.js) | Medium  |
@@ -983,10 +983,10 @@
 | 1017 | Similar RGB Color | [JavaScript](./src/1017/solution.js) | Easy  |
 | 1018 | Champagne Tower | [JavaScript](./src/1018/solution.js) | Medium  |
 | 1019 | Smallest Rotation with Highest Score |  | Hard  |
-| 1020 | All Paths From Source to Target |  | Medium  |
+| 1020 | All Paths From Source to Target | [TypeScript](./src/1020/solution.ts) | Medium  |
 | 1021 | Number of Subarrays with Bounded Maximum |  | Medium  |
 | 1022 | Valid Tic-Tac-Toe State | [JavaScript](./src/1022/solution.js) | Medium  |
-| 1023 | Preimage Size of Factorial Zeroes Function |  | Hard  |
+| 1023 | Preimage Size of Factorial Zeroes Function | [TypeScript](./src/1023/solution.ts) | Hard  |
 | 1024 | Number of Matching Subsequences |  | Medium  |
 | 1025 | Custom Sort String |  | Medium  |
 | 1026 | Domino and Tromino Tiling |  | Medium  |
@@ -1002,9 +1002,9 @@
 | 1036 | Reach Points |  | Hard  |
 | 1037 | Global and Local Inversions |  | Medium  |
 | 1038 | Jewels And Stones | [JavaScript](./src/1038/solution.js) | Easy  |
-| 1039 | Max Chunks To Make Sorted |  | Medium  |
+| 1039 | Max Chunks To Make Sorted | [TypeScript](./src/1039/solution.ts) | Medium  |
 | 1040 | Max Chunks To Make Sorted II |  | Hard  |
-| 1041 | Reorganize String |  | Medium  |
+| 1041 | Reorganize String | [JavaScript](./src/1041/solution.js) | Medium  |
 | 1042 | Toeplitz Matrix | [JavaScript](./src/1042/solution.js) | Easy  |
 | 1043 | Couples Holding Hands |  | Hard  |
 | 1044 | Largest Plus Sign |  | Medium  |
