@@ -1007,7 +1007,7 @@
 | 1041 | Reorganize String | [JavaScript](./src/1041/solution.js) | Medium  |
 | 1042 | Toeplitz Matrix | [JavaScript](./src/1042/solution.js) | Easy  |
 | 1043 | Couples Holding Hands |  | Hard  |
-| 1044 | Largest Plus Sign |  | Medium  |
+| 1044 | Largest Plus Sign | [TypeScript](./src/1044/solution.ts) | Medium  |
 | 1045 | Partition Labels |  | Medium  |
 | 1046 | Prime Number of Set Bits in Binary Representation | [TypeScript](./src/1046/solution.ts) | Easy  |
 | 1047 | Special Binary String |  | Medium  |
@@ -1033,7 +1033,7 @@
 | 1068 | Find Pivot Index | [JavaScript](./src/1068/solution.js) | Easy  |
 | 1069 | Remove Comments |  | Medium  |
 | 1070 | Accounts Merge |  | Medium  |
-| 1071 | Longest Word in Dictionary |  | Easy  |
+| 1071 | Longest Word in Dictionary | [TypeScript](./src/1071/solution.ts) | Easy  |
 | 1072 | Find K-th Smallest Pair Distance |  | Hard  |
 | 1073 | Maximum Length of Repeated Subarray |  | Medium  |
 | 1074 | Range Module |  | Hard  |
@@ -1085,18 +1085,18 @@
 | 1129 | Smallest Subtree with All the Deepest Nodes | [TypeScript](./src/1129/solution.ts) | Medium  |
 | 1130 | Magic circle |  | Hard  |
 | 1131 | The Function in Permutations |  | Medium  |
-| 1132 | Valid Triangle Number |  | Medium  |
+| 1132 | Valid Triangle Number | [TypeScript](./src/1132/solution.ts) | Medium  |
 | 1133 | Group Buy | [TypeScript](./src/1133/solution.ts) | Easy  |
 | 1134 | Find Duplicate File in System | [JavaScript](./src/1134/solution.js) | Medium  |
 | 1135 | Feature extraction |  | Easy  |
-| 1136 | High Click Induction Area |  | Medium  |
+| 1136 | High Click Induction Area | [TypeScript](./src/1136/solution.ts) | Medium  |
 | 1137 | Construct String from Binary Tree | [JavaScript](./src/1137/solution.js) | Easy  |
 | 1138 | Can Place Flowers | [JavaScript](./src/1138/solution.js) | Easy  |
 | 1139 | the kth subarray |  | Hard  |
 | 1141 | The month's days | [TypeScript](./src/1141/solution.ts) | Easy  |
 | 1142 | Non-negative Integers without Consecutive Ones |  | Hard  |
 | 1143 | Minimum Index Sum of Two Lists | [JavaScript](./src/1143/solution.js) | Easy  |
-| 1144 | Range Addition II |  | Easy  |
+| 1144 | Range Addition II | [TypeScript](./src/1144/solution.ts) | Easy  |
 | 1145 | Associated query |  | Easy  |
 | 1146 | Chess piece rotation |  | Easy  |
 | 1147 | Work Plan |  | Medium  |
