@@ -1069,7 +1069,7 @@
 | 1105 | Print Binary Tree | [JavaScript](./src/1105/solution.js) | Medium  |
 | 1106 | Maximum Binary Tree | [JavaScript](./src/1106/solution.js) | Easy  |
 | 1109 | Dota2 Senate |  | Medium  |
-| 1110 | Replace Words |  | Medium  |
+| 1110 | Replace Words | [TypeScript](./src/1110/solution.ts) | Medium  |
 | 1111 | Maximum Length of Pair Chain |  | Medium  |
 | 1112 | Set Mismatch | [JavaScript](./src/1112/solution.js) | Easy  |
 | 1113 | Solve the Equation |  | Medium  |
@@ -1100,7 +1100,7 @@
 | 1145 | Associated query |  | Easy  |
 | 1146 | Chess piece rotation |  | Easy  |
 | 1147 | Work Plan |  | Medium  |
-| 1148 | Longest Harmonious Subsequence |  | Easy  |
+| 1148 | Longest Harmonious Subsequence | [TypeScript](./src/1148/solution.ts) | Easy  |
 | 1149 | Valid Square | [JavaScript](./src/1149/solution.js) | Medium  |
 | 1150 | Fraction Addition and Subtraction |  | Medium  |
 | 1151 | Tag Validator |  | Hard  |
@@ -1108,7 +1108,7 @@
 | 1153 | string sorting | [TypeScript](./src/1153/solution.ts) | Easy  |
 | 1154 | Attendance Judgment | [TypeScript](./src/1154/solution.ts) | Easy  |
 | 1156 | Delete Operation for Two Strings | [JavaScript](./src/1156/solution.js) | Medium  |
-| 1157 | Shortest Unsorted Continuous Subarray |  | Easy  |
+| 1157 | Shortest Unsorted Continuous Subarray | [TypeScript](./src/1157/solution.ts) | Easy  |
 | 1158 | Plant flowers |  | Medium  |
 | 1159 | Longest Common Prefix III |  | Hard  |
 | 1160 | Campus Bikes |  | Medium  |
@@ -1143,13 +1143,13 @@
 | 1189 | Minesweeper | [Python](./src/1189/solution.py) | Medium  |
 | 1190 | Longest Word in Dictionary through Deleting |  | Medium  |
 | 1191 | Longest Uncommon Subsequence II |  | Medium  |
-| 1192 | Longest Uncommon Subsequence I |  | Easy  |
+| 1192 | Longest Uncommon Subsequence I | [TypeScript](./src/1192/solution.ts) | Easy  |
 | 1193 | Detect Capital | [JavaScript](./src/1193/solution.js) | Easy  |
 | 1194 | Super Washing Machines |  | Hard  |
 | 1195 | Find Largest Value in Each Tree Row | [JavaScript](./src/1195/solution.js) | Medium  |
 | 1196 | Freedom Trail |  | Hard  |
 | 1197 | Find Bottom Left Tree Value | [JavaScript](./src/1197/solution.js) | Medium  |
-| 1198 | Most Frequent Subtree Sum |  | Medium  |
+| 1198 | Most Frequent Subtree Sum | [TypeScript](./src/1198/solution.ts) | Medium  |
 | 1199 | Perfect Number | [TypeScript](./src/1199/solution.ts) | Easy  |
 | 1200 | Relative Ranks | [JavaScript](./src/1200/solution.js) | Easy  |
 | 1201 | Next Greater Element II |  | Medium  |
