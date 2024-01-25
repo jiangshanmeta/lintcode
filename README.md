@@ -140,7 +140,7 @@
 | 121 | Word Ladder II |  | Hard  |
 | 122 | Largest Rectangle in Histogram |  | Hard  |
 | 123 | Word Search | [TypeScript](./src/0123/solution.ts) | Medium  |
-| 124 | Longest Consecutive Sequence |  | Medium  |
+| 124 | Longest Consecutive Sequence | [TypeScript](./src/0124/solution.ts) | Medium  |
 | 125 | Backpack II | [JavaScript](./src/0125/solution.js) | Medium  |
 | 126 | Max Tree |  | Hard  |
 | 127 | Topological Sorting |  | Medium  |
@@ -159,12 +159,12 @@
 | 140 | Fast Power | [Python](./src/0140/solution.py) | Medium  |
 | 141 | Sqrt(x) | [Python](./src/0141/solution.py) | Easy  |
 | 142 | O(1) Check Power of 2 | [JavaScript](./src/0142/solution.js) | Easy  |
-| 143 | Sort Colors II |  | Medium  |
+| 143 | Sort Colors II | [TypeScript](./src/0143/solution.ts) | Medium  |
 | 144 | Interleaving Positive and Negative Numbers | [Python](./src/0144/solution.py) | Medium  |
 | 145 | Lowercase to Uppercase | [JavaScript](./src/0145/solution.js) | Naive  |
 | 146 | Lowercase to Uppercase II | [TypeScript](./src/0146/solution.ts) | Naive  |
 | 147 | Narcissistic Number |  | Easy  |
-| 148 | Sort Colors |  | Medium  |
+| 148 | Sort Colors | [TypeScript](./src/0148/solution.ts) | Medium  |
 | 149 | Best Time to Buy and Sell Stock | [JavaScript](./src/0149/solution.js) | Medium  |
 | 150 | Best Time to Buy and Sell Stock II | [JavaScript](./src/0150/solution.js) | Medium  |
 | 151 | Best Time to Buy and Sell Stock III | [JavaScript](./src/0151/solution.js) | Medium  |
@@ -416,7 +416,7 @@
 | 411 | Gray Code | [TypeScript](./src/0411/solution.ts) | Medium  |
 | 412 | Candy |  | Medium  |
 | 413 | Reverse Integer | [JavaScript](./src/0413/solution.js) | Easy  |
-| 414 | Divide Two Integers |  | Medium  |
+| 414 | Divide Two Integers | [TypeScript](./src/0414/solution.ts) | Medium  |
 | 415 | Valid Palindrome | [JavaScript](./src/0415/solution.js) | Medium  |
 | 417 | Valid Number | [TypeScript](./src/0417/solution.ts) | Easy  |
 | 418 | Integer to Roman | [JavaScript](./src/0418/solution.js) | Medium  |
@@ -881,7 +881,7 @@
 | 912 | Best Meeting Point |  | Hard  |
 | 913 | Flip Game II |  | Medium  |
 | 914 | Flip Game | [JavaScript](./src/0914/solution.js) | Easy  |
-| 915 | Inorder Predecessor in BST |  | Medium  |
+| 915 | Inorder Predecessor in BST | [Java](./src/0915/solution.java) | Medium  |
 | 916 | Palindrome Permutation | [JavaScript](./src/0916/solution.js) | Easy  |
 | 917 | Palindrome Permutation II |  | Medium  |
 | 918 | 3Sum Smaller | [JavaScript](./src/0918/solution.js) | Medium  |
