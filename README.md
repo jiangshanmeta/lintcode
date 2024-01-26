@@ -1059,7 +1059,7 @@
 | 1095 | Maximum Swap | [JavaScript](./src/1095/solution.js) | Medium  |
 | 1096 | Greatest Least Common Multiple |  | Medium  |
 | 1097 | Kth Smallest Number in Multiplication Table |  | Hard  |
-| 1098 | Path Sum IV |  | Medium  |
+| 1098 | Path Sum IV | [TypeScript](./src/1098/solution.ts) | Medium  |
 | 1099 | Non-decreasing Array | [JavaScript](./src/1099/solution.js) | Easy  |
 | 1100 | Strange Printer |  | Hard  |
 | 1101 | Maximum Width of Binary Tree | [JavaScript](./src/1101/solution.js) | Medium  |
@@ -1153,11 +1153,11 @@
 | 1199 | Perfect Number | [TypeScript](./src/1199/solution.ts) | Easy  |
 | 1200 | Relative Ranks | [JavaScript](./src/1200/solution.js) | Easy  |
 | 1201 | Next Greater Element II |  | Medium  |
-| 1202 | IPO |  | Hard  |
+| 1202 | IPO | [TypeScript](./src/1202/solution.ts) | Hard  |
 | 1203 | Find Mode in Binary Search Tree | [JavaScript](./src/1203/solution.js) | Medium  |
 | 1204 | Keyboard Row | [JavaScript](./src/1204/solution.js) | Easy  |
 | 1205 | Diagonal Traverse | [JavaScript](./src/1205/solution.js) | Medium  |
-| 1206 | Next Greater Element I |  | Easy  |
+| 1206 | Next Greater Element I | [TypeScript](./src/1206/solution.ts) | Easy  |
 | 1207 | Teemo Attacking |  | Medium  |
 | 1208 | Target Sum | [JavaScript](./src/1208/solution.js) | Medium  |
 | 1209 | Construct the Rectangle | [JavaScript](./src/1209/solution.js) | Easy  |
@@ -1166,9 +1166,9 @@
 | 1212 | Max Consecutive Ones | [JavaScript](./src/1212/solution.js) | Easy  |
 | 1213 | Smallest Good Base |  | Hard  |
 | 1214 | License Key Formatting | [JavaScript](./src/1214/solution.js) | Easy  |
-| 1215 | Magical String |  | Medium  |
+| 1215 | Magical String | [TypeScript](./src/1215/solution.ts) | Medium  |
 | 1216 | Largest Palindrome Product | [TypeScript](./src/1216/solution.ts) | Easy  |
-| 1217 | Total Hamming Distance |  | Medium  |
+| 1217 | Total Hamming Distance | [TypeScript](./src/1217/solution.ts) | Medium  |
 | 1218 | Number Complement | [JavaScript](./src/1218/solution.js) | Easy  |
 | 1219 | Heaters |  | Medium  |
 | 1220 | Matchsticks to Square |  | Medium  |
