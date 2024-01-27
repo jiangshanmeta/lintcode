@@ -1170,21 +1170,21 @@
 | 1216 | Largest Palindrome Product | [TypeScript](./src/1216/solution.ts) | Easy  |
 | 1217 | Total Hamming Distance | [TypeScript](./src/1217/solution.ts) | Medium  |
 | 1218 | Number Complement | [JavaScript](./src/1218/solution.js) | Easy  |
-| 1219 | Heaters |  | Medium  |
-| 1220 | Matchsticks to Square |  | Medium  |
+| 1219 | Heaters | [TypeScript](./src/1219/solution.ts) | Medium  |
+| 1220 | Matchsticks to Square | [TypeScript](./src/1220/solution.ts) | Medium  |
 | 1221 | Concatenated Words |  | Hard  |
-| 1222 | Validate IP Address |  | Medium  |
+| 1222 | Validate IP Address | [TypeScript](./src/1222/solution.ts) | Medium  |
 | 1223 | Unique Substrings in Wraparound String |  | Medium  |
 | 1224 | Count The Repetitions |  | Hard  |
 | 1225 | Island Perimeter | [TypeScript](./src/1225/solution.ts) | Easy  |
-| 1226 | Minimum Moves to Equal Array Elements II |  | Medium  |
+| 1226 | Minimum Moves to Equal Array Elements II | [TypeScript](./src/1226/solution.ts) | Medium  |
 | 1227 | Repeated Substring Pattern | [JavaScript](./src/1227/solution.js) | Easy  |
 | 1228 | Poor Pigs |  | Easy  |
 | 1229 | Circular Array Loop |  | Medium  |
 | 1230 | Assign Cookies | [JavaScript](./src/1230/solution.js) | Easy  |
 | 1231 | Minimum Moves to Equal Array Elements |  | Easy  |
 | 1232 | Minimum Number of Arrows to Burst Balloons |  | Medium  |
-| 1233 | Sort Characters By Frequency |  | Medium  |
+| 1233 | Sort Characters By Frequency | [TypeScript](./src/1233/solution.ts) | Medium  |
 | 1234 | Delete Node in a BST |  | Medium  |
 | 1235 | Serialize and Deserialize BST | [Python](./src/1235/solution.py) | Medium  |
 | 1236 | Find All Numbers Disappeared in an Array | [JavaScript](./src/1236/solution.js) | Easy  |
