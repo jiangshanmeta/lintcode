@@ -1210,10 +1210,10 @@
 | 1256 | Nth Digit |  | Easy  |
 | 1257 | Evaluate Division |  | Medium  |
 | 1258 | Beautiful Subarrays |  | Medium  |
-| 1259 | Integer Replacement |  | Medium  |
+| 1259 | Integer Replacement | [TypeScript](./src/1259/solution.ts) | Medium  |
 | 1260 | Rotate Function |  | Medium  |
 | 1261 | Longest Substring with At Least K Repeating Characters |  | Medium  |
-| 1262 | UTF-8 Validation |  | Medium  |
+| 1262 | UTF-8 Validation | [TypeScript](./src/1262/solution.ts) | Medium  |
 | 1263 | Is Subsequence | [JavaScript](./src/1263/solution.js) | Medium  |
 | 1264 | Perfect Rectangle |  | Hard  |
 | 1265 | Elimination Game |  | Medium  |
@@ -1246,10 +1246,10 @@
 | 1293 | Count of Range Sum |  | Hard  |
 | 1294 | Power of Three | [JavaScript](./src/1294/solution.js) | Easy  |
 | 1295 | Prime Factor Statistics |  | Easy  |
-| 1296 | Maximum Product of Word Lengths |  | Medium  |
-| 1297 | Count of Smaller Numbers After Self |  | Hard  |
+| 1296 | Maximum Product of Word Lengths | [TypeScript](./src/1296/solution.ts) | Medium  |
+| 1297 | Count of Smaller Numbers After Self | [TypeScript](./src/1297/solution.ts) | Hard  |
 | 1298 | Minimum Height Trees |  | Medium  |
-| 1299 | Bulls and Cows |  | Medium  |
+| 1299 | Bulls and Cows | [TypeScript](./src/1299/solution.ts) | Medium  |
 | 1300 | Bash Game | [JavaScript](./src/1300/solution.js) | Easy  |
 | 1301 | Game of Life |  | Medium  |
 | 1302 | People Counting |  | Easy  |
