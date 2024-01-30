@@ -1253,7 +1253,7 @@
 | 1300 | Bash Game | [JavaScript](./src/1300/solution.js) | Easy  |
 | 1301 | Game of Life |  | Medium  |
 | 1302 | People Counting |  | Easy  |
-| 1303 | H-Index II |  | Medium  |
+| 1303 | H-Index II | [JavaScript](./src/1303/solution.js) | Medium  |
 | 1304 | H-Index |  | Medium  |
 | 1306 | Travel Plan II |  | Hard  |
 | 1307 | Verify Preorder Sequence in Binary Search Tree | [JavaScript](./src/1307/solution.js) | Medium  |
@@ -1274,8 +1274,8 @@
 | 1322 | Product Equal B |  | Hard  |
 | 1323 | Fetch supplies |  | Medium  |
 | 1324 | Count Primes | [JavaScript](./src/1324/solution.js) | Easy  |
-| 1325 | Bitwise AND of Numbers Range |  | Medium  |
-| 1326 | Boarder Sort |  | Medium  |
+| 1325 | Bitwise AND of Numbers Range | [TypeScript](./src/1325/solution.ts) | Medium  |
+| 1326 | Boarder Sort | [TypeScript](./src/1326/solution.ts) | Medium  |
 | 1327 | delete string |  | Easy  |
 | 1328 | Double Change |  | Easy  |
 | 1329 | Sequence maintenance |  | Hard  |
@@ -1293,7 +1293,7 @@
 | 1341 | Combine New Numbers |  | Medium  |
 | 1342 | substitute string |  | Medium  |
 | 1343 | Sum of Two Strings | [Python](./src/1343/solution.py) | Easy  |
-| 1344 | Counter Diagonal Sort |  | Medium  |
+| 1344 | Counter Diagonal Sort | [TypeScript](./src/1344/solution.ts) | Medium  |
 | 1345 | Robot Encircular |  | Medium  |
 | 1346 | Dungeon Game |  | Hard  |
 | 1347 | Factorial Trailing Zeroes | [JavaScript](./src/1347/solution.js) | Easy  |
@@ -1311,7 +1311,7 @@
 | 1360 | Symmetric Tree | [JavaScript](./src/1360/solution.js) | Medium  |
 | 1361 | Text Justification |  | Hard  |
 | 1362 | Substring with Concatenation of All Words |  | Hard  |
-| 1363 | ZigZag Conversion |  | Medium  |
+| 1363 | ZigZag Conversion | [TypeScript](./src/1363/solution.ts) | Medium  |
 | 1364 | the minium distance |  | Medium  |
 | 1365 | Minimum Cycle Section |  | Hard  |
 | 1366 | Directed Graph Loop |  | Medium  |
