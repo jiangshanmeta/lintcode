@@ -1381,7 +1381,7 @@
 | 1436 | Flipping an Image |  | Easy  |
 | 1437 | Masking Personal Information | [TypeScript](./src/1437/solution.ts) | Medium  |
 | 1438 | Positions of Large Groups | [JavaScript](./src/1438/solution.js) | Easy  |
-| 1439 | Consecutive Numbers Sum |  | Medium  |
+| 1439 | Consecutive Numbers Sum | [TypeScript](./src/1439/solution.ts) | Medium  |
 | 1440 | Unique Letter String |  | Hard  |
 | 1441 | Four Numbers Multiply Problem |  | Hard  |
 | 1442 | Order Problem |  | Medium  |
@@ -1398,7 +1398,7 @@
 | 1454 | Word Frequency Count |  | Medium  |
 | 1455 | Valid Array |  | Easy  |
 | 1456 | Word Synthesis Problem |  | Hard  |
-| 1457 | Search Subarray |  | Medium  |
+| 1457 | Search Subarray | [TypeScript](./src/1457/solution.ts) | Medium  |
 | 1458 | Minimum Submatrix |  | Medium  |
 | 1459 | Judge the last number |  | Easy  |
 | 1463 | Paper Review |  | Medium  |
@@ -1414,7 +1414,7 @@
 | 1473 | Find The Sum Of The Array |  | Medium  |
 | 1474 | Shortest Phrase |  | Medium  |
 | 1475 | Minimum Legal Bracket Sequence |  | Hard  |
-| 1476 | Peak Index in a Mountain Array |  | Easy  |
+| 1476 | Peak Index in a Mountain Array | [TypeScript](./src/1476/solution.ts) | Easy  |
 | 1477 | Car Fleet | [JavaScript](./src/1477/solution.js) | Medium  |
 | 1478 | Closest Target Value |  | Easy  |
 | 1479 | Can Reach The Endpoint |  | Easy  |
@@ -1432,7 +1432,7 @@
 | 1493 | Walking Robot Simulation |  | Easy  |
 | 1494 | Length of Longest Fibonacci Subsequence |  | Medium  |
 | 1495 | Leaf-Similar Trees | [JavaScript](./src/1495/solution.js) | Easy  |
-| 1496 | Implement Rand10() Using Rand7() |  | Medium  |
+| 1496 | Implement Rand10() Using Rand7() | [Python](./src/1496/solution.py) | Medium  |
 | 1497 | Minimum Number of Refueling Stops |  | Hard  |
 | 1498 | Advantage Shuffle |  | Medium  |
 | 1499 | Reordered Power of 2 | [JavaScript](./src/1499/solution.js) | Medium  |
@@ -1456,7 +1456,7 @@
 | 1518 | Watering Flowers |  | Medium  |
 | 1521 | Unique Twitter User Id Set |  | Easy  |
 | 1522 | Search in a Sorted Array of Unknown Size |  | Medium  |
-| 1523 | Partitioning Array |  | Easy  |
+| 1523 | Partitioning Array | [TypeScript](./src/1523/solution.ts) | Easy  |
 | 1524 | Search in a Binary Search Tree | [JavaScript](./src/1524/solution.js) | Easy  |
 | 1525 | N-ary Tree Postorder Traversal | [Python](./src/1525/solution.py) | Easy  |
 | 1526 | N-ary Tree Preorder Traversal | [Python](./src/1526/solution.py) | Easy  |
