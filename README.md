@@ -1509,13 +1509,13 @@
 | 1578 | Number of A | [JavaScript](./src/1578/solution.js) | Medium  |
 | 1579 | Alphabetic string calculation |  | Medium  |
 | 1580 | Transition String |  | Medium  |
-| 1581 | Longest Subsequence |  | Medium  |
+| 1581 | Longest Subsequence | [JavaScript](./src/1581/solution.js) | Medium  |
 | 1582 | Minimum Path Sum II |  | Medium  |
 | 1583 | Maximum Number Sum |  | Medium  |
 | 1584 | Number Of Xor Values |  | Medium  |
 | 1585 | Moving Stones |  | Easy  |
 | 1586 | Minimum Number Of Keystrokes |  | Medium  |
-| 1587 | String Segmentation |  | Medium  |
+| 1587 | String Segmentation | [TypeScript](./src/1587/solution.ts) | Medium  |
 | 1588 | All Possible Full Binary Trees |  | Medium  |
 | 1589 | Groups of Special-Equivalent Strings |  | Easy  |
 | 1590 | Surface Area of 3D Shapes |  | Easy  |
@@ -1529,7 +1529,7 @@
 | 1599 | Projection Area of 3D Shapes |  | Easy  |
 | 1600 | Reachable Nodes In Subdivided Graph |  | Hard  |
 | 1601 | Boats to Save People | [JavaScript](./src/1601/solution.js) | Medium  |
-| 1602 | Decoded String at Index |  | Medium  |
+| 1602 | Decoded String at Index | [TypeScript](./src/1602/solution.ts) | Medium  |
 | 1604 | Maximum Sum of Two Numbers | [TypeScript](./src/1604/solution.ts) | Medium  |
 | 1607 | Profitable Schemes |  | Hard  |
 | 1608 | Nth Magical Number |  | Hard  |
@@ -1577,7 +1577,7 @@
 | 1657 | Operation Time |  | Easy  |
 | 1659 | Legal Number Statistics II | [TypeScript](./src/1659/solution.ts) | Easy  |
 | 1665 | Calculate number | [JavaScript](./src/1665/solution.js) | Easy  |
-| 1669 | Build a temple |  | Medium  |
+| 1669 | Build a temple | [TypeScript](./src/1669/solution.ts) | Medium  |
 | 1685 | The mazeIV |  | Medium  |
 | 1691 | Best Time to Buy and Sell Stock V |  | Medium  |
 | 1694 | Monster Hunter |  | Hard  |
@@ -1595,7 +1595,7 @@
 | 1709 | Number of Recent Calls |  | Easy  |
 | 1710 | Beautiful Array |  | Medium  |
 | 1711 | Minimum Falling Path Sum | [JavaScript](./src/1711/solution.js) | Medium  |
-| 1712 | Binary Subarrays With Sum |  | Medium  |
+| 1712 | Binary Subarrays With Sum | [TypeScript](./src/1712/solution.ts) | Medium  |
 | 1713 | Unique Email Addresses |  | Easy  |
 | 1714 | Minimize Malware Spread II |  | Hard  |
 | 1715 | Three Equal Parts |  | Medium  |
