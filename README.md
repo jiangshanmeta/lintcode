@@ -1598,7 +1598,7 @@
 | 1712 | Binary Subarrays With Sum | [TypeScript](./src/1712/solution.ts) | Medium  |
 | 1713 | Unique Email Addresses |  | Easy  |
 | 1714 | Minimize Malware Spread II |  | Hard  |
-| 1715 | Three Equal Parts |  | Medium  |
+| 1715 | Three Equal Parts | [TypeScript](./src/1715/solution.ts) | Medium  |
 | 1716 | Flip String to Monotone Increasing | [JavaScript](./src/1716/solution.js) | Medium  |
 | 1718 | Minimize Malware Spread |  | Hard  |
 | 1719 | 3Sum With Multiplicity | [JavaScript](./src/1719/solution.js) | Medium  |
@@ -1629,7 +1629,7 @@
 | 1745 | Monotonic Array | [JavaScript](./src/1745/solution.js) | Easy  |
 | 1746 | Minimum Distance Between BST Nodes | [JavaScript](./src/1746/solution.js) | Easy  |
 | 1747 | Robot Return to Origin |  | Easy  |
-| 1753 | Doing Homework |  | Medium  |
+| 1753 | Doing Homework | [TypeScript](./src/1753/solution.ts) | Medium  |
 | 1756 | Buy beverage |  | Medium  |
 | 1761 | Digital Huarong Road |  | Hard  |
 | 1767 | Minimum Tree Coverage |  | Hard  |
@@ -1667,16 +1667,16 @@
 | 1813 | Construct Binary Tree |  | Medium  |
 | 1814 | Sum of all Subarrays | [Python](./src/1814/solution.py) | Easy  |
 | 1815 | Threhold Alerts |  | Easy  |
-| 1816 | Find the Smallest Divisor Given a Threshold |  | Medium  |
+| 1816 | Find the Smallest Divisor Given a Threshold | [TypeScript](./src/1816/solution.ts) | Medium  |
 | 1817 | Divide Chocolate |  | Hard  |
 | 1819 | Longest Semi Alternating Substring |  | Easy  |
 | 1820 | Find Letter | [TypeScript](./src/1820/solution.ts) | Easy  |
 | 1821 | Min Deletions To Obtain String in Right Format | [TypeScript](./src/1821/solution.ts) | Easy  |
-| 1822 | Minimum Moves |  | Easy  |
+| 1822 | Minimum Moves | [TypeScript](./src/1822/solution.ts) | Easy  |
 | 1823 | Longest Prefix of Array |  | Easy  |
 | 1824 | Most Frequent Substring |  | Medium  |
 | 1825 | Number Change |  | Medium  |
-| 1827 | Number of Ways to Stay in the Same Place After Some Steps II |  | Medium  |
+| 1827 | Number of Ways to Stay in the Same Place After Some Steps II | [TypeScript](./src/1827/solution.ts) | Medium  |
 | 1828 | Lake Escape |  | Hard  |
 | 1829 | Find the number of shortest path |  | Medium  |
 | 1831 | Array Summarization |  | Easy  |
