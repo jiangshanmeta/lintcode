@@ -1683,14 +1683,14 @@
 | 1832 | Minimum Step |  | Medium  |
 | 1833 | pen box |  | Medium  |
 | 1834 | Grouping Options |  | Hard  |
-| 1835 | Number of Ways to Stay in the Same Place After Some Steps I |  | Easy  |
+| 1835 | Number of Ways to Stay in the Same Place After Some Steps I | [TypeScript](./src/1835/solution.ts) | Easy  |
 | 1836 | Reaching Point |  | Medium  |
 | 1840 | Matrix restoration |  | Medium  |
 | 1844 | subarray sum equals to k II |  | Medium  |
 | 1846 | Reaching Point II |  | Medium  |
 | 1848 | Word Search III |  | Hard  |
 | 1849 | Grumpy Bookstore Owner | [TypeScript](./src/1849/solution.ts) | Medium  |
-| 1850 | Pick Apples |  | Medium  |
+| 1850 | Pick Apples | [TypeScript](./src/1850/solution.ts) | Medium  |
 | 1851 | Buy Passes | [TypeScript](./src/1851/solution.ts) | Medium  |
 | 1852 | Final Discounted Price | [TypeScript](./src/1852/solution.ts) | Medium  |
 | 1853 | Efficient Job Processing Service |  | Medium  |
@@ -1708,15 +1708,15 @@
 | 1869 | Count Square Submatrices with All Ones |  | Medium  |
 | 1870 | Number of Substrings with All Zeroes | [TypeScript](./src/1870/solution.ts) | Medium  |
 | 1871 | Maximum moment | [TypeScript](./src/1871/solution.ts) | Easy  |
-| 1872 | Minimum Cost to Connect Sticks |  | Medium  |
+| 1872 | Minimum Cost to Connect Sticks | [TypeScript](./src/1872/solution.ts) | Medium  |
 | 1874 | Kth Smallest Element in a Specific Array |  | Medium  |
 | 1876 | Alien Dictionary(easy) | [TypeScript](./src/1876/solution.ts) | Easy  |
 | 1877 | longest super sequence |  | Medium  |
 | 1878 | Rotated Nums | [TypeScript](./src/1878/solution.ts) | Easy  |
 | 1879 | Two Sum VII |  | Hard  |
 | 1880 | Largest Number X Which Occurs X Times |  | Easy  |
-| 1881 | Aircraft seat |  | Easy  |
-| 1882 | Fair Indexes |  | Medium  |
+| 1881 | Aircraft seat | [TypeScript](./src/1881/solution.ts) | Easy  |
+| 1882 | Fair Indexes | [TypeScript](./src/1882/solution.ts) | Medium  |
 | 1883 | Top K Frequently Mentioned Keywords |  | Medium  |
 | 1884 | Take Away The Bottle |  | Hard  |
 | 1885 | A Strange Sorting Problem |  | Hard  |
