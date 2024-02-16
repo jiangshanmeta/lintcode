@@ -1735,7 +1735,7 @@
 | 1899 | Fetch supplies II |  | Medium  |
 | 1900 | Gene Similarity |  | Hard  |
 | 1901 | Squares of a Sorted Array | [TypeScript](./src/1901/solution.ts) | Easy  |
-| 1902 | Find Google |  | Easy  |
+| 1902 | Find Google | [TypeScript](./src/1902/solution.ts) | Easy  |
 | 1903 | Department Statistics |  | Easy  |
 | 1904 | Place the Balls |  | Hard  |
 | 1905 | Character deletion | [JavaScript](./src/1905/solution.js) | Easy  |
@@ -1965,9 +1965,9 @@
 | 2163 | Realize age-based determination of adulthood | [Java](./src/2163/solution.java) | Naive  |
 | 2164 | Pass or fail according to the score | [Java](./src/2164/solution.java) | Naive  |
 | 2165 | Calculate the values of 1+2+3+... +n values | [Java](./src/2165/solution.java) | Naive  |
-| 2166 | Simple addition, subtraction, multiplication and division |  | Naive  |
+| 2166 | Simple addition, subtraction, multiplication and division | [Java](./src/2166/solution.java) | Naive  |
 | 2167 | Get or Create a User Object |  | Naive  |
-| 2168 | Printable Trigonometric NIne NIne Multiplication Table |  | Naive  |
+| 2168 | Printable Trigonometric NIne NIne Multiplication Table | [Java](./src/2168/solution.java) | Naive  |
 | 2169 | Three by three generation of data |  | Medium  |
 | 2170 | Read file contents |  | Naive  |
 | 2171 | Django Rest Framework Setup (Bug Fix) |  | Naive  |
@@ -1980,13 +1980,13 @@
 | 2178 | Iterators and Fibonacci series |  | Easy  |
 | 2180 | Comparing the size of two numbers |  | Naive  |
 | 2181 | Iterator and an even series |  | Easy  |
-| 2182 | Calculate the sum of all positive integers up to and including n that are divisible by 3 |  | Naive  |
+| 2182 | Calculate the sum of all positive integers up to and including n that are divisible by 3 | [Java](./src/2182/solution.java) | Naive  |
 | 2183 | Determine the student's achievement range based on the student's achievement level | [Java](./src/2183/solution.java) | Naive  |
 | 2184 | Implement User Signup API (Bug Fix II) |  | Easy  |
 | 2185 | Count the number of times an element appears in the list |  | Naive  |
 | 2186 | Calculate the factorial of n |  | Naive  |
 | 2187 | Combining and sorting lists (one) |  | Naive  |
-| 2188 | Get the element with index 1 |  | Naive  |
+| 2188 | Get the element with index 1 | [Java](./src/2188/solution.java) | Naive  |
 | 2189 | Check the age of teachers and sort in ascending order |  | Naive  |
 | 2190 | Select nationality from teacher between 20 and 25 who is not from China or UK |  | Easy  |
 | 2191 | Query information about teachers over n years old |  | Naive  |
