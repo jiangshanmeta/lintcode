@@ -1999,23 +1999,23 @@
 | 2198 | Query all the information of the teacher |  | Naive  |
 | 2199 | Remove empty lines from files |  | Naive  |
 | 2200 | Calculate all leap years from 1949 to n | [Java](./src/2200/solution.java) | Naive  |
-| 2201 | Get the element whose index is the last digit |  | Naive  |
+| 2201 | Get the element whose index is the last digit | [Java](./src/2201/solution.java) | Naive  |
 | 2202 | Calculate Sum (Python version) |  | Naive  |
 | 2203 | Get the length of the string | [Java](./src/2203/solution.java) | Naive  |
 | 2204 | The remainder of a partial function to divide two positive integers |  | Easy  |
 | 2205 | Binary to decimal conversion |  | Naive  |
 | 2206 | Get the sum of the lengths of all strings in the string array | [Java](./src/2206/solution.java) | Naive  |
 | 2207 | Filter out all odd numbers |  | Medium  |
-| 2208 | Create objects, assign values to object properties and print |  | Naive  |
+| 2208 | Create objects, assign values to object properties and print | [Java](./src/2208/solution.java) | Naive  |
 | 2209 | Create subclass objects and print data using parent class methods |  | Easy  |
 | 2211 | Judge the number of palindrome |  | Naive  |
-| 2212 | Write assignment methods and print methods for object properties |  | Naive  |
+| 2212 | Write assignment methods and print methods for object properties | [Java](./src/2212/solution.java) | Naive  |
 | 2216 | String summing, repeated output, slicing |  | Naive  |
 | 2226 | Determine if the specified character is present in the string |  | Naive  |
-| 2227 | Bit arithmetic shift left by three bits (Java version) |  | Naive  |
+| 2227 | Bit arithmetic shift left by three bits (Java version) | [Java](./src/2227/solution.java) | Naive  |
 | 2228 | Slicing and Splicing |  | Naive  |
 | 2229 | Find the length, maximum value and minimum value of a tuple |  | Naive  |
-| 2231 | Implementing the area calculation method |  | Naive  |
+| 2231 | Implementing the area calculation method | [Java](./src/2231/solution.java) | Naive  |
 | 2232 | Print the food that cats and dogs like to eat |  | Easy  |
 | 2240 | Update string |  | Naive  |
 | 2241 | Get the millisecond value of the specified date |  | Easy  |
