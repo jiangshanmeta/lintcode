@@ -2020,7 +2020,7 @@
 | 2240 | Update string |  | Naive  |
 | 2241 | Get the millisecond value of the specified date |  | Easy  |
 | 2242 | Print book information |  | Easy  |
-| 2244 | Print work content |  | Naive  |
+| 2244 | Print work content | [Java](./src/2244/solution.java) | Naive  |
 | 2246 | Polymorphic way to call drawing methods |  | Naive  |
 | 2247 | decision odd or even |  | Naive  |
 | 2248 | Calculate the number of days of a person's birth |  | Easy  |
@@ -2029,22 +2029,22 @@
 | 2251 | Print the name and number information of three objects |  | Naive  |
 | 2252 | Judgment Results |  | Naive  |
 | 2253 | Print the characteristics of spring, summer, autumn and winter |  | Naive  |
-| 2254 | Get the length of the string after removing spaces |  | Naive  |
+| 2254 | Get the length of the string after removing spaces | [Java](./src/2254/solution.java) | Naive  |
 | 2256 | Replace the contents of a string |  | Easy  |
 | 2257 | Determining whether a number is prime or not |  | Naive  |
 | 2258 | Find the largest prime number backwards |  | Naive  |
-| 2259 | Calculate Sum (Java version) |  | Naive  |
+| 2259 | Calculate Sum (Java version) | [Java](./src/2259/solution.java) | Naive  |
 | 2260 | List slicing with step |  | Naive  |
 | 2261 | Delete elements in the list |  | Naive  |
 | 2262 | Splicing and copying of lists |  | Naive  |
 | 2263 | string splicing |  | Naive  |
 | 2264 | Convert upper and lower case letters in a string |  | Naive  |
 | 2265 | Find the maximum and minimum values of the elements in a tuple |  | Naive  |
-| 2266 | Swap Two Integers (Java version) |  | Naive  |
+| 2266 | Swap Two Integers (Java version) | [Java](./src/2266/solution.java) | Naive  |
 | 2267 | Find The Maximum Of Three Numbers (Python version) |  | Naive  |
 | 2268 | Get the attributes of a bull |  | Naive  |
 | 2269 | Swap Two Integers (Python version) |  | Naive  |
-| 2270 | Integer Arithmetic (Java version) |  | Naive  |
+| 2270 | Integer Arithmetic (Java version) | [Java](./src/2270/solution.java) | Naive  |
 | 2271 | Integer Arithmetic (Python version) |  | Naive  |
 | 2272 | Find The Maximum Of Three Numbers (Java version) |  | Naive  |
 | 2273 | Sequential Output (Python version) |  | Naive  |
