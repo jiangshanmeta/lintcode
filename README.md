@@ -2046,22 +2046,22 @@
 | 2269 | Swap Two Integers (Python version) |  | Naive  |
 | 2270 | Integer Arithmetic (Java version) | [Java](./src/2270/solution.java) | Naive  |
 | 2271 | Integer Arithmetic (Python version) |  | Naive  |
-| 2272 | Find The Maximum Of Three Numbers (Java version) |  | Naive  |
+| 2272 | Find The Maximum Of Three Numbers (Java version) | [Java](./src/2272/solution.java) | Naive  |
 | 2273 | Sequential Output (Python version) |  | Naive  |
 | 2274 | First Python Code: Print Hello World |  | Naive  |
-| 2275 | Sequential Output (Java version) |  | Naive  |
+| 2275 | Sequential Output (Java version) | [Java](./src/2275/solution.java) | Naive  |
 | 2276 | Modify and delete elements in the dictionary |  | Naive  |
 | 2277 | Calculate the sum of all values in the dictionary |  | Naive  |
 | 2278 | Access to student information |  | Naive  |
 | 2279 | Reverse Integer Order (Python version) |  | Naive  |
 | 2281 | Merge dictionary |  | Naive  |
 | 2282 | Circular Perimeter (Python version) |  | Naive  |
-| 2283 | Circular Perimeter (Java version) |  | Naive  |
+| 2283 | Circular Perimeter (Java version) | [Java](./src/2283/solution.java) | Naive  |
 | 2284 | Judge The Multiple Of 3 And 5 (Python version) |  | Naive  |
 | 2286 | Find the greatest common divisor (Python version) |  | Naive  |
-| 2287 | Judge The Multiple Of 3 And 5 (Java version) |  | Naive  |
+| 2287 | Judge The Multiple Of 3 And 5 (Java version) | [Java](./src/2287/solution.java) | Naive  |
 | 2288 | ASCII Code Of The Character (Python version) |  | Naive  |
-| 2289 | ASCII Code Of The Character (Java version) |  | Naive  |
+| 2289 | ASCII Code Of The Character (Java version) | [Java](./src/2289/solution.java) | Naive  |
 | 2290 | Find the greatest common divisor (Java version) |  | Naive  |
 | 2291 | Splicing and copying of tuple |  | Naive  |
 | 2311 | Rounding a string number |  | Naive  |
