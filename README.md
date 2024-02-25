@@ -2062,23 +2062,23 @@
 | 2287 | Judge The Multiple Of 3 And 5 (Java version) | [Java](./src/2287/solution.java) | Naive  |
 | 2288 | ASCII Code Of The Character (Python version) |  | Naive  |
 | 2289 | ASCII Code Of The Character (Java version) | [Java](./src/2289/solution.java) | Naive  |
-| 2290 | Find the greatest common divisor (Java version) |  | Naive  |
+| 2290 | Find the greatest common divisor (Java version) | [Java](./src/2290/solution.java) | Naive  |
 | 2291 | Splicing and copying of tuple |  | Naive  |
 | 2311 | Rounding a string number |  | Naive  |
 | 2312 | Combine the keys and values of the dictionary into a new list |  | Easy  |
 | 2313 | Print the character represented by the Plum, Orchid and Bamboo |  | Naive  |
-| 2314 | List modification, addition and deletion of elements |  | Naive  |
+| 2314 | List modification, addition and deletion of elements | [Python](./src/2314/solution.py) | Naive  |
 | 2315 | Judge the triangle (Python version) |  | Naive  |
 | 2316 | Judgment Triangle (Java Edition) |  | Naive  |
 | 2317 | Take A Square Root (Python version) |  | Naive  |
-| 2318 | Using Anonymous Internal Classes |  | Naive  |
+| 2318 | Using Anonymous Internal Classes | [Java](./src/2318/solution.java) | Naive  |
 | 2319 | List nesting |  | Naive  |
 | 2320 | Take A Square Root (Java version) |  | Naive  |
 | 2321 | Hit rate rating (Python version) |  | Naive  |
 | 2322 | Delete the content at the specified position in the string |  | Easy  |
-| 2323 | Hit rate rating (Java version) |  | Naive  |
+| 2323 | Hit rate rating (Java version) | [Java](./src/2323/solution.java) | Naive  |
 | 2324 | Output String In Reverse Order (Python version) |  | Naive  |
-| 2325 | Output string in reverse order (Java version) |  | Naive  |
+| 2325 | Output string in reverse order (Java version) | [Java](./src/2325/solution.java) | Naive  |
 | 2326 | Determining whether an integer is a daffodil number |  | Naive  |
 | 2327 | Finding The Distance Between Two Points In Rectangular Coordinate System (Python version) |  | Naive  |
 | 2328 | Operations between sets |  | Naive  |
