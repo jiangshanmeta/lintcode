@@ -2087,14 +2087,14 @@
 | 2331 | Find the length, maximum value and minimum value of list |  | Naive  |
 | 2332 | Calculate Factorial (Python Edition) |  | Naive  |
 | 2333 | Print matrix (Python version) |  | Naive  |
-| 2334 | Calculate factorial (Java Edition) |  | Naive  |
+| 2334 | Calculate factorial (Java Edition) | [Java](./src/2334/solution.java) | Naive  |
 | 2335 | Find all the daffodils (Python version) |  | Naive  |
 | 2336 | Case conversion of letters in strings |  | Easy  |
 | 2337 | Set containment |  | Naive  |
 | 2338 | Using custom exceptions |  | Naive  |
-| 2339 | Judging Leap Year (Java version) |  | Naive  |
+| 2339 | Judging Leap Year (Java version) | [Java](./src/2339/solution.java) | Naive  |
 | 2340 | Count the number of lowercase letters (Python version) |  | Naive  |
-| 2341 | Find the number of lowercase letters (Java version) |  | Naive  |
+| 2341 | Find the number of lowercase letters (Java version) | [Java](./src/2341/solution.java) | Naive  |
 | 2342 | The sum of the main diagonal elements (Python version) |  | Naive  |
 | 2343 | Judge Whether It Is A Complete Number (Python version) |  | Naive  |
 | 2344 | Determine whether it is a perfect number (Java version) |  | Naive  |
@@ -2105,9 +2105,9 @@
 | 2349 | Count the number of different characters in a string |  | Easy  |
 | 2350 | Judging Leap Year (Python version) |  | Naive  |
 | 2351 | Splicing Two Strings (Python version) |  | Naive  |
-| 2352 | Splicing Two Strings (Java version) |  | Naive  |
+| 2352 | Splicing Two Strings (Java version) | [Java](./src/2352/solution.java) | Naive  |
 | 2353 | Generate a dictionary of perfect squares |  | Naive  |
-| 2354 | Odd sum and even sum (Java Edition) |  | Naive  |
+| 2354 | Odd sum and even sum (Java Edition) | [Java](./src/2354/solution.java) | Naive  |
 | 2355 | Odd Sum And Even Sum (Python Edition) |  | Naive  |
 | 2356 | Print nine-nine multiplication table (Python version) |  | Naive  |
 | 2357 | Exchange within an array (Python version) |  | Naive  |
