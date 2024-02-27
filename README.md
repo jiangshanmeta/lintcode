@@ -2111,22 +2111,22 @@
 | 2355 | Odd Sum And Even Sum (Python Edition) |  | Naive  |
 | 2356 | Print nine-nine multiplication table (Python version) |  | Naive  |
 | 2357 | Exchange within an array (Python version) |  | Naive  |
-| 2358 | Exporting prime numbers |  | Naive  |
-| 2359 | Print nine-nine multiplication table (Java version) |  | Naive  |
-| 2360 | Find all the daffodils (Java version) |  | Naive  |
+| 2358 | Exporting prime numbers | [Java](./src/2358/solution.java) | Naive  |
+| 2359 | Print nine-nine multiplication table (Java version) | [Java](./src/2359/solution.java) | Naive  |
+| 2360 | Find all the daffodils (Java version) | [Java](./src/2360/solution.java) | Naive  |
 | 2361 | The sum of the main diagonal elements (Java version) |  | Naive  |
 | 2362 | Count the number of elements consisting of pure numbers and pure letters from the specified list separately |  | Naive  |
 | 2363 | Split the string according to the line boundary character and find the longest line |  | Easy  |
 | 2364 | Output the nth prime number |  | Naive  |
 | 2365 | Calculate the sum of the array (Python version) |  | Naive  |
-| 2366 | Calculate the sum of the array (Java version) |  | Naive  |
+| 2366 | Calculate the sum of the array (Java version) | [Java](./src/2366/solution.java) | Naive  |
 | 2367 | Array sort (Python version) |  | Naive  |
 | 2368 | Array sort (Java version) |  | Naive  |
 | 2369 | Using the final keyword |  | Naive  |
 | 2370 | Dictionary key value swap |  | Naive  |
 | 2371 | Converts a specified temperature from Fahrenheit to Celsius |  | Naive  |
 | 2372 | break Out Of Loop (Python version) |  | Naive  |
-| 2373 | break out of the loop (Java version) |  | Naive  |
+| 2373 | break out of the loop (Java version) | [Java](./src/2373/solution.java) | Naive  |
 | 2374 | Bug fix for final keyword |  | Naive  |
 | 2375 | Judge the power of two(Java Edition) |  | Naive  |
 | 2376 | Determine the number of echoes |  | Naive  |
