@@ -2079,17 +2079,17 @@
 | 2323 | Hit rate rating (Java version) | [Java](./src/2323/solution.java) | Naive  |
 | 2324 | Output String In Reverse Order (Python version) |  | Naive  |
 | 2325 | Output string in reverse order (Java version) | [Java](./src/2325/solution.java) | Naive  |
-| 2326 | Determining whether an integer is a daffodil number |  | Naive  |
+| 2326 | Determining whether an integer is a daffodil number | [Java](./src/2326/solution.java) | Naive  |
 | 2327 | Finding The Distance Between Two Points In Rectangular Coordinate System (Python version) |  | Naive  |
 | 2328 | Operations between sets |  | Naive  |
-| 2329 | Finding The Distance Between Two Points In Rectangular Coordinate System (Java version) |  | Naive  |
+| 2329 | Finding The Distance Between Two Points In Rectangular Coordinate System (Java version) | [Java](./src/2329/solution.java) | Naive  |
 | 2330 | Calculate the time after x seconds |  | Naive  |
 | 2331 | Find the length, maximum value and minimum value of list |  | Naive  |
 | 2332 | Calculate Factorial (Python Edition) |  | Naive  |
 | 2333 | Print matrix (Python version) |  | Naive  |
 | 2334 | Calculate factorial (Java Edition) | [Java](./src/2334/solution.java) | Naive  |
 | 2335 | Find all the daffodils (Python version) |  | Naive  |
-| 2336 | Case conversion of letters in strings |  | Easy  |
+| 2336 | Case conversion of letters in strings | [Java](./src/2336/solution.java) | Easy  |
 | 2337 | Set containment |  | Naive  |
 | 2338 | Using custom exceptions |  | Naive  |
 | 2339 | Judging Leap Year (Java version) | [Java](./src/2339/solution.java) | Naive  |
@@ -2097,9 +2097,9 @@
 | 2341 | Find the number of lowercase letters (Java version) | [Java](./src/2341/solution.java) | Naive  |
 | 2342 | The sum of the main diagonal elements (Python version) |  | Naive  |
 | 2343 | Judge Whether It Is A Complete Number (Python version) |  | Naive  |
-| 2344 | Determine whether it is a perfect number (Java version) |  | Naive  |
+| 2344 | Determine whether it is a perfect number (Java version) | [Java](./src/2344/solution.java) | Naive  |
 | 2345 | Movement distance calculation (Python version) |  | Naive  |
-| 2346 | Movement distance calculation (Java version) |  | Naive  |
+| 2346 | Movement distance calculation (Java version) | [Java](./src/2346/solution.java) | Naive  |
 | 2347 | Use of Static Code Blocks |  | Naive  |
 | 2348 | Output Yanghui Triangle (Python version) |  | Naive  |
 | 2349 | Count the number of different characters in a string |  | Easy  |
