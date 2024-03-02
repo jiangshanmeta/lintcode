@@ -2121,15 +2121,15 @@
 | 2365 | Calculate the sum of the array (Python version) |  | Naive  |
 | 2366 | Calculate the sum of the array (Java version) | [Java](./src/2366/solution.java) | Naive  |
 | 2367 | Array sort (Python version) |  | Naive  |
-| 2368 | Array sort (Java version) |  | Naive  |
-| 2369 | Using the final keyword |  | Naive  |
+| 2368 | Array sort (Java version) | [Java](./src/2368/solution.java) | Naive  |
+| 2369 | Using the final keyword | [Java](./src/2369/solution.java) | Naive  |
 | 2370 | Dictionary key value swap |  | Naive  |
 | 2371 | Converts a specified temperature from Fahrenheit to Celsius |  | Naive  |
 | 2372 | break Out Of Loop (Python version) |  | Naive  |
 | 2373 | break out of the loop (Java version) | [Java](./src/2373/solution.java) | Naive  |
-| 2374 | Bug fix for final keyword |  | Naive  |
-| 2375 | Judge the power of two(Java Edition) |  | Naive  |
-| 2376 | Determine the number of echoes |  | Naive  |
+| 2374 | Bug fix for final keyword | [Java](./src/2374/solution.java) | Naive  |
+| 2375 | Judge the power of two(Java Edition) | [Java](./src/2375/solution.java) | Naive  |
+| 2376 | Determine the number of echoes | [Java](./src/2376/solution.java) | Naive  |
 | 2377 | Determine The Power Of 2 (Python version) |  | Naive  |
 | 2378 | final variables are immutable |  | Naive  |
 | 2379 | Connect list elements (Python version) |  | Naive  |
