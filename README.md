@@ -2069,7 +2069,7 @@
 | 2313 | Print the character represented by the Plum, Orchid and Bamboo |  | Naive  |
 | 2314 | List modification, addition and deletion of elements | [Python](./src/2314/solution.py) | Naive  |
 | 2315 | Judge the triangle (Python version) |  | Naive  |
-| 2316 | Judgment Triangle (Java Edition) |  | Naive  |
+| 2316 | Judgment Triangle (Java Edition) | [Java](./src/2316/solution.java) | Naive  |
 | 2317 | Take A Square Root (Python version) |  | Naive  |
 | 2318 | Using Anonymous Internal Classes | [Java](./src/2318/solution.java) | Naive  |
 | 2319 | List nesting |  | Naive  |
@@ -2102,7 +2102,7 @@
 | 2346 | Movement distance calculation (Java version) | [Java](./src/2346/solution.java) | Naive  |
 | 2347 | Use of Static Code Blocks |  | Naive  |
 | 2348 | Output Yanghui Triangle (Python version) |  | Naive  |
-| 2349 | Count the number of different characters in a string |  | Easy  |
+| 2349 | Count the number of different characters in a string | [Java](./src/2349/solution.java) | Easy  |
 | 2350 | Judging Leap Year (Python version) |  | Naive  |
 | 2351 | Splicing Two Strings (Python version) |  | Naive  |
 | 2352 | Splicing Two Strings (Java version) | [Java](./src/2352/solution.java) | Naive  |
@@ -2131,10 +2131,10 @@
 | 2375 | Judge the power of two(Java Edition) | [Java](./src/2375/solution.java) | Naive  |
 | 2376 | Determine the number of echoes | [Java](./src/2376/solution.java) | Naive  |
 | 2377 | Determine The Power Of 2 (Python version) |  | Naive  |
-| 2378 | final variables are immutable |  | Naive  |
+| 2378 | final variables are immutable | [Java](./src/2378/solution.java) | Naive  |
 | 2379 | Connect list elements (Python version) |  | Naive  |
-| 2380 | Create an ArrayList collection and add data |  | Naive  |
-| 2381 | Exchange in an array (Java version) |  | Naive  |
+| 2380 | Create an ArrayList collection and add data | [Java](./src/2380/solution.java) | Naive  |
+| 2381 | Exchange in an array (Java version) | [Java](./src/2381/solution.java) | Naive  |
 | 2382 | Can drink at most a few bottles of wine (Python version) |  | Naive  |
 | 2383 | Headerised strings |  | Naive  |
 | 2384 | Bug fix for static keyword |  | Naive  |
