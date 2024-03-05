@@ -2137,15 +2137,15 @@
 | 2381 | Exchange in an array (Java version) | [Java](./src/2381/solution.java) | Naive  |
 | 2382 | Can drink at most a few bottles of wine (Python version) |  | Naive  |
 | 2383 | Headerised strings |  | Naive  |
-| 2384 | Bug fix for static keyword |  | Naive  |
+| 2384 | Bug fix for static keyword | [Java](./src/2384/solution.java) | Naive  |
 | 2385 | Find a To The Power Of b (Python version) |  | Naive  |
-| 2386 | Find a To The Power Of b (Java version) |  | Naive  |
+| 2386 | Find a To The Power Of b (Java version) | [Java](./src/2386/solution.java) | Naive  |
 | 2387 | Find the most expensive item |  | Naive  |
-| 2389 | Removing duplicate numbers |  | Naive  |
+| 2389 | Removing duplicate numbers | [Java](./src/2389/solution.java) | Naive  |
 | 2390 | Complete the string determination as required |  | Naive  |
-| 2391 | Create a HashSet collection and add data |  | Naive  |
+| 2391 | Create a HashSet collection and add data | [Java](./src/2391/solution.java) | Naive  |
 | 2392 | Iterate over the key-value pairs in the print dictionary |  | Naive  |
-| 2393 | Iterating through an ArrayList collection |  | Naive  |
+| 2393 | Iterating through an ArrayList collection | [Java](./src/2393/solution.java) | Naive  |
 | 2394 | Print matrix (Java version) |  | Naive  |
 | 2395 | Count the number of occurrences of a string |  | Naive  |
 | 2396 | Generator matrix |  | Naive  |
