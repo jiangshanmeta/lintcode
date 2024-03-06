@@ -2146,24 +2146,24 @@
 | 2391 | Create a HashSet collection and add data | [Java](./src/2391/solution.java) | Naive  |
 | 2392 | Iterate over the key-value pairs in the print dictionary |  | Naive  |
 | 2393 | Iterating through an ArrayList collection | [Java](./src/2393/solution.java) | Naive  |
-| 2394 | Print matrix (Java version) |  | Naive  |
+| 2394 | Print matrix (Java version) | [Java](./src/2394/solution.java) | Naive  |
 | 2395 | Count the number of occurrences of a string |  | Naive  |
 | 2396 | Generator matrix |  | Naive  |
 | 2397 | List comprehension |  | Naive  |
-| 2398 | Output integers in reverse order (Java version) |  | Naive  |
+| 2398 | Output integers in reverse order (Java version) | [Java](./src/2398/solution.java) | Naive  |
 | 2399 | List merge and sort (two) |  | Naive  |
 | 2400 | Create a HashMap set and add data |  | Naive  |
 | 2401 | Letter transformation (Python version) |  | Naive  |
-| 2402 | Letter Transformation (Java Edition) |  | Naive  |
+| 2402 | Letter Transformation (Java Edition) | [Java](./src/2402/solution.java) | Naive  |
 | 2403 | Outputs the Key and Value of all data in the HashMap collection |  | Naive  |
-| 2404 | Removing duplicate elements and sorting |  | Naive  |
+| 2404 | Removing duplicate elements and sorting | [Java](./src/2404/solution.java) | Naive  |
 | 2405 | String replacement |  | Naive  |
 | 2406 | String de-duplication and order assurance |  | Naive  |
 | 2407 | Calculate the value of a + aa + aaa + aaaa |  | Naive  |
 | 2408 | String character sorting |  | Naive  |
 | 2409 | Create a dictionary with the specified sequence and values |  | Naive  |
 | 2410 | Delete the last key-value pair of the dictionary |  | Naive  |
-| 2411 | Print the number of days contained in each month |  | Naive  |
+| 2411 | Print the number of days contained in each month | [Java](./src/2411/solution.java) | Naive  |
 | 2412 | continue To Continue The Loop (Python version) |  | Naive  |
 | 2413 | continue To Continue The Loop (Java version) |  | Naive  |
 | 2414 | Print prime numbers (Python version) |  | Naive  |
