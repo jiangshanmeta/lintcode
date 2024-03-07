@@ -2114,7 +2114,7 @@
 | 2358 | Exporting prime numbers | [Java](./src/2358/solution.java) | Naive  |
 | 2359 | Print nine-nine multiplication table (Java version) | [Java](./src/2359/solution.java) | Naive  |
 | 2360 | Find all the daffodils (Java version) | [Java](./src/2360/solution.java) | Naive  |
-| 2361 | The sum of the main diagonal elements (Java version) |  | Naive  |
+| 2361 | The sum of the main diagonal elements (Java version) | [Java](./src/2361/solution.java) | Naive  |
 | 2362 | Count the number of elements consisting of pure numbers and pure letters from the specified list separately |  | Naive  |
 | 2363 | Split the string according to the line boundary character and find the longest line |  | Easy  |
 | 2364 | Output the nth prime number |  | Naive  |
@@ -2160,16 +2160,16 @@
 | 2405 | String replacement |  | Naive  |
 | 2406 | String de-duplication and order assurance |  | Naive  |
 | 2407 | Calculate the value of a + aa + aaa + aaaa |  | Naive  |
-| 2408 | String character sorting |  | Naive  |
+| 2408 | String character sorting | [Java](./src/2408/solution.java) | Naive  |
 | 2409 | Create a dictionary with the specified sequence and values |  | Naive  |
 | 2410 | Delete the last key-value pair of the dictionary |  | Naive  |
 | 2411 | Print the number of days contained in each month | [Java](./src/2411/solution.java) | Naive  |
 | 2412 | continue To Continue The Loop (Python version) |  | Naive  |
-| 2413 | continue To Continue The Loop (Java version) |  | Naive  |
+| 2413 | continue To Continue The Loop (Java version) | [Java](./src/2413/solution.java) | Naive  |
 | 2414 | Print prime numbers (Python version) |  | Naive  |
-| 2415 | Looking for missing numbers (Java version) |  | Naive  |
+| 2415 | Looking for missing numbers (Java version) | [Java](./src/2415/solution.java) | Naive  |
 | 2416 | N threads to achieve quick sort |  | Hard  |
-| 2417 | Count how many numbers are in the string |  | Naive  |
+| 2417 | Count how many numbers are in the string | [Java](./src/2417/solution.java) | Naive  |
 | 2418 | Bit arithmetic shift left by three bits (Python version) |  | Naive  |
 | 2419 | Output the elements of the set in reverse order |  | Naive  |
 | 2420 | Looking for missing numbers (Python version) |  | Naive  |
