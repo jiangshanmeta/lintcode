@@ -2171,12 +2171,12 @@
 | 2416 | N threads to achieve quick sort |  | Hard  |
 | 2417 | Count how many numbers are in the string | [Java](./src/2417/solution.java) | Naive  |
 | 2418 | Bit arithmetic shift left by three bits (Python version) |  | Naive  |
-| 2419 | Output the elements of the set in reverse order |  | Naive  |
+| 2419 | Output the elements of the set in reverse order | [Java](./src/2419/solution.java) | Naive  |
 | 2420 | Looking for missing numbers (Python version) |  | Naive  |
-| 2422 | Find the position index of a substring in a string |  | Naive  |
+| 2422 | Find the position index of a substring in a string | [Java](./src/2422/solution.java) | Naive  |
 | 2423 | Calls to private variables |  | Naive  |
 | 2424 | Output Yanghui Triangle (Java version) |  | Naive  |
-| 2425 | Calculate the number of folds of paper |  | Naive  |
+| 2425 | Calculate the number of folds of paper | [Java](./src/2425/solution.java) | Naive  |
 | 2426 | Print prime numbers (Java version) |  | Naive  |
 | 2427 | Implement the Tweet Model |  | Easy  |
 | 2428 | Start 2 threads to print interleavly 1-n |  | Medium  |
@@ -2249,7 +2249,7 @@
 | 2511 | Code constructor to initialize student class instance |  | Easy  |
 | 2513 | Remove Folder |  | Naive  |
 | 2514 | Copy folder |  | Naive  |
-| 2515 | The only number that exists |  | Naive  |
+| 2515 | The only number that exists | [Java](./src/2515/solution.java) | Naive  |
 | 2518 | Series Data Type Creation |  | Naive  |
 | 2519 | DataFrame Data Type Creation |  | Naive  |
 | 2520 | pandas index |  | Naive  |
@@ -2339,7 +2339,7 @@
 | 2608 | Compare the two documents |  | Naive  |
 | 2609 | Manual implementation of Logistic Regression to complete the Binary Classification Problem |  | Medium  |
 | 2610 | Implement SVM classifier based on sklearn |  | Easy  |
-| 2611 | Determine if two arrays are equal |  | Naive  |
+| 2611 | Determine if two arrays are equal | [Java](./src/2611/solution.java) | Naive  |
 | 2612 | Build a decision tree for prediction based on sklearn API |  | Easy  |
 | 2613 | Submit a document amendment |  | Naive  |
 | 2614 | Find the perimeter and area of a rectangle |  | Easy  |
