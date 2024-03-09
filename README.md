@@ -2064,7 +2064,7 @@
 | 2289 | ASCII Code Of The Character (Java version) | [Java](./src/2289/solution.java) | Naive  |
 | 2290 | Find the greatest common divisor (Java version) | [Java](./src/2290/solution.java) | Naive  |
 | 2291 | Splicing and copying of tuple |  | Naive  |
-| 2311 | Rounding a string number |  | Naive  |
+| 2311 | Rounding a string number | [Java](./src/2311/solution.java) | Naive  |
 | 2312 | Combine the keys and values of the dictionary into a new list |  | Easy  |
 | 2313 | Print the character represented by the Plum, Orchid and Bamboo |  | Naive  |
 | 2314 | List modification, addition and deletion of elements | [Python](./src/2314/solution.py) | Naive  |
@@ -2075,7 +2075,7 @@
 | 2319 | List nesting |  | Naive  |
 | 2320 | Take A Square Root (Java version) | [Java](./src/2320/solution.java) | Naive  |
 | 2321 | Hit rate rating (Python version) |  | Naive  |
-| 2322 | Delete the content at the specified position in the string |  | Easy  |
+| 2322 | Delete the content at the specified position in the string | [Java](./src/2322/solution.java) | Easy  |
 | 2323 | Hit rate rating (Java version) | [Java](./src/2323/solution.java) | Naive  |
 | 2324 | Output String In Reverse Order (Python version) |  | Naive  |
 | 2325 | Output string in reverse order (Java version) | [Java](./src/2325/solution.java) | Naive  |
@@ -2152,13 +2152,13 @@
 | 2397 | List comprehension |  | Naive  |
 | 2398 | Output integers in reverse order (Java version) | [Java](./src/2398/solution.java) | Naive  |
 | 2399 | List merge and sort (two) |  | Naive  |
-| 2400 | Create a HashMap set and add data |  | Naive  |
+| 2400 | Create a HashMap set and add data | [Java](./src/2400/solution.java) | Naive  |
 | 2401 | Letter transformation (Python version) |  | Naive  |
 | 2402 | Letter Transformation (Java Edition) | [Java](./src/2402/solution.java) | Naive  |
-| 2403 | Outputs the Key and Value of all data in the HashMap collection |  | Naive  |
+| 2403 | Outputs the Key and Value of all data in the HashMap collection | [Java](./src/2403/solution.java) | Naive  |
 | 2404 | Removing duplicate elements and sorting | [Java](./src/2404/solution.java) | Naive  |
 | 2405 | String replacement |  | Naive  |
-| 2406 | String de-duplication and order assurance |  | Naive  |
+| 2406 | String de-duplication and order assurance | [Java](./src/2406/solution.java) | Naive  |
 | 2407 | Calculate the value of a + aa + aaa + aaaa |  | Naive  |
 | 2408 | String character sorting | [Java](./src/2408/solution.java) | Naive  |
 | 2409 | Create a dictionary with the specified sequence and values |  | Naive  |
