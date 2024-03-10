@@ -2342,24 +2342,24 @@
 | 2611 | Determine if two arrays are equal | [Java](./src/2611/solution.java) | Naive  |
 | 2612 | Build a decision tree for prediction based on sklearn API |  | Easy  |
 | 2613 | Submit a document amendment |  | Naive  |
-| 2614 | Find the perimeter and area of a rectangle |  | Easy  |
+| 2614 | Find the perimeter and area of a rectangle | [Java](./src/2614/solution.java) | Easy  |
 | 2615 | Print the student's personal information |  | Easy  |
 | 2616 | Insert Kansas information into the teacher table |  | Easy  |
 | 2617 | View the current transaction isolation level of the database |  | Easy  |
-| 2618 | Convert characters in a string to ASCII code |  | Easy  |
+| 2618 | Convert characters in a string to ASCII code | [Java](./src/2618/solution.java) | Easy  |
 | 2619 | Track and submit document changes |  | Naive  |
 | 2620 | View the self-incrementing locking pattern for MySQL databases |  | Easy  |
 | 2621 | Implementing an API to Update Notification Status |  | Medium  |
 | 2622 | Print information about cows and horses |  | Easy  |
 | 2623 | Find eligible files in a directory (i) |  | Easy  |
-| 2624 | Birds eat worms |  | Naive  |
-| 2625 | Whether two strings are equal |  | Naive  |
+| 2624 | Birds eat worms | [Java](./src/2624/solution.java) | Naive  |
+| 2625 | Whether two strings are equal | [Java](./src/2625/solution.java) | Naive  |
 | 2626 | Add files to the stage |  | Naive  |
 | 2627 | Troubleshoot the current database table locks and view the table lock analysis |  | Easy  |
 | 2628 | Find eligible files in a directory (ii) |  | Easy  |
 | 2629 | Manual implementation of decision tree algorithm - complete calculation of Gini index function |  | Medium  |
 | 2630 | Find eligible files in a directory (iii) |  | Medium  |
-| 2631 | Array string conversion |  | Easy  |
+| 2631 | Array string conversion | [Java](./src/2631/solution.java) | Easy  |
 | 2632 | Intercept the string at the specified position |  | Naive  |
 | 2633 | Troubleshoot the current database row locks and view row lock analysis |  | Easy  |
 | 2634 | Defining the UserProfile model |  | Easy  |
