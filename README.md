@@ -2019,18 +2019,18 @@
 | 2232 | Print the food that cats and dogs like to eat | [Java](./src/2232/solution.java) | Easy  |
 | 2240 | Update string |  | Naive  |
 | 2241 | Get the millisecond value of the specified date |  | Easy  |
-| 2242 | Print book information |  | Easy  |
+| 2242 | Print book information | [Java](./src/2242/solution.java) | Easy  |
 | 2244 | Print work content | [Java](./src/2244/solution.java) | Naive  |
-| 2246 | Polymorphic way to call drawing methods |  | Naive  |
+| 2246 | Polymorphic way to call drawing methods | [Java](./src/2246/solution.java) | Naive  |
 | 2247 | decision odd or even |  | Naive  |
 | 2248 | Calculate the number of days of a person's birth |  | Easy  |
-| 2249 | Implement the methods of the Pig and Dog classes |  | Easy  |
+| 2249 | Implement the methods of the Pig and Dog classes | [Java](./src/2249/solution.java) | Easy  |
 | 2250 | The absolute value of an integer |  | Naive  |
-| 2251 | Print the name and number information of three objects |  | Naive  |
+| 2251 | Print the name and number information of three objects | [Java](./src/2251/solution.java) | Naive  |
 | 2252 | Judgment Results |  | Naive  |
 | 2253 | Print the characteristics of spring, summer, autumn and winter |  | Naive  |
 | 2254 | Get the length of the string after removing spaces | [Java](./src/2254/solution.java) | Naive  |
-| 2256 | Replace the contents of a string |  | Easy  |
+| 2256 | Replace the contents of a string | [Java](./src/2256/solution.java) | Easy  |
 | 2257 | Determining whether a number is prime or not |  | Naive  |
 | 2258 | Find the largest prime number backwards |  | Naive  |
 | 2259 | Calculate Sum (Java version) | [Java](./src/2259/solution.java) | Naive  |
