@@ -2042,7 +2042,7 @@
 | 2265 | Find the maximum and minimum values of the elements in a tuple |  | Naive  |
 | 2266 | Swap Two Integers (Java version) | [Java](./src/2266/solution.java) | Naive  |
 | 2267 | Find The Maximum Of Three Numbers (Python version) |  | Naive  |
-| 2268 | Get the attributes of a bull |  | Naive  |
+| 2268 | Get the attributes of a bull | [Java](./src/2268/solution.java) | Naive  |
 | 2269 | Swap Two Integers (Python version) |  | Naive  |
 | 2270 | Integer Arithmetic (Java version) | [Java](./src/2270/solution.java) | Naive  |
 | 2271 | Integer Arithmetic (Python version) |  | Naive  |
@@ -2100,7 +2100,7 @@
 | 2344 | Determine whether it is a perfect number (Java version) | [Java](./src/2344/solution.java) | Naive  |
 | 2345 | Movement distance calculation (Python version) |  | Naive  |
 | 2346 | Movement distance calculation (Java version) | [Java](./src/2346/solution.java) | Naive  |
-| 2347 | Use of Static Code Blocks |  | Naive  |
+| 2347 | Use of Static Code Blocks | [Java](./src/2347/solution.java) | Naive  |
 | 2348 | Output Yanghui Triangle (Python version) |  | Naive  |
 | 2349 | Count the number of different characters in a string | [Java](./src/2349/solution.java) | Easy  |
 | 2350 | Judging Leap Year (Python version) |  | Naive  |
@@ -2174,8 +2174,8 @@
 | 2419 | Output the elements of the set in reverse order | [Java](./src/2419/solution.java) | Naive  |
 | 2420 | Looking for missing numbers (Python version) |  | Naive  |
 | 2422 | Find the position index of a substring in a string | [Java](./src/2422/solution.java) | Naive  |
-| 2423 | Calls to private variables |  | Naive  |
-| 2424 | Output Yanghui Triangle (Java version) |  | Naive  |
+| 2423 | Calls to private variables | [Java](./src/2423/solution.java) | Naive  |
+| 2424 | Output Yanghui Triangle (Java version) | [Java](./src/2424/solution.java) | Naive  |
 | 2425 | Calculate the number of folds of paper | [Java](./src/2425/solution.java) | Naive  |
 | 2426 | Print prime numbers (Java version) |  | Naive  |
 | 2427 | Implement the Tweet Model |  | Easy  |
@@ -2343,7 +2343,7 @@
 | 2612 | Build a decision tree for prediction based on sklearn API |  | Easy  |
 | 2613 | Submit a document amendment |  | Naive  |
 | 2614 | Find the perimeter and area of a rectangle | [Java](./src/2614/solution.java) | Easy  |
-| 2615 | Print the student's personal information |  | Easy  |
+| 2615 | Print the student's personal information | [Java](./src/2615/solution.java) | Easy  |
 | 2616 | Insert Kansas information into the teacher table |  | Easy  |
 | 2617 | View the current transaction isolation level of the database |  | Easy  |
 | 2618 | Convert characters in a string to ASCII code | [Java](./src/2618/solution.java) | Easy  |
