@@ -2028,7 +2028,7 @@
 | 2250 | The absolute value of an integer |  | Naive  |
 | 2251 | Print the name and number information of three objects | [Java](./src/2251/solution.java) | Naive  |
 | 2252 | Judgment Results |  | Naive  |
-| 2253 | Print the characteristics of spring, summer, autumn and winter |  | Naive  |
+| 2253 | Print the characteristics of spring, summer, autumn and winter | [Java](./src/2253/solution.java) | Naive  |
 | 2254 | Get the length of the string after removing spaces | [Java](./src/2254/solution.java) | Naive  |
 | 2256 | Replace the contents of a string | [Java](./src/2256/solution.java) | Easy  |
 | 2257 | Determining whether a number is prime or not |  | Naive  |
@@ -2066,7 +2066,7 @@
 | 2291 | Splicing and copying of tuple |  | Naive  |
 | 2311 | Rounding a string number | [Java](./src/2311/solution.java) | Naive  |
 | 2312 | Combine the keys and values of the dictionary into a new list |  | Easy  |
-| 2313 | Print the character represented by the Plum, Orchid and Bamboo |  | Naive  |
+| 2313 | Print the character represented by the Plum, Orchid and Bamboo | [Java](./src/2313/solution.java) | Naive  |
 | 2314 | List modification, addition and deletion of elements | [Python](./src/2314/solution.py) | Naive  |
 | 2315 | Judge the triangle (Python version) |  | Naive  |
 | 2316 | Judgment Triangle (Java Edition) | [Java](./src/2316/solution.java) | Naive  |
@@ -2091,7 +2091,7 @@
 | 2335 | Find all the daffodils (Python version) |  | Naive  |
 | 2336 | Case conversion of letters in strings | [Java](./src/2336/solution.java) | Easy  |
 | 2337 | Set containment |  | Naive  |
-| 2338 | Using custom exceptions |  | Naive  |
+| 2338 | Using custom exceptions | [Java](./src/2338/solution.java) | Naive  |
 | 2339 | Judging Leap Year (Java version) | [Java](./src/2339/solution.java) | Naive  |
 | 2340 | Count the number of lowercase letters (Python version) |  | Naive  |
 | 2341 | Find the number of lowercase letters (Java version) | [Java](./src/2341/solution.java) | Naive  |
@@ -2350,7 +2350,7 @@
 | 2619 | Track and submit document changes |  | Naive  |
 | 2620 | View the self-incrementing locking pattern for MySQL databases |  | Easy  |
 | 2621 | Implementing an API to Update Notification Status |  | Medium  |
-| 2622 | Print information about cows and horses |  | Easy  |
+| 2622 | Print information about cows and horses | [Java](./src/2622/solution.java) | Easy  |
 | 2623 | Find eligible files in a directory (i) |  | Easy  |
 | 2624 | Birds eat worms | [Java](./src/2624/solution.java) | Naive  |
 | 2625 | Whether two strings are equal | [Java](./src/2625/solution.java) | Naive  |
@@ -2366,7 +2366,7 @@
 | 2635 | The use of optimistic locks and pessimistic locks (I) |  | Medium  |
 | 2642 | Get user configuration |  | Medium  |
 | 2643 | Create file link (I) |  | Naive  |
-| 2644 | Drinking milk for breakfast |  | Naive  |
+| 2644 | Drinking milk for breakfast | [Java](./src/2644/solution.java) | Naive  |
 | 2645 | Viewing the contents of a file using a different binary |  | Naive  |
 | 2646 | Implement decision tree algorithm - complete information entropy calculation function |  | Medium  |
 | 2647 | Implement the function of uploading user avatar |  | Medium  |
