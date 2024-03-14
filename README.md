@@ -2377,22 +2377,22 @@
 | 2652 | Implement friend relationship paging function |  | Medium  |
 | 2653 | Display String (i) |  | Naive  |
 | 2654 | Put a line lock on the data 'id = 3' |  | Easy  |
-| 2655 | Array replacement |  | Naive  |
+| 2655 | Array replacement | [Java](./src/2655/solution.java) | Naive  |
 | 2656 | Create file link (II) |  | Naive  |
-| 2657 | Zhang San's self-introduction |  | Naive  |
+| 2657 | Zhang San's self-introduction | [Java](./src/2657/solution.java) | Naive  |
 | 2658 | Display personalized information of users |  | Medium  |
 | 2659 | Implement the function of modifying user nickname |  | Medium  |
 | 2660 | git Branch Renaming |  | Naive  |
 | 2661 | What day of the week is this |  | Easy  |
 | 2662 | Merge files |  | Naive  |
-| 2663 | Check Pet Information |  | Naive  |
+| 2663 | Check Pet Information | [Java](./src/2663/solution.java) | Naive  |
 | 2664 | Recognizing SQL Views (I) |  | Naive  |
 | 2665 | Recognizing SQL Views (II) |  | Easy  |
 | 2666 | Ridge regression based on sklearn to predict boston house prices |  | Easy  |
 | 2667 | Plotting lines based on Matplotlib |  | Naive  |
 | 2668 | Create and switch branches |  | Naive  |
 | 2669 | Modify the last commit |  | Easy  |
-| 2670 | I am Kang Kang |  | Naive  |
+| 2670 | I am Kang Kang | [Java](./src/2670/solution.java) | Naive  |
 | 2671 | Backtrack and recommit commit |  | Easy  |
 | 2672 | Image reading and saving based on Matplotlib |  | Easy  |
 | 2673 | Subplotting based on Matplotlib |  | Easy  |
@@ -2406,7 +2406,7 @@
 | 2681 | Display String (iii) |  | Naive  |
 | 2682 | The Nth day of the year |  | Naive  |
 | 2683 | Zhang San's MySQL Learning Path (I) |  | Hard  |
-| 2684 | Making a cup of coffee |  | Easy  |
+| 2684 | Making a cup of coffee | [Java](./src/2684/solution.java) | Easy  |
 | 2685 | Zhang San's MySQL Learning Path (II) |  | Hard  |
 | 2686 | Bar plotting based on Matplotlib |  | Easy  |
 | 2687 | Scatter plotting based on Matplotlib |  | Easy  |
