@@ -2411,16 +2411,16 @@
 | 2686 | Bar plotting based on Matplotlib |  | Easy  |
 | 2687 | Scatter plotting based on Matplotlib |  | Easy  |
 | 2689 | Redefining the teachers view |  | Easy  |
-| 2690 | Exception Capture I |  | Naive  |
+| 2690 | Exception Capture I | [Java](./src/2690/solution.java) | Naive  |
 | 2691 | View file details |  | Naive  |
 | 2692 | Count the total number of students taught by each faculty member |  | Easy  |
 | 2693 | File creation preset permissions |  | Naive  |
-| 2694 | Print the upper and lower case alphabet |  | Naive  |
+| 2694 | Print the upper and lower case alphabet | [Java](./src/2694/solution.java) | Naive  |
 | 2695 | Retrieves the specified items of a document by different delimiters |  | Naive  |
 | 2696 | Cache and restore across branches |  | Naive  |
 | 2697 | Find a compliant document (i) |  | Naive  |
 | 2698 | Find a compliant document (ii) |  | Naive  |
-| 2699 | Exception Capture II |  | Naive  |
+| 2699 | Exception Capture II | [Java](./src/2699/solution.java) | Naive  |
 | 2700 | Update Linghu Chong's age by view |  | Easy  |
 | 2701 | Remove documents |  | Easy  |
 | 2702 | Delete Linghu Chong's teacher data by view |  | Easy  |
@@ -2478,7 +2478,7 @@
 | 2756 | View itinerary |  | Naive  |
 | 2757 | Setting up the shell |  | Naive  |
 | 2758 | Input and output redirection |  | Naive  |
-| 2759 | The range of Integer values |  | Easy  |
+| 2759 | The range of Integer values | [Java](./src/2759/solution.java) | Easy  |
 | 2760 | Understanding SQL Procedures (I) |  | Easy  |
 | 2761 | Understanding SQL Procedures (II) |  | Easy  |
 | 2793 | Execute the command in the variable |  | Naive  |
@@ -2501,7 +2501,7 @@
 | 2810 | MySQL Stored Procedure INOUT Parameters I |  | Easy  |
 | 2811 | MySQL Stored Procedure INOUT Parameters II |  | Easy  |
 | 2812 | MySQL Stored Procedure Variables I |  | Easy  |
-| 2813 | Find the sum of even numbers 1 - 100 |  | Naive  |
+| 2813 | Find the sum of even numbers 1 - 100 | [Java](./src/2813/solution.java) | Naive  |
 | 2814 | ASCII code corresponding characters (Java version) |  | Naive  |
 | 2815 | How long your savings will last |  | Naive  |
 | 2816 | Han Xin points out the troops |  | Naive  |
