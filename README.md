@@ -2502,11 +2502,11 @@
 | 2811 | MySQL Stored Procedure INOUT Parameters II |  | Easy  |
 | 2812 | MySQL Stored Procedure Variables I |  | Easy  |
 | 2813 | Find the sum of even numbers 1 - 100 | [Java](./src/2813/solution.java) | Naive  |
-| 2814 | ASCII code corresponding characters (Java version) |  | Naive  |
-| 2815 | How long your savings will last |  | Naive  |
-| 2816 | Han Xin points out the troops |  | Naive  |
-| 2817 | Interconversion of doubles and strings |  | Easy  |
-| 2818 | Find the sum of the inverse diagonals of an array |  | Easy  |
+| 2814 | ASCII code corresponding characters (Java version) | [Java](./src/2814/solution.java) | Naive  |
+| 2815 | How long your savings will last | [Java](./src/2815/solution.java) | Naive  |
+| 2816 | Han Xin points out the troops | [Java](./src/2816/solution.java) | Naive  |
+| 2817 | Interconversion of doubles and strings | [Java](./src/2817/solution.java) | Easy  |
+| 2818 | Find the sum of the inverse diagonals of an array | [Java](./src/2818/solution.java) | Easy  |
 | 2819 | Determining prime numbers |  | Easy  |
 | 2820 | Sum of small numbers |  | Easy  |
 | 2821 | The disappearing number 6 |  | Naive  |
