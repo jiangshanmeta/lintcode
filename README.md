@@ -2507,11 +2507,11 @@
 | 2816 | Han Xin points out the troops | [Java](./src/2816/solution.java) | Naive  |
 | 2817 | Interconversion of doubles and strings | [Java](./src/2817/solution.java) | Easy  |
 | 2818 | Find the sum of the inverse diagonals of an array | [Java](./src/2818/solution.java) | Easy  |
-| 2819 | Determining prime numbers |  | Easy  |
-| 2820 | Sum of small numbers |  | Easy  |
-| 2821 | The disappearing number 6 |  | Naive  |
-| 2822 | Truncate the character with subscript 5 |  | Naive  |
-| 2823 | What Triangle is this |  | Easy  |
+| 2819 | Determining prime numbers | [Java](./src/2819/solution.java) | Easy  |
+| 2820 | Sum of small numbers | [Java](./src/2820/solution.java) | Easy  |
+| 2821 | The disappearing number 6 | [Java](./src/2821/solution.java) | Naive  |
+| 2822 | Truncate the character with subscript 5 | [Java](./src/2822/solution.java) | Naive  |
+| 2823 | What Triangle is this | [Java](./src/2823/solution.java) | Easy  |
 | 2824 | Encrypted love letters |  | Easy  |
 | 2825 | Determine if strings are equal |  | Naive  |
 | 2826 | Friends of Number 2 |  | Easy  |
