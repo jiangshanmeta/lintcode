@@ -2512,11 +2512,11 @@
 | 2821 | The disappearing number 6 | [Java](./src/2821/solution.java) | Naive  |
 | 2822 | Truncate the character with subscript 5 | [Java](./src/2822/solution.java) | Naive  |
 | 2823 | What Triangle is this | [Java](./src/2823/solution.java) | Easy  |
-| 2824 | Encrypted love letters |  | Easy  |
-| 2825 | Determine if strings are equal |  | Naive  |
-| 2826 | Friends of Number 2 |  | Easy  |
-| 2827 | Change string |  | Naive  |
-| 2828 | Splice strings and change to uppercase |  | Naive  |
+| 2824 | Encrypted love letters | [Java](./src/2824/solution.java) | Easy  |
+| 2825 | Determine if strings are equal | [Java](./src/2825/solution.java) | Naive  |
+| 2826 | Friends of Number 2 | [Java](./src/2826/solution.java) | Easy  |
+| 2827 | Change string | [Java](./src/2827/solution.java) | Naive  |
+| 2828 | Splice strings and change to uppercase | [Java](./src/2828/solution.java) | Naive  |
 | 2829 | Simple cell phone number verification |  | Naive  |
 | 2830 | Disappearing strings |  | Naive  |
 | 2831 | Inverted strings |  | Naive  |
