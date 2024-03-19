@@ -2517,11 +2517,11 @@
 | 2826 | Friends of Number 2 | [Java](./src/2826/solution.java) | Easy  |
 | 2827 | Change string | [Java](./src/2827/solution.java) | Naive  |
 | 2828 | Splice strings and change to uppercase | [Java](./src/2828/solution.java) | Naive  |
-| 2829 | Simple cell phone number verification |  | Naive  |
-| 2830 | Disappearing strings |  | Naive  |
-| 2831 | Inverted strings |  | Naive  |
-| 2832 | A simple check of the mailbox format |  | Easy  |
-| 2833 | Compliant figures |  | Naive  |
+| 2829 | Simple cell phone number verification | [Java](./src/2829/solution.java) | Naive  |
+| 2830 | Disappearing strings | [Java](./src/2830/solution.java) | Naive  |
+| 2831 | Inverted strings | [Java](./src/2831/solution.java) | Naive  |
+| 2832 | A simple check of the mailbox format | [Java](./src/2832/solution.java) | Easy  |
+| 2833 | Compliant figures | [Java](./src/2833/solution.java) | Naive  |
 | 2834 | Simple string splitting |  | Easy  |
 | 2835 | Find the maximum and minimum values of two numbers |  | Naive  |
 | 2836 | Find the maximum value |  | Naive  |
