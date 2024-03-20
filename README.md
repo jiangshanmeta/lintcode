@@ -2522,11 +2522,11 @@
 | 2831 | Inverted strings | [Java](./src/2831/solution.java) | Naive  |
 | 2832 | A simple check of the mailbox format | [Java](./src/2832/solution.java) | Easy  |
 | 2833 | Compliant figures | [Java](./src/2833/solution.java) | Naive  |
-| 2834 | Simple string splitting |  | Easy  |
-| 2835 | Find the maximum and minimum values of two numbers |  | Naive  |
-| 2836 | Find the maximum value |  | Naive  |
-| 2837 | Copy the specified element |  | Naive  |
-| 2838 | Randomly generated numbers |  | Naive  |
+| 2834 | Simple string splitting | [Java](./src/2834/solution.java) | Easy  |
+| 2835 | Find the maximum and minimum values of two numbers | [Java](./src/2835/solution.java) | Naive  |
+| 2836 | Find the maximum value | [Java](./src/2836/solution.java) | Naive  |
+| 2837 | Copy the specified element | [Java](./src/2837/solution.java) | Naive  |
+| 2838 | Randomly generated numbers | [Java](./src/2838/solution.java) | Naive  |
 | 2840 | Simple string matching and replacement |  | Easy  |
 | 2841 | Please connect the charger |  | Naive  |
 | 2842 | The constructor without parameters (I) |  | Naive  |
