@@ -2527,11 +2527,11 @@
 | 2836 | Find the maximum value | [Java](./src/2836/solution.java) | Naive  |
 | 2837 | Copy the specified element | [Java](./src/2837/solution.java) | Naive  |
 | 2838 | Randomly generated numbers | [Java](./src/2838/solution.java) | Naive  |
-| 2840 | Simple string matching and replacement |  | Easy  |
-| 2841 | Please connect the charger |  | Naive  |
-| 2842 | The constructor without parameters (I) |  | Naive  |
-| 2843 | The constructor without parameters (II) |  | Naive  |
-| 2844 | Superfly |  | Naive  |
+| 2840 | Simple string matching and replacement | [Java](./src/2840/solution.java) | Easy  |
+| 2841 | Please connect the charger | [Java](./src/2841/solution.java) | Naive  |
+| 2842 | The constructor without parameters (I) | [Java](./src/2842/solution.java) | Naive  |
+| 2843 | The constructor without parameters (II) | [Java](./src/2843/solution.java) | Naive  |
+| 2844 | Superfly | [Java](./src/2844/solution.java) | Naive  |
 | 2845 | Custom Exceptions - Java |  | Naive  |
 | 2846 | Reasonable permissions |  | Easy  |
 | 2847 | Teachers giving lessons to students |  | Easy  |
