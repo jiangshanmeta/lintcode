@@ -2532,12 +2532,12 @@
 | 2842 | The constructor without parameters (I) | [Java](./src/2842/solution.java) | Naive  |
 | 2843 | The constructor without parameters (II) | [Java](./src/2843/solution.java) | Naive  |
 | 2844 | Superfly | [Java](./src/2844/solution.java) | Naive  |
-| 2845 | Custom Exceptions - Java |  | Naive  |
+| 2845 | Custom Exceptions - Java | [Java](./src/2845/solution.java) | Naive  |
 | 2846 | Reasonable permissions |  | Easy  |
-| 2847 | Teachers giving lessons to students |  | Easy  |
-| 2848 | Refining the right class |  | Naive  |
-| 2849 | Inverted arrays |  | Naive  |
-| 2850 | The constructor with parameters (I) |  | Naive  |
+| 2847 | Teachers giving lessons to students | [Java](./src/2847/solution.java) | Easy  |
+| 2848 | Refining the right class | [Java](./src/2848/solution.java) | Naive  |
+| 2849 | Inverted arrays | [Java](./src/2849/solution.java) | Naive  |
+| 2850 | The constructor with parameters (I) | [Java](./src/2850/solution.java) | Naive  |
 | 2851 | New friends at the zoo |  | Naive  |
 | 2852 | Additional properties and methods of the Student class |  | Naive  |
 | 2853 | Common singleton pattern Class |  | Easy  |
