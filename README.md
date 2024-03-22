@@ -2018,12 +2018,12 @@
 | 2231 | Implementing the area calculation method | [Java](./src/2231/solution.java) | Naive  |
 | 2232 | Print the food that cats and dogs like to eat | [Java](./src/2232/solution.java) | Easy  |
 | 2240 | Update string |  | Naive  |
-| 2241 | Get the millisecond value of the specified date |  | Easy  |
+| 2241 | Get the millisecond value of the specified date | [Java](./src/2241/solution.java) | Easy  |
 | 2242 | Print book information | [Java](./src/2242/solution.java) | Easy  |
 | 2244 | Print work content | [Java](./src/2244/solution.java) | Naive  |
 | 2246 | Polymorphic way to call drawing methods | [Java](./src/2246/solution.java) | Naive  |
 | 2247 | decision odd or even |  | Naive  |
-| 2248 | Calculate the number of days of a person's birth |  | Easy  |
+| 2248 | Calculate the number of days of a person's birth | [Java](./src/2248/solution.java) | Easy  |
 | 2249 | Implement the methods of the Pig and Dog classes | [Java](./src/2249/solution.java) | Easy  |
 | 2250 | The absolute value of an integer |  | Naive  |
 | 2251 | Print the name and number information of three objects | [Java](./src/2251/solution.java) | Naive  |
@@ -2383,7 +2383,7 @@
 | 2658 | Display personalized information of users |  | Medium  |
 | 2659 | Implement the function of modifying user nickname |  | Medium  |
 | 2660 | git Branch Renaming |  | Naive  |
-| 2661 | What day of the week is this |  | Easy  |
+| 2661 | What day of the week is this | [Java](./src/2661/solution.java) | Easy  |
 | 2662 | Merge files |  | Naive  |
 | 2663 | Check Pet Information | [Java](./src/2663/solution.java) | Naive  |
 | 2664 | Recognizing SQL Views (I) |  | Naive  |
@@ -2397,14 +2397,14 @@
 | 2672 | Image reading and saving based on Matplotlib |  | Easy  |
 | 2673 | Subplotting based on Matplotlib |  | Easy  |
 | 2674 | Creating a simple SQL View (I) |  | Medium  |
-| 2675 | Date format conversion |  | Naive  |
+| 2675 | Date format conversion | [Java](./src/2675/solution.java) | Naive  |
 | 2676 | Creating a simple SQL View (II) |  | Medium  |
 | 2677 | Advanced plot() function - Customizing the output style |  | Easy  |
 | 2678 | Split a large file into multiple small files |  | Naive  |
 | 2679 | Display String (ii) |  | Naive  |
 | 2680 | Predictive classification of iris dataset based on sklearn's stacking algorithm |  | Easy  |
 | 2681 | Display String (iii) |  | Naive  |
-| 2682 | The Nth day of the year |  | Naive  |
+| 2682 | The Nth day of the year | [Java](./src/2682/solution.java) | Naive  |
 | 2683 | Zhang San's MySQL Learning Path (I) |  | Hard  |
 | 2684 | Making a cup of coffee | [Java](./src/2684/solution.java) | Easy  |
 | 2685 | Zhang San's MySQL Learning Path (II) |  | Hard  |
