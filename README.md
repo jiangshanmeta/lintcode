@@ -2538,12 +2538,12 @@
 | 2848 | Refining the right class | [Java](./src/2848/solution.java) | Naive  |
 | 2849 | Inverted arrays | [Java](./src/2849/solution.java) | Naive  |
 | 2850 | The constructor with parameters (I) | [Java](./src/2850/solution.java) | Naive  |
-| 2851 | New friends at the zoo |  | Naive  |
-| 2852 | Additional properties and methods of the Student class |  | Naive  |
-| 2853 | Common singleton pattern Class |  | Easy  |
+| 2851 | New friends at the zoo | [Java](./src/2851/solution.java) | Naive  |
+| 2852 | Additional properties and methods of the Student class | [Java](./src/2852/solution.java) | Naive  |
+| 2853 | Common singleton pattern Class | [Java](./src/2853/solution.java) | Easy  |
 | 2854 | Custom annotations |  | Easy  |
-| 2855 | The constructor with parameters (II) |  | Easy  |
-| 2856 | Create Person abstract class |  | Easy  |
+| 2855 | The constructor with parameters (II) | [Java](./src/2855/solution.java) | Easy  |
+| 2856 | Create Person abstract class | [Java](./src/2856/solution.java) | Easy  |
 | 2857 | Abstract Factory Pattern |  | Medium  |
 | 2858 | The wheels of the car |  | Naive  |
 | 2859 | Student implement 2 interfaces |  | Naive  |
