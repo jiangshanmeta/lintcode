@@ -2545,12 +2545,12 @@
 | 2855 | The constructor with parameters (II) | [Java](./src/2855/solution.java) | Easy  |
 | 2856 | Create Person abstract class | [Java](./src/2856/solution.java) | Easy  |
 | 2857 | Abstract Factory Pattern |  | Medium  |
-| 2858 | The wheels of the car |  | Naive  |
-| 2859 | Student implement 2 interfaces |  | Naive  |
-| 2860 | Implementing the interface |  | Easy  |
+| 2858 | The wheels of the car | [Java](./src/2858/solution.java) | Naive  |
+| 2859 | Student implement 2 interfaces | [Java](./src/2859/solution.java) | Naive  |
+| 2860 | Implementing the interface | [Java](./src/2860/solution.java) | Easy  |
 | 2861 | Ride payment prompt (Interpreter Pattern) |  | Medium  |
-| 2862 | Calling internal classes |  | Naive  |
-| 2863 | Are the two people with the same name |  | Easy  |
+| 2862 | Calling internal classes | [Java](./src/2862/solution.java) | Naive  |
+| 2863 | Are the two people with the same name | [Java](./src/2863/solution.java) | Easy  |
 | 2864 | A week of rest day (I) |  | Easy  |
 | 2865 | Anonymous internal classes |  | Naive  |
 | 2866 | A week of rest day (II) |  | Easy  |
