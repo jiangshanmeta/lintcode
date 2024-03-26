@@ -2551,11 +2551,11 @@
 | 2861 | Ride payment prompt (Interpreter Pattern) |  | Medium  |
 | 2862 | Calling internal classes | [Java](./src/2862/solution.java) | Naive  |
 | 2863 | Are the two people with the same name | [Java](./src/2863/solution.java) | Easy  |
-| 2864 | A week of rest day (I) |  | Easy  |
-| 2865 | Anonymous internal classes |  | Naive  |
-| 2866 | A week of rest day (II) |  | Easy  |
-| 2867 | A week of rest day (III) |  | Easy  |
-| 2868 | All objects |  | Naive  |
+| 2864 | A week of rest day (I) | [Java](./src/2864/solution.java) | Easy  |
+| 2865 | Anonymous internal classes | [Java](./src/2865/solution.java) | Naive  |
+| 2866 | A week of rest day (II) | [Java](./src/2866/solution.java) | Easy  |
+| 2867 | A week of rest day (III) | [Java](./src/2867/solution.java) | Easy  |
+| 2868 | All objects | [Java](./src/2868/solution.java) | Naive  |
 | 2869 | Managing Books |  | Naive  |
 | 2870 | Variables of the interface |  | Naive  |
 | 2871 | Initialize class properties |  | Naive  |
