@@ -2556,11 +2556,11 @@
 | 2866 | A week of rest day (II) | [Java](./src/2866/solution.java) | Easy  |
 | 2867 | A week of rest day (III) | [Java](./src/2867/solution.java) | Easy  |
 | 2868 | All objects | [Java](./src/2868/solution.java) | Naive  |
-| 2869 | Managing Books |  | Naive  |
-| 2870 | Variables of the interface |  | Naive  |
-| 2871 | Initialize class properties |  | Naive  |
-| 2872 | static Loaded code block |  | Naive  |
-| 2873 | Check code (I) |  | Easy  |
+| 2869 | Managing Books | [Java](./src/2869/solution.java) | Naive  |
+| 2870 | Variables of the interface | [Java](./src/2870/solution.java) | Naive  |
+| 2871 | Initialize class properties | [Java](./src/2871/solution.java) | Naive  |
+| 2872 | static Loaded code block | [Java](./src/2872/solution.java) | Naive  |
+| 2873 | Check code (I) | [Java](./src/2873/solution.java) | Easy  |
 | 2874 | Local Internal Classes |  | Naive  |
 | 2875 | Program results |  | Naive  |
 | 2876 | Sum of extreme differences |  | Naive  |
