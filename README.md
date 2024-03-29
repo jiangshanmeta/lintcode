@@ -2561,11 +2561,11 @@
 | 2871 | Initialize class properties | [Java](./src/2871/solution.java) | Naive  |
 | 2872 | static Loaded code block | [Java](./src/2872/solution.java) | Naive  |
 | 2873 | Check code (I) | [Java](./src/2873/solution.java) | Easy  |
-| 2874 | Local Internal Classes |  | Naive  |
-| 2875 | Program results |  | Naive  |
-| 2876 | Sum of extreme differences |  | Naive  |
-| 2877 | Delete the smallest value in the set |  | Naive  |
-| 2878 | 3 and multiples of 3 |  | Naive  |
+| 2874 | Local Internal Classes | [Java](./src/2874/solution.java) | Naive  |
+| 2875 | Program results | [Java](./src/2875/solution.java) | Naive  |
+| 2876 | Sum of extreme differences | [Java](./src/2876/solution.java) | Naive  |
+| 2877 | Delete the smallest value in the set | [Java](./src/2877/solution.java) | Naive  |
+| 2878 | 3 and multiples of 3 | [Java](./src/2878/solution.java) | Naive  |
 | 2879 | Output all key-value pairs in a Map |  | Naive  |
 | 2880 | AddData to a Map |  | Easy  |
 | 2881 | The largest number |  | Easy  |
