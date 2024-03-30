@@ -2533,7 +2533,7 @@
 | 2843 | The constructor without parameters (II) | [Java](./src/2843/solution.java) | Naive  |
 | 2844 | Superfly | [Java](./src/2844/solution.java) | Naive  |
 | 2845 | Custom Exceptions - Java | [Java](./src/2845/solution.java) | Naive  |
-| 2846 | Reasonable permissions |  | Easy  |
+| 2846 | Reasonable permissions | [Java](./src/2846/solution.java) | Easy  |
 | 2847 | Teachers giving lessons to students | [Java](./src/2847/solution.java) | Easy  |
 | 2848 | Refining the right class | [Java](./src/2848/solution.java) | Naive  |
 | 2849 | Inverted arrays | [Java](./src/2849/solution.java) | Naive  |
@@ -2566,10 +2566,10 @@
 | 2876 | Sum of extreme differences | [Java](./src/2876/solution.java) | Naive  |
 | 2877 | Delete the smallest value in the set | [Java](./src/2877/solution.java) | Naive  |
 | 2878 | 3 and multiples of 3 | [Java](./src/2878/solution.java) | Naive  |
-| 2879 | Output all key-value pairs in a Map |  | Naive  |
-| 2880 | AddData to a Map |  | Easy  |
-| 2881 | The largest number |  | Easy  |
-| 2882 | Honor roll for final exams |  | Easy  |
+| 2879 | Output all key-value pairs in a Map | [Java](./src/2879/solution.java) | Naive  |
+| 2880 | AddData to a Map | [Java](./src/2880/solution.java) | Easy  |
+| 2881 | The largest number | [Java](./src/2881/solution.java) | Easy  |
+| 2882 | Honor roll for final exams | [Java](./src/2882/solution.java) | Easy  |
 | 2883 | A general commodity class |  | Medium  |
 | 2884 | A week of rest day (IV) |  | Easy  |
 | 2885 | Roster of classes |  | Naive  |
