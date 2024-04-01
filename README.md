@@ -2570,11 +2570,11 @@
 | 2880 | AddData to a Map | [Java](./src/2880/solution.java) | Easy  |
 | 2881 | The largest number | [Java](./src/2881/solution.java) | Easy  |
 | 2882 | Honor roll for final exams | [Java](./src/2882/solution.java) | Easy  |
-| 2883 | A general commodity class |  | Medium  |
-| 2884 | A week of rest day (IV) |  | Easy  |
-| 2885 | Roster of classes |  | Naive  |
-| 2886 | Sorting a Map |  | Naive  |
-| 2887 | Student set with double sort |  | Easy  |
+| 2883 | A general commodity class | [Java](./src/2883/solution.java) | Medium  |
+| 2884 | A week of rest day (IV) | [Java](./src/2884/solution.java) | Easy  |
+| 2885 | Roster of classes | [Java](./src/2885/solution.java) | Naive  |
+| 2886 | Sorting a Map | [Java](./src/2886/solution.java) | Naive  |
+| 2887 | Student set with double sort | [Java](./src/2887/solution.java) | Easy  |
 | 2888 | Arrays merge |  | Naive  |
 | 2889 | Summation of arrays |  | Naive  |
 | 2890 | Alphabetical order |  | Naive  |
