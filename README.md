@@ -2575,11 +2575,11 @@
 | 2885 | Roster of classes | [Java](./src/2885/solution.java) | Naive  |
 | 2886 | Sorting a Map | [Java](./src/2886/solution.java) | Naive  |
 | 2887 | Student set with double sort | [Java](./src/2887/solution.java) | Easy  |
-| 2888 | Arrays merge |  | Naive  |
-| 2889 | Summation of arrays |  | Naive  |
-| 2890 | Alphabetical order |  | Naive  |
-| 2891 | Filtering elements in a collection |  | Naive  |
-| 2892 | Accessing elements |  | Naive  |
+| 2888 | Arrays merge | [Java](./src/2888/solution.java) | Naive  |
+| 2889 | Summation of arrays | [Java](./src/2889/solution.java) | Naive  |
+| 2890 | Alphabetical order | [Java](./src/2890/solution.java) | Naive  |
+| 2891 | Filtering elements in a collection | [Java](./src/2891/solution.java) | Naive  |
+| 2892 | Accessing elements | [Java](./src/2892/solution.java) | Naive  |
 | 2893 | Arrays with duplicate numbers |  | Easy  |
 | 2894 | Order by frequency |  | Medium  |
 | 2895 | Sum of two numbers II |  | Naive  |
