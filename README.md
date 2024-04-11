@@ -2580,11 +2580,11 @@
 | 2890 | Alphabetical order | [Java](./src/2890/solution.java) | Naive  |
 | 2891 | Filtering elements in a collection | [Java](./src/2891/solution.java) | Naive  |
 | 2892 | Accessing elements | [Java](./src/2892/solution.java) | Naive  |
-| 2893 | Arrays with duplicate numbers |  | Easy  |
-| 2894 | Order by frequency |  | Medium  |
-| 2895 | Sum of two numbers II |  | Naive  |
-| 2896 | Use of generic classes |  | Naive  |
-| 2897 | Intercepting data using Queue |  | Easy  |
+| 2893 | Arrays with duplicate numbers | [Java](./src/2893/solution.java) | Easy  |
+| 2894 | Order by frequency | [Java](./src/2894/solution.java) | Medium  |
+| 2895 | Sum of two numbers II | [Java](./src/2895/solution.java) | Naive  |
+| 2896 | Use of generic classes | [Java](./src/2896/solution.java) | Naive  |
+| 2897 | Intercepting data using Queue | [Java](./src/2897/solution.java) | Easy  |
 | 2898 | Intercepting data using Stack |  | Easy  |
 | 2899 | LinkedList implementation of string reversal output |  | Naive  |
 | 2900 | LinkedList Removal of duplicate elements |  | Naive  |
