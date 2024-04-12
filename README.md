@@ -2585,11 +2585,11 @@
 | 2895 | Sum of two numbers II | [Java](./src/2895/solution.java) | Naive  |
 | 2896 | Use of generic classes | [Java](./src/2896/solution.java) | Naive  |
 | 2897 | Intercepting data using Queue | [Java](./src/2897/solution.java) | Easy  |
-| 2898 | Intercepting data using Stack |  | Easy  |
-| 2899 | LinkedList implementation of string reversal output |  | Naive  |
-| 2900 | LinkedList Removal of duplicate elements |  | Naive  |
-| 2901 | Array Copy |  | Naive  |
-| 2902 | Seating in order on the bus |  | Medium  |
+| 2898 | Intercepting data using Stack | [Java](./src/2898/solution.java) | Easy  |
+| 2899 | LinkedList implementation of string reversal output | [Java](./src/2899/solution.java) | Naive  |
+| 2900 | LinkedList Removal of duplicate elements | [Java](./src/2900/solution.java) | Naive  |
+| 2901 | Array Copy | [Java](./src/2901/solution.java) | Naive  |
+| 2902 | Seating in order on the bus | [Java](./src/2902/solution.java) | Medium  |
 | 2903 | Use of generalized arrays |  | Easy  |
 | 2904 | Use of Generic Types |  | Easy  |
 | 2905 | Upper and lower bounds for generic types |  | Naive  |
