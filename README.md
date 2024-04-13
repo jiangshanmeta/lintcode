@@ -2590,10 +2590,10 @@
 | 2900 | LinkedList Removal of duplicate elements | [Java](./src/2900/solution.java) | Naive  |
 | 2901 | Array Copy | [Java](./src/2901/solution.java) | Naive  |
 | 2902 | Seating in order on the bus | [Java](./src/2902/solution.java) | Medium  |
-| 2903 | Use of generalized arrays |  | Easy  |
-| 2904 | Use of Generic Types |  | Easy  |
-| 2905 | Upper and lower bounds for generic types |  | Naive  |
-| 2906 | Thread-safe List |  | Easy  |
+| 2903 | Use of generalized arrays | [Java](./src/2903/solution.java) | Easy  |
+| 2904 | Use of Generic Types | [Java](./src/2904/solution.java) | Easy  |
+| 2905 | Upper and lower bounds for generic types | [Java](./src/2905/solution.java) | Naive  |
+| 2906 | Thread-safe List | [Java](./src/2906/solution.java) | Easy  |
 | 2907 | A week of rest day (V) |  | Medium  |
 | 2908 | Replace Kth string |  | Naive  |
 | 2909 | Reverse String in K-Group |  | Easy  |
@@ -2859,7 +2859,7 @@
 | 3231 | Define The Student Model II |  | Naive  |
 | 3232 | Implement Class application Model |  | Naive  |
 | 3239 | Update the table contents and output the updated table |  | Naive  |
-| 3240 | Count the number of Letters of each type |  | Easy  |
+| 3240 | Count the number of Letters of each type | [Java](./src/3240/solution.java) | Easy  |
 | 3241 | Query the number of students for the web course |  | Naive  |
 | 3242 | Print "LintCode" |  | Naive  |
 | 3243 | Equivalent String |  | Easy  |
