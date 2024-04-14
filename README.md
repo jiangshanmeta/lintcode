@@ -2861,7 +2861,7 @@
 | 3239 | Update the table contents and output the updated table |  | Naive  |
 | 3240 | Count the number of Letters of each type | [Java](./src/3240/solution.java) | Easy  |
 | 3241 | Query the number of students for the web course |  | Naive  |
-| 3242 | Print "LintCode" |  | Naive  |
+| 3242 | Print "LintCode" | [Java](./src/3242/solution.java) | Naive  |
 | 3243 | Equivalent String |  | Easy  |
 | 3244 | Implement Band application Model |  | Easy  |
 | 3247 | Design Time Class |  | Naive  |
@@ -2896,7 +2896,7 @@
 | 3365 | Rewrite the model save() method |  | Easy  |
 | 3366 | Implement Restaurant application Model |  | Easy  |
 | 3367 | Create Model - Custom Manager |  | Easy  |
-| 3368 | Sorting String With Lambda Expression |  | Easy  |
+| 3368 | Sorting String With Lambda Expression | [Java](./src/3368/solution.java) | Easy  |
 | 3369 | Create Model - Add Model Method |  | Easy  |
 | 3370 | Create a User Object |  | Naive  |
 | 3371 | Modify all book information |  | Easy  |
@@ -2992,7 +2992,7 @@
 | 3477 | 1 Producer and 1 Consumer |  | Easy  |
 | 3478 | Create a Thread Pool to Perform a Specified Amount of Tasks |  | Easy  |
 | 3479 | Shutdown the Thread Pool |  | Naive  |
-| 3480 | Complete Array |  | Easy  |
+| 3480 | Complete Array | [Python](./src/3480/solution.py) | Easy  |
 | 3481 | Find the Index of the Maximum Value |  | Easy  |
 | 3482 | The Only Thread-safe Call |  | Naive  |
 | 3483 | Create an Asynchronous Task |  | Naive  |
@@ -3112,8 +3112,8 @@
 | 3598 | Sum of Two Linked Lists | [TypeScript](./src/3598/solution.ts) | Easy  |
 | 3599 | Remove Repeated Letters |  | Medium  |
 | 3600 | Fix Binary Search Tree |  | Medium  |
-| 3601 | Cumulative Number |  | Medium  |
-| 3602 | The Largest Sum Divisible by Three |  | Medium  |
+| 3601 | Cumulative Number | [TypeScript](./src/3601/solution.ts) | Medium  |
+| 3602 | The Largest Sum Divisible by Three | [TypeScript](./src/3602/solution.ts) | Medium  |
 | 3603 | Longest Nice Subarray |  | Medium  |
 | 3604 | The Minimum String After Swapping |  | Medium  |
 | 3605 | Shift 2D Grid |  | Easy  |
