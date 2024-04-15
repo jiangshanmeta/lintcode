@@ -3140,14 +3140,14 @@
 | 3626 | How Many Apples Can You Put into the Basket | [TypeScript](./src/3626/solution.ts) | Easy  |
 | 3627 | Find All The Lonely Nodes | [TypeScript](./src/3627/solution.ts) | Easy  |
 | 3628 | Highest Five Subject Average | [TypeScript](./src/3628/solution.ts) | Easy  |
-| 3629 | Intersection of Three Sorted Arrays |  | Easy  |
+| 3629 | Intersection of Three Sorted Arrays | [TypeScript](./src/3629/solution.ts) | Easy  |
 | 3630 | Two Sum Less Than Target | [TypeScript](./src/3630/solution.ts) | Easy  |
 | 3631 | Remove Vowels From String | [TypeScript](./src/3631/solution.ts) | Easy  |
 | 3632 | Delete n Nodes After m Nodes of a Linked List | [TypeScript](./src/3632/solution.ts) | Easy  |
 | 3633 | Missing Number In Arithmetic Progression | [TypeScript](./src/3633/solution.ts) | Easy  |
 | 3634 | Largest Unique Number | [TypeScript](./src/3634/solution.ts) | Easy  |
 | 3635 | Largest Subarray Length k | [TypeScript](./src/3635/solution.ts) | Easy  |
-| 3636 | Array Transformation |  | Easy  |
+| 3636 | Array Transformation | [TypeScript](./src/3636/solution.ts) | Easy  |
 | 3637 | Problematic Sensor |  | Easy  |
 | 3638 | Single-Row Keyboard | [TypeScript](./src/3638/solution.ts) | Easy  |
 | 3639 | Check If a String Be Split into Value-Equal Substrings | [TypeScript](./src/3639/solution.ts) | Easy  |
@@ -3158,11 +3158,11 @@
 | 3644 | Check If a Number is Majority Element in an Array | [TypeScript](./src/3644/solution.ts) | Easy  |
 | 3645 | Perform String Shifts | [TypeScript](./src/3645/solution.ts) | Easy  |
 | 3646 | Count Houses on a Circular Street |  | Easy  |
-| 3647 | Design Compressed String Iterator |  | Easy  |
+| 3647 | Design Compressed String Iterator | [Java](./src/3647/solution.java) | Easy  |
 | 3648 | Reverse Words in a String IV |  | Medium  |
 | 3649 | Find the Sum of Two Nodes of Two BST | [TypeScript](./src/3649/solution.ts) | Medium  |
-| 3650 | Absolutely Continuous Numbers |  | Medium  |
-| 3651 | Number of Connected Components in an Undirected Graph |  | Medium  |
+| 3650 | Absolutely Continuous Numbers | [TypeScript](./src/3650/solution.ts) | Medium  |
+| 3651 | Number of Connected Components in an Undirected Graph | [TypeScript](./src/3651/solution.ts) | Medium  |
 | 3652 | Shortest Way to Form String |  | Medium  |
 | 3653 | Meeting Scheduler |  | Medium  |
 | 3654 | Toss Coins |  | Medium  |
