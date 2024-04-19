@@ -3163,17 +3163,17 @@
 | 3649 | Find the Sum of Two Nodes of Two BST | [TypeScript](./src/3649/solution.ts) | Medium  |
 | 3650 | Absolutely Continuous Numbers | [TypeScript](./src/3650/solution.ts) | Medium  |
 | 3651 | Number of Connected Components in an Undirected Graph | [TypeScript](./src/3651/solution.ts) | Medium  |
-| 3652 | Shortest Way to Form String |  | Medium  |
+| 3652 | Shortest Way to Form String | [TypeScript](./src/3652/solution.ts) | Medium  |
 | 3653 | Meeting Scheduler |  | Medium  |
 | 3654 | Toss Coins |  | Medium  |
 | 3655 | Minimize Rounding Error to Meet Target |  | Medium  |
 | 3656 | Design Snake Game |  | Medium  |
 | 3657 | All Paths Can Pass from Start to End |  | Medium  |
 | 3658 | Website Crawler |  | Medium  |
-| 3659 | Design Phone Directory |  | Easy  |
+| 3659 | Design Phone Directory | [Java](./src/3659/solution.java) | Easy  |
 | 3660 | Competition Leaderboard |  | Medium  |
 | 3661 | Missing Element in Sorted Array |  | Medium  |
-| 3662 | Design Hit Counter |  | Easy  |
+| 3662 | Design Hit Counter | [Java](./src/3662/solution.java) | Easy  |
 | 3663 | Diameter of an Undirected Tree |  | Medium  |
 | 3664 | Longest Repeating Substring |  | Medium  |
 | 3665 | Inorder Successor in BST II |  | Medium  |
@@ -3185,8 +3185,8 @@
 | 3671 | Replace the Synonyms in the Sentence |  | Medium  |
 | 3672 | Connecting Cities With Minimum Cost |  | Medium  |
 | 3673 | Parallel Courses |  | Medium  |
-| 3674 | Printing Immutable Linked List in Reverse Order |  | Medium  |
-| 3675 | Minimum Swaps to Group All 1's Together |  | Medium  |
+| 3674 | Printing Immutable Linked List in Reverse Order | [Python](./src/3674/solution.py) | Medium  |
+| 3675 | Minimum Swaps to Group All 1's Together | [TypeScript](./src/3675/solution.ts) | Medium  |
 | 3676 | Analyze User Website Visit Pattern |  | Medium  |
 | 3677 | Design File System |  | Medium  |
 | 3678 | Delete Interval |  | Medium  |
