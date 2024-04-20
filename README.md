@@ -3190,22 +3190,22 @@
 | 3676 | Analyze User Website Visit Pattern |  | Medium  |
 | 3677 | Design File System |  | Medium  |
 | 3678 | Delete Interval |  | Medium  |
-| 3679 | Shortest Distance to Target Color |  | Medium  |
-| 3680 | Before and After Puzzle |  | Medium  |
+| 3679 | Shortest Distance to Target Color | [TypeScript](./src/3679/solution.ts) | Medium  |
+| 3680 | Before and After Puzzle | [TypeScript](./src/3680/solution.ts) | Medium  |
 | 3681 | Delete Nodes of Tree |  | Medium  |
 | 3682 | Knight Shortest Path IV |  | Medium  |
 | 3683 | Columns with at Least a One on the Leftmost Side |  | Medium  |
-| 3684 | Find Smallest Common Element in All Rows |  | Medium  |
+| 3684 | Find Smallest Common Element in All Rows | [TypeScript](./src/3684/solution.ts) | Medium  |
 | 3685 | First Unique Integer |  | Medium  |
 | 3686 | Diameter of N-Ary Tree |  | Medium  |
 | 3687 | Check If an Array Is a Valid Sequence | [TypeScript](./src/3687/solution.ts) | Medium  |
 | 3688 | Strings Differ by One Character | [TypeScript](./src/3688/solution.ts) | Medium  |
 | 3689 | Put Boxes Into the Warehouse |  | Medium  |
 | 3690 | Clone Binary Tree II |  | Medium  |
-| 3691 | Dot Product of Two Sparse Vectors |  | Easy  |
+| 3691 | Dot Product of Two Sparse Vectors | [Python](./src/3691/solution.py) | Easy  |
 | 3692 | Put Boxes Into the Warehouse II |  | Medium  |
 | 3693 | Clone N-branch Tree |  | Medium  |
-| 3694 | Nonnegative Subarray |  | Easy  |
+| 3694 | Nonnegative Subarray | [TypeScript](./src/3694/solution.ts) | Easy  |
 | 3695 | Nonnegative Subarray II |  | Medium  |
 | 3696 | Inverse Subarray |  | Easy  |
 | 3697 | Find Subscripts |  | Easy  |
