@@ -3206,17 +3206,17 @@
 | 3692 | Put Boxes Into the Warehouse II |  | Medium  |
 | 3693 | Clone N-branch Tree |  | Medium  |
 | 3694 | Nonnegative Subarray | [TypeScript](./src/3694/solution.ts) | Easy  |
-| 3695 | Nonnegative Subarray II |  | Medium  |
-| 3696 | Inverse Subarray |  | Easy  |
-| 3697 | Find Subscripts |  | Easy  |
+| 3695 | Nonnegative Subarray II | [TypeScript](./src/3695/solution.ts) | Medium  |
+| 3696 | Inverse Subarray | [TypeScript](./src/3696/solution.ts) | Easy  |
+| 3697 | Find Subscripts | [TypeScript](./src/3697/solution.ts) | Easy  |
 | 3698 | The Leftmost Smaller Number | [TypeScript](./src/3698/solution.ts) | Easy  |
 | 3699 | Clear the String |  | Medium  |
-| 3701 | Find Nearest Right Node in Binary Tree |  | Medium  |
+| 3701 | Find Nearest Right Node in Binary Tree | [Python](./src/3701/solution.py) | Medium  |
 | 3702 | Maximum Sum Queries |  | Hard  |
 | 3703 | Count Number of Rectangles Containing Each Point |  | Medium  |
 | 3704 | Count Good Triplets in Array |  | Hard  |
 | 3705 | Minimum Moves to Make Array Complementary |  | Medium  |
-| 3706 | Number of Pairs That Satisfy the Condition |  | Hard  |
+| 3706 | Number of Pairs That Satisfy the Condition | [TypeScript](./src/3706/solution.ts) | Hard  |
 | 3707 | Corporate Flight Bookings | [TypeScript](./src/3707/solution.ts) | Medium  |
 | 3708 | Minimum Number of Increments on Subarrays to Form a Target Array |  | Hard  |
 | 3709 | Minimum Number of Visited Lattices in a Matrix |  | Hard  |
