@@ -3222,14 +3222,14 @@
 | 3709 | Minimum Number of Visited Lattices in a Matrix |  | Hard  |
 | 3710 | Design Most Recently Used Queue |  | Medium  |
 | 3711 | Delete the Problem Node in a Binary Tree |  | Medium  |
-| 3712 | Maximum Subarray Sum After Squaring An Element |  | Medium  |
+| 3712 | Maximum Subarray Sum After Squaring An Element | [TypeScript](./src/3712/solution.ts) | Medium  |
 | 3713 | Change the Root of a Binary Tree |  | Medium  |
 | 3714 | Buildings With an Ocean View | [TypeScript](./src/3714/solution.ts) | Easy  |
 | 3715 | Lowest Common Ancestor V |  | Medium  |
 | 3716 | Longest Perfect Palindromic Subsequence |  | Medium  |
 | 3717 | The Number of Distinct Substrings |  | Medium  |
 | 3718 | Sort Features by Popularity | [TypeScript](./src/3718/solution.ts) | Medium  |
-| 3719 | Shortest Path to Get Bubble Tea |  | Medium  |
+| 3719 | Shortest Path to Get Bubble Tea | [TypeScript](./src/3719/solution.ts) | Medium  |
 | 3720 | Count Pairs of Equal Substrings With Minimum Difference |  | Medium  |
 | 3721 | Maximum Number of Study Groups |  | Medium  |
 | 3722 | Calculate the Distance Between Two Nodes in a Binary Tree | [TypeScript](./src/3722/solution.ts) | Medium  |
@@ -3239,19 +3239,19 @@
 | 3726 | Rotting Oranges | [TypeScript](./src/3726/solution.ts) | Medium  |
 | 3727 | Shortest Path in the Maze |  | Medium  |
 | 3728 | Longest Word With All Prefixed |  | Medium  |
-| 3729 | Implement Trie II |  | Medium  |
+| 3729 | Implement Trie II | [Python](./src/3729/solution.py) | Medium  |
 | 3730 | Product of Two Run-Length Encoded Arrays | [TypeScript](./src/3730/solution.ts) | Medium  |
 | 3731 | Minimize Product Sum of Two Arrays | [TypeScript](./src/3731/solution.ts) | Medium  |
 | 3732 | Minimum Path Cost in a Maze |  | Medium  |
 | 3733 | Count Pairs in Two Arrays | [TypeScript](./src/3733/solution.ts) | Medium  |
-| 3734 | Cutting Ribbons |  | Medium  |
+| 3734 | Cutting Ribbons | [TypeScript](./src/3734/solution.ts) | Medium  |
 | 3735 | Bash Game II |  | Medium  |
 | 3736 | Kth Smallest Subarray Sum |  | Medium  |
 | 3737 | Find Maximum Values Among All Minimum Values of Subarrays |  | Medium  |
 | 3738 | Longest Common Subsequence Between Sorted Arrays |  | Medium  |
 | 3739 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
 | 3740 | Calculate the Number of Nodes Equal to Sum of Child Nodes | [TypeScript](./src/3740/solution.ts) | Medium  |
-| 3741 | Widest Pair of Indices With Equal Range Sum |  | Medium  |
+| 3741 | Widest Pair of Indices With Equal Range Sum | [TypeScript](./src/3741/solution.ts) | Medium  |
 | 3742 | Maximum Number of People Can Be Caught in a Game |  | Easy  |
 | 3743 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
 | 3744 | Calculate the Average Height of Buildings in Each Region |  | Medium  |
