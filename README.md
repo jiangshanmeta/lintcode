@@ -3252,16 +3252,16 @@
 | 3739 | Binary Searchable Numbers in an Unsorted Array |  | Medium  |
 | 3740 | Calculate the Number of Nodes Equal to Sum of Child Nodes | [TypeScript](./src/3740/solution.ts) | Medium  |
 | 3741 | Widest Pair of Indices With Equal Range Sum | [TypeScript](./src/3741/solution.ts) | Medium  |
-| 3742 | Maximum Number of People Can Be Caught in a Game |  | Easy  |
-| 3743 | Smallest Greater Multiple Made of Two Digits |  | Medium  |
+| 3742 | Maximum Number of People Can Be Caught in a Game | [TypeScript](./src/3742/solution.ts) | Easy  |
+| 3743 | Smallest Greater Multiple Made of Two Digits | [TypeScript](./src/3743/solution.ts) | Medium  |
 | 3744 | Calculate the Average Height of Buildings in Each Region |  | Medium  |
 | 3745 | Brightest Position on Street | [TypeScript](./src/3745/solution.ts) | Medium  |
-| 3746 | Count the Number of Subarrays Where 1 Appears More than 0 |  | Medium  |
+| 3746 | Count the Number of Subarrays Where 1 Appears More than 0 | [TypeScript](./src/3746/solution.ts) | Medium  |
 | 3747 | Maximum Alternating Subarray Sum |  | Medium  |
 | 3748 | Number of Spaces the Robot Can Clean |  | Medium  |
-| 3749 | Reorder Absolute Value Linked List |  | Medium  |
+| 3749 | Reorder Absolute Value Linked List | [TypeScript](./src/3749/solution.ts) | Medium  |
 | 3750 | Minimum Cost of Dividing the Sentence into Lines |  | Medium  |
-| 3751 | Number of Equal Count Substrings |  | Medium  |
+| 3751 | Number of Equal Count Substrings | [TypeScript](./src/3751/solution.ts) | Medium  |
 | 3752 | Number of Substrings That Start and End with the Same Letter |  | Easy  |
 | 3753 | Maze of Confusion |  | Medium  |
 | 3754 | Largest Even Sum of Subsequences with Length K |  | Medium  |
