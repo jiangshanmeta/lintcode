@@ -2814,11 +2814,11 @@
 | 3176 | Print the noon time point of the corresponding date |  | Naive  |
 | 3177 | Definition of functions | [PHP](./src/3177/solution.php) | Naive  |
 | 3178 | Exchange of numbers | [PHP](./src/3178/solution.php) | Naive  |
-| 3179 | Parameter Printing |  | Naive  |
-| 3180 | String flipping |  | Naive  |
-| 3181 | Anonymous functions |  | Naive  |
-| 3182 | Callback functions |  | Naive  |
-| 3183 | Ten years later |  | Naive  |
+| 3179 | Parameter Printing | [PHP](./src/3179/solution.php) | Naive  |
+| 3180 | String flipping | [PHP](./src/3180/solution.php) | Naive  |
+| 3181 | Anonymous functions | [PHP](./src/3181/solution.php) | Naive  |
+| 3182 | Callback functions | [PHP](./src/3182/solution.php) | Naive  |
+| 3183 | Ten years later | [PHP](./src/3183/solution.php) | Naive  |
 | 3184 | Date Formatting |  | Naive  |
 | 3185 | Get the timestamp of the date |  | Naive  |
 | 3186 | Definition of Class |  | Naive  |
