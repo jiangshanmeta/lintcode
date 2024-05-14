@@ -2819,11 +2819,11 @@
 | 3181 | Anonymous functions | [PHP](./src/3181/solution.php) | Naive  |
 | 3182 | Callback functions | [PHP](./src/3182/solution.php) | Naive  |
 | 3183 | Ten years later | [PHP](./src/3183/solution.php) | Naive  |
-| 3184 | Date Formatting |  | Naive  |
-| 3185 | Get the timestamp of the date |  | Naive  |
-| 3186 | Definition of Class |  | Naive  |
-| 3187 | Student Information |  | Naive  |
-| 3188 | Create constructor |  | Naive  |
+| 3184 | Date Formatting | [PHP](./src/3184/solution.php) | Naive  |
+| 3185 | Get the timestamp of the date | [PHP](./src/3185/solution.php) | Naive  |
+| 3186 | Definition of Class | [PHP](./src/3186/solution.php) | Naive  |
+| 3187 | Student Information | [PHP](./src/3187/solution.php) | Naive  |
+| 3188 | Create constructor | [PHP](./src/3188/solution.php) | Naive  |
 | 3189 | Define a subclass |  | Naive  |
 | 3190 | Save student information |  | Easy  |
 | 3191 | Definition of abstract classes |  | Naive  |
