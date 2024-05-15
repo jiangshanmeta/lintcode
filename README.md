@@ -2824,11 +2824,11 @@
 | 3186 | Definition of Class | [PHP](./src/3186/solution.php) | Naive  |
 | 3187 | Student Information | [PHP](./src/3187/solution.php) | Naive  |
 | 3188 | Create constructor | [PHP](./src/3188/solution.php) | Naive  |
-| 3189 | Define a subclass |  | Naive  |
-| 3190 | Save student information |  | Easy  |
-| 3191 | Definition of abstract classes |  | Naive  |
-| 3192 | Implementation of the interface |  | Naive  |
-| 3193 | Delete message prompt |  | Naive  |
+| 3189 | Define a subclass | [PHP](./src/3189/solution.php) | Naive  |
+| 3190 | Save student information | [PHP](./src/3190/solution.php) | Easy  |
+| 3191 | Definition of abstract classes | [PHP](./src/3191/solution.php) | Naive  |
+| 3192 | Implementation of the interface | [PHP](./src/3192/solution.php) | Naive  |
+| 3193 | Delete message prompt | [PHP](./src/3193/solution.php) | Naive  |
 | 3194 | Calling a method that does not exist |  | Naive  |
 | 3195 | Confirming the identity of the class |  | Naive  |
 | 3196 | Division operations |  | Naive  |
