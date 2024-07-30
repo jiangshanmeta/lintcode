@@ -2829,12 +2829,12 @@
 | 3191 | Definition of abstract classes | [PHP](./src/3191/solution.php) | Naive  |
 | 3192 | Implementation of the interface | [PHP](./src/3192/solution.php) | Naive  |
 | 3193 | Delete message prompt | [PHP](./src/3193/solution.php) | Naive  |
-| 3194 | Calling a method that does not exist |  | Naive  |
-| 3195 | Confirming the identity of the class |  | Naive  |
-| 3196 | Division operations |  | Naive  |
-| 3197 | Custom Exception Classes |  | Naive  |
-| 3198 | Invalid objects |  | Naive  |
-| 3199 | Customized error handling |  | Naive  |
+| 3194 | Calling a method that does not exist | [PHP](./src/3194/solution.php) | Naive  |
+| 3195 | Confirming the identity of the class | [PHP](./src/3195/solution.php) | Naive  |
+| 3196 | Division operations | [PHP](./src/3196/solution.php) | Naive  |
+| 3197 | Custom Exception Classes | [PHP](./src/3197/solution.php) | Naive  |
+| 3198 | Invalid objects | [PHP](./src/3198/solution.php) | Naive  |
+| 3199 | Customized error handling | [PHP](./src/3199/solution.php) | Naive  |
 | 3200 | Accessing arrays |  | Naive  |
 | 3201 | Accessing two-dimensional arrays |  | Naive  |
 | 3202 | Array traversal |  | Naive  |
